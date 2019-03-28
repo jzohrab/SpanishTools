@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>¡Busque!</title>
+  </head>
+  <body>
+
+    <div>
+      <p>Buscar: <input type="text" id="txtWord" autofocus></p>
+    </div>
+
+    <div style="vertical-align: top;">
+      <iframe id="images" src="about:blank" width="100%" height="300" frameborder="1" scrolling="yes"></iframe>
+    </div>
+    
+    <div style="vertical-align: top;">
+      <iframe id="dict" src="about:blank" width="40%" height="300" frameborder="1" scrolling="yes"></iframe>
+      <iframe id="sounds" src="about:blank" width="25%" height="300" frameborder="1" scrolling="yes"></iframe>
+      <div style="display: inline-block; vertical-align: top; padding: 5px;">
+	<!-- Some of the following don't work in iframe due to x-header restrictions -->
+	<p>Other:</p>
+	<ul>
+	  <li><a href="#" onclick="openWindow('https://www.spanishdict.com/translate/'); return false;">spanishdict</a></li>
+	  <li><a href="#" onclick="openWindow('http://www.linguee.com/english-spanish/search?source=spanish&query='); return false;">linguee</a></li>
+	  <li><a href="#" onclick="openWindow('https://es.wiktionary.org/wiki/'); return false;">wiktionary</a></li>
+	  <li><a href="#" onclick="openWindow('http://www.wordreference.com/es/en/translation.asp?spen='); return false;">wordreference</a></li>
+	</ul>
+      </div>
+    </div>
+
+    <script type="text/javascript">
+      function setIframe(frameid, url) {
+        document.getElementById(frameid).src = url;
+      }
+
+      function getSearchTerm() {
+        return encodeURIComponent(document.getElementById("txtWord").value);
+      }
+
+      function openWindow(baseurl) {
+        window.open(baseurl + getSearchTerm());
+      }
+
+      function searchText(e) {
+        if (e.which != 13) {
+          return;
+        }
+  
+        var q = getSearchTerm();
+        setIframe('images', "https://www.bing.com/images/search?q=" + q + "&cc=es");
+        setIframe('dict', "https://es.thefreedictionary.com/" + q);
+        setIframe('sounds', "http://www.forvo.com/word/" + q + "/#es");
+      }
+
+      document.getElementById("txtWord").onkeydown = function(e) { searchText(e) };
+    </script>
+
+  </body>
+</html>
