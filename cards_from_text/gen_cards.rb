@@ -75,7 +75,7 @@ def generate_cards(yml, settings = {})
     end
 
     # Order of the fields in my notes.
-    card = [d[:root], sentence_with_blank, sentence, pic_search_link, definition, sound_search_link]
+    card = [d[:root], sentence_with_blank, sentence, pic_search_link, definition, '', sound_search_link, '']
     card << tag if tag
     card.join(field_delimiter)
   end
