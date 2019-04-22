@@ -11,6 +11,9 @@
 #       ]
 #   }
 # ]
+
+require_relative './SentenceExtractor'
+
 class BatchLookup
 
   ########################
@@ -82,7 +85,8 @@ class BatchLookup
   # Given a paragraph, extract the sentences.
   # Para given as text, separates at "\n" or at fullstop
   def extract_sentences(p, fullstop = ".")
-    p.split(/[#{fullstop}\n]/).map { |s| "#{s}#{fullstop}" }.delete_if { |s| s == fullstop }
+    se = SentenceExtractor.new()
+    return se.extract_sentences(p, fullstop)
   end
 
   # Given a sentence, extracts array of data for one or more cards.

@@ -32,6 +32,22 @@ Delimit the unknown words with asterisks:
 Un *astuto* zorro oyó el lejano canto de un *gallo*.
 ```
 
+### 1 b.  Optional ... add '[' and ']' around sentences that should remain together in generated cards.
+
+For example, the following would generate two cards of one sentence each:
+
+```
+Un *astuto* zorro oyó un ruido.  Fue el lejano canto de un *gallo*.
+```
+
+But this will generate one card, containing both sentences grouped together:
+
+```
+[Un *astuto* zorro oyó un ruido.  Fue el lejano canto de un *gallo*.]
+```
+
+This is useful for providing more context, or more interesting text snippets.
+
 ## 2. Run `build_source.rb`
 
 This utility looks up definitions in es.thefreedictionary.com, which

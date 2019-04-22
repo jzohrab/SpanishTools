@@ -62,8 +62,9 @@ def generate_cards(yml, settings = {})
 
   card_data = yml.map do |d|
     highlight = "#{preword}#{d[:word]}#{postword}"
-    sentence = d[:sentence].dup.gsub(d[:word], highlight)
-    sentence_with_blank = d[:sentence].dup.gsub(d[:word], '_____')
+    raw_sentence = d[:sentence].gsub("\n", '<br>')
+    sentence = raw_sentence.dup.gsub(d[:word], highlight)
+    sentence_with_blank = raw_sentence.dup.gsub(d[:word], '_____')
     uri_string = URI::encode(d[:root])
     pic_search_url = "https://www.bing.com/images/search?q=#{uri_string}&cc=es"
     pic_search_link = "zzTODO replace: <a href=""#{pic_search_url}"">pic_#{uri_string}</a> ."
