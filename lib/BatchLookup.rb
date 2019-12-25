@@ -13,6 +13,7 @@
 # ]
 
 require_relative './SentenceExtractor'
+require_relative './WordExtractor'
 
 class BatchLookup
 
@@ -44,8 +45,8 @@ class BatchLookup
   private
   
   def get_words(s)
-    words = s.scan(/\*.*?\*/).uniq
-    words.map! { |s| s.gsub(/^\*/, '').gsub(/\*$/, '') }
+    we = WordExtractor.new()
+    words = we.extract_words(s)
     words
   end
 

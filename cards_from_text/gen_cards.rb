@@ -4,7 +4,7 @@
 
 require 'optparse'
 require 'yaml'
-require 'uri'
+require_relative '../lib/AnkiCardUtils'
   
 ######################################
 # Options
@@ -52,45 +52,36 @@ end
 data = YAML.load_file(input)
 
 
-# Given a yaml file created with the CardsFromTextSource util,
-# generates data.
-def generate_cards(yml, settings = {})
-  field_delimiter = settings[:field_delimiter] || "\t"
-  preword = settings[:preword] || ''
-  postword = settings[:postword] || ''
-  tag = settings[:tag]
-
-  card_data = yml.map do |d|
-    highlight = "#{preword}#{d[:word]}#{postword}"
-    raw_sentence = d[:sentence].gsub("\n", '<br>')
-    sentence = raw_sentence.dup.gsub(d[:word], highlight)
-    sentence_with_blank = raw_sentence.dup.gsub(d[:word], '_____')
-    uri_string = URI::encode(d[:root])
-    pic_search_url = "https://www.bing.com/images/search?q=#{uri_string}&cc=es"
-    pic_search_link = "zzTODO replace: <a href=""#{pic_search_url}"">pic_#{uri_string}</a> ."
-    sound_search_url = "https://forvo.com/word/#{uri_string}/#es"
-    sound_search_link = "zzTODO replace: <a href=""#{sound_search_url}"">sound_#{uri_string}</a> ."
-    definition = ''
-    if (d[:definitions].size > 0)
-      definition = d[:definitions][0]
-    end
-
-    # Order of the fields in my notes.
-    card = [d[:root], sentence_with_blank, sentence, pic_search_link, definition, '', sound_search_link, '']
-    card << tag if tag
-    card.join(field_delimiter)
-  end
-
-  card_data
-end
-
 settings = {
   :field_delimiter => "|",
   :preword => "<font color=\"#ff0000\">",
   :postword => "</font>",
-  :tag => options[:tag]
+  :tag => options[:tag],
+  :blank => '_____'
 }
 
+# Fill in extra things for anki: highlighting, blanks, etc.
+anki_data = data.map! do |d|
+  AnkiCardUtils.get_card_data(d, settings)
+end
+
+# Map to CSV data
+card_data = anki_data.map! do |d|
+  # Order of the fields in my notes.
+  card = [
+    d[:root],
+    d[:sentence_with_blank],
+    d[:sentence_with_highlight],
+    d[:picture_link],
+    d[:definition],
+    '',
+    d[:sound_link],
+    ''
+  ]
+  card << settings[:tag] if settings[:tag]
+  card.join(settings[:field_delimiter])
+end
+
 output = "#{input}.cards.txt"
-File.open(output, 'w') { |f| f.puts(generate_cards(data, settings)) }
+File.open(output, 'w') { |f| f.puts(card_data) }
 puts "Generated #{output}"
