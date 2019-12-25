@@ -23,9 +23,8 @@ class BatchLookup
   def batch_lookup(para, lkp_src, settings = {})
     fullstop = settings[:fullstop] || "."
     all_words = get_words(para)
-    # puts all_words.inspect
+
     dict = get_dictionary(all_words, lkp_src)
-    # puts dict.inspect
 
     sentences = extract_sentences(para)
     ret = []

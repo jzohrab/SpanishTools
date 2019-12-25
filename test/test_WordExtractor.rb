@@ -1,3 +1,4 @@
+# coding: utf-8
 require_relative '../lib/WordExtractor'
 require 'test/unit'
 
@@ -34,6 +35,20 @@ class Test_WordExtractor < Test::Unit::TestCase
 
   def test_asterisk_before_period_is_ok()
     assert_extracted(['word'], "One word*.  Good asterisk")
+  end
+
+  def test_can_handle_spanish_characters()
+    assert_extracted(['dirección', 'sí', 'mañana'], "La dirección*, sí*, hasta mañana*.")
+  end
+
+  # The "psicólogos" word wasn't getting found due to the encoding of the ó (there are
+  # multiple ways to encode it).  Now fixed.
+  def test_failing_case()
+    assert_extracted(['psicólogos'], "Los detectives son también un poco psicólogos*.")
+  end
+
+  def test_asterisks_before_punctuation()
+    assert_extracted(['word', 'here', 'others', 'well'], "One word*, entered here*.  And then others* as well*!")
   end
 
   def test_work_is_returned_as_is()
