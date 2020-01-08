@@ -2,12 +2,27 @@ require 'uri'
 
 class AnkiCardUtils
 
+  # Highlight the (optional) article and word in the sentence.
+  def self.get_highlighted_sentence(raw_sentence, word, article_pairs, settings)
+    highlight = raw_sentence.dup
+
+    preword = settings[:preword] || ''
+    postword = settings[:postword] || ''
+
+    full_re = "(?:(?:#{article_pairs.join('/').gsub('/', '|')}) )?#{word}"
+    # puts full_re
+    raw_sentence.scan(/\b#{full_re}\b/i).uniq.each do |cased_word|
+      # puts "\"#{cased_word}\""
+      highlight.gsub!(/\b#{cased_word}\b/, "#{preword}#{cased_word}#{postword}")
+    end
+    highlight
+  end
+
+
   # Adds data to raw hash h
   def self.get_card_data(h, settings = {})
 
     field_delimiter = settings[:field_delimiter] || "\t"
-    preword = settings[:preword] || ''
-    postword = settings[:postword] || ''
     tag = settings[:tag]
     blank = settings[:blank] || '_____'
 
@@ -16,16 +31,13 @@ class AnkiCardUtils
     word = d[:word]
     raw_sentence = d[:sentence].gsub("\n", '<br>')
 
-    highlight = raw_sentence.dup
-    raw_sentence.scan(/\b#{word}\b/i).uniq.each do |cased_word|
-      highlight.gsub!(/\b#{cased_word}\b/, "#{preword}#{cased_word}#{postword}")
-    end
-    d[:sentence_with_highlight] = highlight
+    article_pairs = ['el/la', 'los/las', 'un/una', 'unos/unas']
+
+    d[:sentence_with_highlight] = self.get_highlighted_sentence(raw_sentence, word, article_pairs, settings)
 
     sentence_with_blank = raw_sentence.dup.gsub(/\b#{word}\b/i, blank)
 
-    # Articles
-    ['el/la', 'los/las', 'un/una', 'unos/unas'].each do |a|
+    article_pairs.each do |a|
       re = /\b(#{a.gsub('/', '|')}) #{blank}/i
       sentence_with_blank.gsub!(re, "(#{a}) #{blank}")
     end

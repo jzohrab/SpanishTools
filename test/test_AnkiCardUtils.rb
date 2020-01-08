@@ -70,10 +70,10 @@ class Test_AnkiCardUtils < Test::Unit::TestCase
     ['caps ignored base case', 'word', 'WORD', '>WORD<'],
     ['highlight', 'word', 'a word is here', 'a >word< is here'],
     ['not blanked if part of another word', 'w', 'a w longw w', 'a >w< longw >w<'],
-    ['word with article', 'w', 'the el w is here', 'the el >w< is here'],
-    ['caps ignored', 'w', 'el W xx', 'el >W< xx'],
-    ['article word and period', 'w', 'el W.', 'el >W<.'],
-    ['indef article is ok', 'w', 'Una w', 'Una >w<'],
+    ['word with article', 'w', 'the el w is here', 'the >el w< is here'],
+    ['caps ignored', 'w', 'el W xx', '>el W< xx'],
+    ['article word and period', 'w', 'el W.', '>el W<.'],
+    ['indef article is ok', 'w', 'Una w', '>Una w<'],
     ['multiple cases', 'ab', 'Ab abc AB aB ab cab', '>Ab< abc >AB< >aB< >ab< cab']
   ].each do |testcase, word, sentence, expected|
     methodname = "test_highlight_#{testcase.gsub(' ', '_')}"
