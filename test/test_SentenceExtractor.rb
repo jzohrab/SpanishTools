@@ -45,4 +45,18 @@ That car.]"
     assert_equal(sentences, @se.extract_sentences(sentence))
   end
 
+  # Cloze creation usually likes longer paragraphs.  Delimiting these can be a real hassle,
+  # so allow splits at paragraphs as well, as well as grouping multiple paragraphs.
+  def test_can_split_sentences_at_paragraph_breaks()
+    fulltext = "Here is para 1.  It has multiple sentences.
+Here is para 2, with one sentence.
+[I'm grouping the next 2.  This is para 3.  Multiple sentences.
+And here is para 4.  Again multiple.]"
+    sentences = [
+      "Here is para 1.  It has multiple sentences.",
+      "Here is para 2, with one sentence.",
+      "I'm grouping the next 2.  This is para 3.  Multiple sentences.\nAnd here is para 4.  Again multiple."
+    ]
+    assert_equal(sentences, @se.extract_sentences(fulltext, "\n"))
+  end
 end

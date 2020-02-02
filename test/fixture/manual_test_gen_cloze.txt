@@ -1,0 +1,21 @@
+SAMPLE SENTENCES FOR CLOZE DELETION.
+
+Here is a sentence, but it doesn't have any delimiters.
+
+This sentence has *delimited* text.
+
+This has *two* *things|items* delimited, and "items" will be added as a hint for the clozed "things".
+
+This has *(2)one* *(2)item* and *another*.  "one" and "item" will be two separate clozes, but will have the same cloze number.
+
+[This should have two *sentences*.  They are *grouped*.  And without text.]
+
+This shouldn't be generated, as it doesn't have any delimiters.
+
+Neither should this.
+
+[This shouldn't be generated either.
+Even though they're marked as a group.]
+
+[This will have two *sentences*.
+They are *grouped*, with a return joining them.]
