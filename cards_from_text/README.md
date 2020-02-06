@@ -1,7 +1,8 @@
 A set of scripts to generate cards:
 
 * vocabulary (flashcards with sentences, definitions, images, etc.)
-* cloze (simple close cards)
+* cloze (simple cloze cards)
+* verb conjugations (flashcards with verb roots, conjugation table, etc.)
 
 # Vocabulary flashcards
 
@@ -163,7 +164,7 @@ You edit this text, adding asterisks around the text to cloze, with "hints" adde
 Un *astuto* zorro oyó *de repente|suddenly* el lejano canto de un gallo.
 ```
 
-You then run scripts generate a pipe-delimited ("|") file containing the
+You then run `gen_cloze.rb` to generate a pipe-delimited ("|") file containing the
 following fields:
 
 * the clozed sentence
@@ -202,6 +203,44 @@ Generated ../test/fixture/manual_test_gen_cloze.txt.cloze.txt
 
 
 ### 3. Import the file.
+
+Import the file into Anki, and "Allow HTML in fields".  Set up your
+Anki cards however you wish.
+
+
+# Verb conjugations
+
+Given a text file with some Spanish, e.g:
+
+*sample.txt*
+
+```
+Un astuto zorro oyó de repente el lejano canto de un gallo.
+```
+
+You edit this text, adding asterisks around the verb, with a pipe and the root form of the verb:
+
+```
+Un astuto zorro *oyó|oir* de repente el lejano canto de un gallo.
+```
+
+You then run `gen_verbs.rb` to generate a pipe-delimited ("|") file containing the
+following fields:
+
+* the original sentence
+* the sentence with a blank where you are to guess the conjugated form of the verb
+* the form of the verb in the sentence (here, "oyó")
+* the root of the verb ("oir")
+* a link to www.conjugacion.es with the verb root, so you can copy the conj. table
+* an optional tag
+
+
+See `test/fixture/manual_test_gen_verbs.txt` for a sample file.  Try it out as follows:
+
+```
+ruby gen_verbs.rb ../test/fixture/manual_test_gen_verbs.txt -t sometage -c
+```
+
 
 Import the file into Anki, and "Allow HTML in fields".  Set up your
 Anki cards however you wish.
