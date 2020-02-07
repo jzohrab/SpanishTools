@@ -34,6 +34,9 @@ class TheFreeDictionary
     root = CGI.unescapeHTML(strip_html_tags(root)) unless root.nil?
 
     definitions = body.scan(/\<div class="ds-single">.*?\<\/div\>/)
+    # puts definitions.inspect
+    definitions += body.scan(/\<div class="ds-list">.*?\<\/div\>/)
+    # puts definitions.inspect
 
     # FreeDict returns some entries as <strong> entries.  E.g.,
     # searching for "perro" returns a number of different dog types,
@@ -81,11 +84,10 @@ class TheFreeDictionary
     definition.gsub!(/\<b\>\d+\<\/b\>./, '')
     definition.gsub!(/\<span class="Syn"\>(.*?)\<\/span\>/, "(\\1)")
     definition.gsub!(' )', ')')  # Hack to fix Syn span gsub.
-
     illustration = d_ex_struct.scan(ill_re).last
 
     return {
-      :definition => strip_html_tags(definition),
+      :definition => strip_html_tags(definition).gsub(/^\d+\.\s*/, ''),
       :example => strip_html_tags(illustration)
     }
   end

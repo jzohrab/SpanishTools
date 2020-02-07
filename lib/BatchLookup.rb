@@ -20,11 +20,14 @@ class BatchLookup
   ########################
   public
 
+  def initialize()
+    @console_log = true
+  end
+  
   def batch_lookup(para, lkp_src, settings = {})
     fullstop = settings[:fullstop] || "."
-    all_words = get_words(para)
 
-    dict = get_dictionary(all_words, lkp_src)
+    dict = get_dictionary(para, lkp_src)
 
     sentences = extract_sentences(para)
     ret = []
@@ -39,20 +42,31 @@ class BatchLookup
     ret
   end
 
+  attr_accessor :console_log
 
   ########################
   private
-  
+
+  # Can force the lookup key, after a bar.  E.g.,
+  # "*me puse|ponerse*"
   def get_words(s)
     we = WordExtractor.new()
     words = we.extract_words(s)
-    words
+    words.map do |w|
+      word, root = w.split('|')
+      {
+        :word => word.strip,
+        :root => root.nil? ? word.strip : root.strip
+      }
+    end
   end
 
   # Parallelized lookup
   #
   # per https://stackoverflow.com/questions/8778732/parallel-http-requests-in-ruby
-  def get_dictionary(all_words, lkp_src)
+  def get_dictionary(para, lkp_src)
+    all_words = get_words(para)
+
     start_time = Time.now
 
     # Don't mutate the arg passed in.
@@ -68,11 +82,14 @@ class BatchLookup
 
     thread_count.times.map {
       Thread.new(word_queue, dict) do |word_queue, dict|
-        while word = mutex.synchronize { word_queue.pop }
-          definitions = lkp_src.lookup(word)
+        while word_and_root = mutex.synchronize { word_queue.pop }
+          word = word_and_root[:word]
+          root = word_and_root[:root]
+
+          definitions = lkp_src.lookup(root)
           mutex.synchronize do
             dict[word] = definitions
-            puts "  ... #{word} (#{dict.keys.size} of #{all_words.count})"
+            puts "  ... #{word} (#{dict.keys.size} of #{all_words.count})" if @console_log
           end
         end
       end
@@ -95,11 +112,14 @@ class BatchLookup
     words = get_words(s)
     return nil if words.size == 0
     output = words.map do |w|
-      d = dict[w]
+      word = w[:word]
+      root = w[:root]
+
+      d = dict[word]
       raise "missing dictionary entry for word #{w}" if d.nil?
       {
-        :word => w,
-        :sentence => s.gsub('*', '').strip,
+        :word => word,
+        :sentence => s.gsub(/\|.*?\*/, '*').gsub('*', '').strip,
         :root => d[:root],
         :definitions => d[:definitions].map { |de| de[:definition] }
       }

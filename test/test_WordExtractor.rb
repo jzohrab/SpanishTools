@@ -47,6 +47,10 @@ class Test_WordExtractor < Test::Unit::TestCase
     assert_extracted(['psicólogos'], "Los detectives son también un poco psicólogos*.")
   end
 
+  def test_word_with_bar()
+    assert_extracted(['psicólogos|forceroot'], "Los detectives son también un poco psicólogos|forceroot*.")
+  end
+
   def test_asterisks_before_punctuation()
     assert_extracted(['word', 'here', 'others', 'well'], "One word*, entered here*.  And then others* as well*!")
   end
@@ -57,6 +61,10 @@ class Test_WordExtractor < Test::Unit::TestCase
 
   def test_phrase_delimited_by_asterisks()
     assert_extracted(['phrase with'], "one *phrase with* asterisks")
+  end
+
+  def test_phrase_delimited_by_asterisks_with_roots()
+    assert_extracted(['phrase with|forceroot'], "one *phrase with|forceroot* asterisks")
   end
 
   def test_phrase_and_words()

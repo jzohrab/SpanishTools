@@ -61,6 +61,15 @@ But this will generate one card, containing both sentences grouped together:
 
 This is useful for providing more context, or more interesting text snippets.
 
+#### 1 c.  Optional: add '|' after the word, and the root form, to force lookup to work.
+
+Some things can't be looked up easily (for example, "me caigo") ... If
+you know the root form, you can specify it.  E.g.:
+
+```
+Yo *me caigo|caerse*.
+```
+
 ### 2. Run `build_source.rb`
 
 This utility looks up definitions in es.thefreedictionary.com, which
