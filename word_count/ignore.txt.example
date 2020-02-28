@@ -1,0 +1,12 @@
+# Ignore every word in this file that doesn't start with a hash sign (#)
+# This is case insensitive.
+
+# Common words
+por
+para
+# ... etc
+
+# Character names for books
+Bilbo
+Frodo
+Gandalf
