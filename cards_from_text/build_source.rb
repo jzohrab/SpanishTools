@@ -11,7 +11,21 @@
 require 'yaml'
 require_relative '../lib/TheFreeDictionary'
 require_relative '../lib/BatchLookup'
+require_relative '../core_5000/get_words'
 
+
+def get_yaml_string(y)
+  # Don't wrap text in yaml - makes it easier to delete lines.
+  yaml_content = y.to_yaml(options = {:line_width => -1})
+
+  # Adding some spaces between each "word" entry to break up
+  # the solid wall of text.
+  return yaml_content.gsub(/^- /, "\n\n\n- ")
+end
+
+
+#########################3
+# MAIN
 
 infile = ARGV[0]
 puts "Please specify input file" if infile.nil?
@@ -22,15 +36,15 @@ b = BatchLookup.new()
 ret = b.batch_lookup(content, TheFreeDictionary.new(), settings = {})
 # puts ret.inspect
 
-# Don't wrap text in yaml - makes it easier to delete lines.
-yaml_content = ret.to_yaml(options = {:line_width => -1})
-
-# Adding some spaces between each "word" entry to break up
-# the solid wall of text.
-yaml_content.gsub!(/^- /, "\n\n\n- ")
+sorted = ret.map do |hsh|
+  hsh[:core] = Core5000::includes(hsh[:root])
+  hsh
+end.partition { |e| e[:core] == true }.flatten
 
 outfile = "#{infile}.yaml"
-File.open(outfile, 'w') {|f| f.write yaml_content }
+File.open(outfile, 'w') do |f|
+  f.write get_yaml_string(sorted)
+end
 puts "Generated #{outfile}."
 
 # Verify that we can read the file again as YAML.

@@ -94,7 +94,7 @@ The generated sample.txt.yaml file looks like this:
   :definitions:
   - adj. Que tiene habilidad e ingenio para engañar, para evitar que le engañen, o para conseguir cualquier propósito. (sagaz, pícaro)cándido
   :index: 1 of 2
-
+  :core: true
 
 
 - :word: gallo
@@ -107,7 +107,13 @@ The generated sample.txt.yaml file looks like this:
   - Perú Orinal de cama especial para hombres.
   - zoología  ave doméstica de cresta roja y alta
   :index: 2 of 2
+  :core: false
 ```
+
+Note that "core: true" means the word is part of the core 5000 words,
+and so should be treated as higher priority.  If you want to skip
+learning low-priority words, you can delete them from the yaml file,
+or move them to a separate file for later processing.
 
 The definition for "astuto" looks good as a starting point.  There are
 multiple definitions for "gallo".  Delete all definitions that don't
@@ -121,7 +127,7 @@ seem right, and edit anything you don't like:
   :definitions:
   - adj. Que tiene habilidad e ingenio para engañar / conseguir cualquier propósito. (sagaz, pícaro)
   :index: 1 of 2
-
+  :core: true
 
 
 - :word: gallo
@@ -130,6 +136,7 @@ seem right, and edit anything you don't like:
   :definitions:
   - ave doméstica de cresta roja y alta
   :index: 2 of 2
+  :core: false
 ```
 
 ### 4. Generate the cards from the edited yaml
