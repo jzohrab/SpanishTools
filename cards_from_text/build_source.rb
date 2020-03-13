@@ -36,14 +36,17 @@ b = BatchLookup.new()
 ret = b.batch_lookup(content, TheFreeDictionary.new(), settings = {})
 # puts ret.inspect
 
-sorted = ret.map do |hsh|
+core, noncore = ret.map do |hsh|
   hsh[:core] = Core5000::includes(hsh[:root])
   hsh
-end.partition { |e| e[:core] == true }.flatten
+end.partition { |e| e[:core] == true }
+
+puts "#{core.size} core 5000 words"
+puts "#{noncore.size} non-core words"
 
 outfile = "#{infile}.yaml"
 File.open(outfile, 'w') do |f|
-  f.write get_yaml_string(sorted)
+  f.write get_yaml_string(core + noncore)
 end
 puts "Generated #{outfile}."
 
