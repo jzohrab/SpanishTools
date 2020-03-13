@@ -25,6 +25,10 @@ class SentenceExtractor
           delete_if { |s| s == terminator }.
           delete_if { |s| s == '' }
 
+    if ret.count == 0 then
+      ret = [p]
+    end
+
     return ret
 
   end

@@ -7,6 +7,11 @@ class Test_SentenceExtractor < Test::Unit::TestCase
     @se = SentenceExtractor.new()
   end
 
+  def test_allow_text_fragments_as_sentence()
+    sentence = "This has no punctuation but should still be considered a sentence"
+    assert_equal([sentence], @se.extract_sentences(sentence))
+  end
+
   def test_extracts_sentences_separated_by_fullstop()
     sentence = "I see a car.  It is blue."
     sentences = ['I see a car.', 'It is blue.']
