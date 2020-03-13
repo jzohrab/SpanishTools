@@ -26,7 +26,7 @@ class TextParser
     ret
   end
 
-  :private
+  private
 
   def get_words(s)
     we = WordExtractor.new()
