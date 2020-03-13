@@ -78,5 +78,9 @@ class Test_WordExtractor < Test::Unit::TestCase
   def test_asterisk_at_start_only_returns_nothing()
     assert_extracted([], "one *phrase with bad asterisks")
   end
-  
+
+  def test_can_get_words_from_multiple_sentences()
+    assert_extracted(['phrase', 'word'], "one *phrase* here.  And another word*.")
+  end
+
 end
