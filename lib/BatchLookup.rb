@@ -12,8 +12,7 @@
 #   }
 # ]
 
-require_relative './SentenceExtractor'
-require_relative './WordExtractor'
+require_relative './TextParser'
 
 class BatchLookup
 
@@ -27,12 +26,16 @@ class BatchLookup
   def batch_lookup(para, lkp_src, settings = {})
     fullstop = settings[:fullstop] || "."
 
-    dict = get_dictionary(para, lkp_src)
+    tp = TextParser.new()
+    data = tp.extract(para)
 
-    sentences = extract_sentences(para)
+    # Do lookups
+    words = data.map { |e| e[:words] }.flatten
+    dict = get_dictionary(words, lkp_src)
+
     ret = []
-    sentences.each do |s|
-      ret << get_card_data_for_sentences(s, dict)
+    data.each do |d|
+      ret << get_card_data_for_data(d, dict)
     end
     ret.flatten!
     ret.delete_if { |s| s.nil? }
@@ -47,25 +50,10 @@ class BatchLookup
   ########################
   private
 
-  # Can force the lookup key, after a bar.  E.g.,
-  # "*me puse|ponerse*"
-  def get_words(s)
-    we = WordExtractor.new()
-    words = we.extract_words(s)
-    words.map do |w|
-      word, root = w.split('|')
-      {
-        :word => word.strip,
-        :root => root.nil? ? word.strip : root.strip
-      }
-    end
-  end
-
   # Parallelized lookup
   #
   # per https://stackoverflow.com/questions/8778732/parallel-http-requests-in-ruby
-  def get_dictionary(para, lkp_src)
-    all_words = get_words(para)
+  def get_dictionary(all_words, lkp_src)
 
     start_time = Time.now
 
@@ -99,29 +87,21 @@ class BatchLookup
     dict
   end
 
-  # Given a paragraph, extract the sentences.
-  # Para given as text, separates at "\n" or at fullstop
-  def extract_sentences(p, fullstop = ".")
-    se = SentenceExtractor.new()
-    return se.extract_sentences(p, fullstop)
-  end
 
   # Given a sentence, extracts array of data for one or more cards.
   # Note a single sentence may have multiple delimited words.
-  def get_card_data_for_sentences(s, dict)
-    words = get_words(s)
-    return nil if words.size == 0
-    output = words.map do |w|
+  def get_card_data_for_data(d, dict)
+    output = d[:words].map do |w|
       word = w[:word]
       root = w[:root]
 
-      d = dict[word]
-      raise "missing dictionary entry for word #{w}" if d.nil?
+      lkp = dict[word]
+      raise "missing dictionary entry for word #{w}" if lkp.nil?
       {
         :word => word,
-        :sentence => s.gsub(/\|.*?\*/, '*').gsub('*', '').strip,
-        :root => d[:root],
-        :definitions => d[:definitions].map { |de| de[:definition] }
+        :sentence => d[:sentence],
+        :root => lkp[:root],
+        :definitions => lkp[:definitions].map { |de| de[:definition] }
       }
     end
     output
