@@ -70,8 +70,8 @@ card_data = anki_data.map! do |d|
   # Order of the fields in my notes.
   card = [
     d[:root],
-    d[:sentence_with_blank],
-    d[:sentence_with_highlight],
+    d[:text_with_blank],
+    d[:text_with_highlight],
     d[:picture_link],
     d[:definition],
     '',

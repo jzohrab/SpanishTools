@@ -8,15 +8,15 @@ class Test_TextParser < Test::Unit::TestCase
     @tp = TextParser.new()
   end
 
-  def assert_extracted(expected, sentence)
-    actual = @tp.extract(sentence)
+  def assert_extracted(expected, text)
+    actual = @tp.extract(text)
     assert_equal(expected, actual)
   end
   
   def test_words_with_asterisk()
     expected = [
       {
-        sentence: 'One word with asterisk',
+        text: 'One word with asterisk',
         words: [ { word: 'word', root: 'word' } ]
       }
     ]
@@ -26,7 +26,7 @@ class Test_TextParser < Test::Unit::TestCase
   def test_word_with_bar()
     expected = [
       {
-        sentence: 'Los detectives son también un poco psicólogos.',
+        text: 'Los detectives son también un poco psicólogos.',
         words: [ { word: 'psicólogos', root: 'forceroot' } ]
       }
     ]
@@ -43,26 +43,30 @@ This *is* a separate line.
 [This should have two *sentences*.
 They are *grouped|together*.  And this is included, though it doesn't have any asterisks.]
 
-This shouldn't be generated, as it doesn't have any delimiters.
+This doesn't have any delimiters.
      "
     expected = [
       {
-        sentence: "This has two things delimited.  This is included, because it's in the same paragraph.",
+        text: "This has two things delimited.  This is included, because it's in the same paragraph.",
         words: [ { word: 'two', root: 'two' }, { word: 'things', root: 'items' } ]
       },
       {
-        sentence: 'This is a separate line.',
+        text: 'This is a separate line.',
         words: [ { word: 'is', root: 'is' } ]
       },
       {
-        sentence: "This should have two sentences.\nThey are grouped.  And this is included, though it doesn't have any asterisks.",
+        text: "This should have two sentences.\nThey are grouped.  And this is included, though it doesn't have any asterisks.",
         words: [ { word: 'sentences', root: 'sentences' }, { word: 'grouped', root: 'together' } ]
+      },
+      {
+        text: "This doesn't have any delimiters.",
+        words: []
       }
     ]
     assert_extracted(expected, text)
   end
 
-  def test_sentences_dont_have_to_end_with_periods()
+  def test_texts_dont_have_to_end_with_periods()
     text = "
 here is *one* sentence
 and here is number *two*
@@ -71,15 +75,15 @@ it will be grouped with *four* ]
      "
     expected = [
       {
-        sentence: 'here is one sentence',
+        text: 'here is one sentence',
         words: [ { word: 'one', root: 'one' } ]
       },
       {
-        sentence: 'and here is number two',
+        text: 'and here is number two',
         words: [ { word: 'two', root: 'two' } ]
       },
       {
-        sentence: "number three is here\nit will be grouped with four",
+        text: "number three is here\nit will be grouped with four",
         words: [ { word: 'three', root: 'three' }, { word: 'four', root: 'four' } ]
       }
     ]

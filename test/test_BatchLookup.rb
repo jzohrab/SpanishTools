@@ -49,7 +49,7 @@ class Test_BatchLookup < Test::Unit::TestCase
     expected = [
       {
         :word => "word",
-        :sentence => "some word.",
+        :text => "some word.",
         :root => "wordroot",
         :definitions => ["defs"],
         :index=>"1 of 1"
@@ -64,7 +64,7 @@ class Test_BatchLookup < Test::Unit::TestCase
     expected = [
       {
         :word => "word",
-        :sentence => "some other word.",
+        :text => "some other word.",
         :root => "wordroot",
         :definitions => ["defs"],
         :index=>"1 of 1"
@@ -82,7 +82,7 @@ class Test_BatchLookup < Test::Unit::TestCase
     expected = [
       {
         :word => "text",
-        :sentence => "some other text.",
+        :text => "some other text.",
         :root => "wordroot",
         :definitions => ["defs"],
         :index=>"1 of 1"
@@ -97,7 +97,7 @@ class Test_BatchLookup < Test::Unit::TestCase
     expected = [
       {
         :word => "text",
-        :sentence => "some other text.",
+        :text => "some other text.",
         :root => "wordroot",
         :definitions => ["defs"],
         :index=>"1 of 1"
@@ -116,7 +116,7 @@ class Test_BatchLookup < Test::Unit::TestCase
     expected = [
       {
         :word => "MISSING_WORD",
-        :sentence => "some MISSING_WORD.",
+        :text => "some MISSING_WORD.",
         :root => nil,
         :definitions => [],
         :index=>"1 of 1"

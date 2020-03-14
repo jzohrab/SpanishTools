@@ -3,6 +3,7 @@ A set of scripts to generate cards:
 * vocabulary (flashcards with sentences, definitions, images, etc.)
 * cloze (simple cloze cards)
 * verb conjugations (flashcards with verb roots, conjugation table, etc.)
+* listening comprehension (cards with sentences created using Amazon Polly)
 
 # Vocabulary flashcards
 
@@ -24,8 +25,8 @@ You then run scripts generate a pipe-delimited ("|") file containing the
 following fields:
 
 * the word root (e.g., the root of "hablabamos" is "hablar")
-* the original sentence, with the marked word replaced with a blank
-* the original sentence, with the marked word highlighted in red
+* the original text, with the marked word replaced with a blank
+* the original text, with the marked word highlighted in red
 * an HTML link to search for a picture (this can be clicked in the
   Anki browser window)
 * a definition from es.thefreedictionary.com, which you select during
@@ -45,18 +46,22 @@ _astuto_, _de repente_, and _gallo_):
 Un astuto* zorro oyó *de repente* el lejano canto de un gallo*.
 ```
 
-#### 1 b.  Optional: add '[' and ']' around sentences that should remain together in generated cards.
+#### 1 b.  Optional: add '[' and ']' around paragrahs that should remain together in generated cards.
 
 For example, the following would generate two cards of one sentence each:
 
 ```
-Un astuto* zorro oyó un ruido.  Fue el lejano canto de un gallo*.
+Un astuto* zorro oyó un ruido.
+Fue el lejano canto de un gallo*.
 ```
 
 But this will generate one card, containing both sentences grouped together:
 
 ```
-[Un astuto* zorro oyó un ruido.  Fue el lejano canto de un gallo*.]
+[
+Un astuto* zorro oyó un ruido.
+Fue el lejano canto de un gallo*.
+]
 ```
 
 This is useful for providing more context, or more interesting text snippets.
@@ -260,3 +265,57 @@ ruby gen_verbs.rb ../test/fixture/manual_test_gen_verbs.txt -t sometage -c
 
 Import the file into Anki, and "Allow HTML in fields".  Set up your
 Anki cards however you wish.
+
+
+# Listening comprehension
+
+The "listening comp" cards use AWS's Polly service to generate mp3
+files.  You'll need some gems (see Installation below), and an AWS dev
+account, and creds stored in `~/.aws/credentials`.
+
+## Installation
+
+```
+bundle install
+```
+
+Note: the aws-sdk gem pulls in a _ton_ of dependencies.  I'm not sure
+how to limit that.  So start it running, and then go for a brisk walk
+around the block ... because it installs 229 gems!
+
+```
+Bundle complete! 1 Gemfile dependency, 229 gems now installed.
+```
+
+Copy `config.yml.example` to `config.yml`, and fill in the voices you
+want to use in `config.yml`.
+
+## Usage
+
+Create a text file with sentences that you want generated, e.g. in `texts/vocab.mp3`:
+
+```
+Conforme vayas haciendo amigos, te irás sintiendo mejor.
+Según vamos detectando errores, los vamos corrigiendo.
+No tienes por qué asustarte. No te hará daño.
+```
+
+Run the program to generate mp3 files using that text file (`-t` adds
+"testing123" as a tag):
+
+```
+ruby gen_listening.rb texts/vocab.txt -t testing123
+Generating es-ES mp3 files using speakers ["Conchita", "Lucia", "Enrique"]
+Generated texts/vocab.txt.cards.txt
+Generating sound files in /Users/jeff/Documents/Languages/Spanish/Tools/cards_from_text/audio
+  ... /Users/jeff/Documents/Languages/Spanish/Tools/cards_from_text/audio/Conforme_vayas_hacie_1_wGYc2.mp3
+  ... /Users/jeff/Documents/Languages/Spanish/Tools/cards_from_text/audio/No_tienes_por_qué_as_3_wGYc2.mp3
+  ... /Users/jeff/Documents/Languages/Spanish/Tools/cards_from_text/audio/Según_vamos_detectan_2_wGYc2.mp3
+Done
+
+Audio files generated (suffixed with random token wGYc2).
+Please close Anki, and move the files to ~/Library/Application Support/Anki2/User#/collection.media .
+Open Anki and import the output file texts/vocab.txt.cards.txt to the appropriate deck (Fields: Text, Recording, Tag).
+```
+
+Follow the instructions for the generated files to the appropriate deck and card type.

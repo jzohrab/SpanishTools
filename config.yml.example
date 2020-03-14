@@ -1,0 +1,18 @@
+# Sample:
+# Create a *copy* of this file named config.yml in this directory,
+# and fill in the entries.
+
+# AWS Polly configuration
+
+# Polly has a set of language codes, and accepted speakers for each
+# code, at https://docs.aws.amazon.com/polly/latest/dg/voicelist.html
+
+:polly:
+
+  :language_code: es-ES
+
+  # Speaker IDs 
+  :speaker_ids:
+    - Conchita
+    - Lucia
+    - Enrique

@@ -1,7 +1,7 @@
 # Extracts the words, grouped by sentences.
 
 require_relative 'WordExtractor'
-require_relative 'SentenceExtractor'
+require_relative 'ParagraphExtractor'
 
 class TextParser
 
@@ -10,19 +10,19 @@ class TextParser
   #
   # [
   #   {
-  #     sentence: 'here is one sentence',
+  #     text: 'here is one text',
   #     words: [ { word: 'one', root: 'one' } ]
   #   }, ...
   # ]
   def extract(input_string)
-    se = SentenceExtractor.new()
-    sentences = se.extract_sentences(input_string, "\n")
-    ret = sentences.map do |s|
+    pe = ParagraphExtractor.new()
+    texts = pe.extract(input_string)
+    ret = texts.map do |s|
       {
-        sentence: s.gsub(/\|.*?\*/, '').gsub('*', '').strip,
+        text: s.gsub(/\|.*?\*/, '').gsub('*', '').strip,
         words: get_words(s)
       }
-    end.delete_if { |item| item[:words].count == 0 }
+    end
     ret
   end
 

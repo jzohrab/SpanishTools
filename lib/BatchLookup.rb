@@ -3,7 +3,7 @@
 # [
 #   {
 #     :word => "the word",
-#     :context => "the full sentence containing the word",
+#     :context => "the full text containing the word",
 #     :root => "the root (uninflected) form of the word",
 #     :definitions => [
 #       { :definition => "def 1", :example => "ex 1" },
@@ -88,8 +88,8 @@ class BatchLookup
   end
 
 
-  # Given a sentence, extracts array of data for one or more cards.
-  # Note a single sentence may have multiple delimited words.
+  # Given a text, extracts array of data for one or more cards.
+  # Note a single text may have multiple delimited words.
   def get_card_data_for_data(d, dict)
     output = d[:words].map do |w|
       word = w[:word]
@@ -99,7 +99,7 @@ class BatchLookup
       raise "missing dictionary entry for word #{w}" if lkp.nil?
       {
         :word => word,
-        :sentence => d[:sentence],
+        :text => d[:text],
         :root => lkp[:root],
         :definitions => lkp[:definitions].map { |de| de[:definition] }
       }

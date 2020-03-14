@@ -1,4 +1,4 @@
-# Verb conjugation card from delimited sentence.
+# Verb conjugation card from delimited text.
 
 class VerbCardCreator
 
@@ -17,22 +17,22 @@ class VerbCardCreator
     return ret
   end
 
-  def create_cards(sentence)
+  def create_cards(text)
 
-    word_root_array = get_words_and_roots(sentence)
+    word_root_array = get_words_and_roots(text)
     # puts word_root_array.inspect
 
-    clean_sentence = sentence.gsub(/\*(.*?)\|.*?\*/) do |m|
+    clean_text = text.gsub(/\*(.*?)\|.*?\*/) do |m|
       $1
     end
-    # puts "CLEAN: #{clean_sentence}"
+    # puts "CLEAN: #{clean_text}"
 
     ret = word_root_array.map do |h|
       raise "Missing root for word #{h[:word]}" if h[:root].nil?
 
       { :root => h[:root],
-        :sentence => clean_sentence.dup.gsub(h[:word], "<b>#{h[:word]}</b>"),
-        :sentence_with_blank => clean_sentence.dup.gsub(h[:word], '___'),
+        :text => clean_text.dup.gsub(h[:word], "<b>#{h[:word]}</b>"),
+        :text_with_blank => clean_text.dup.gsub(h[:word], '___'),
         :word => h[:word],
         :conjugation_link => "https://www.conjugacion.es/del/verbo/#{h[:root]}.php"
       }

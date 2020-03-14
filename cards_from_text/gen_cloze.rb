@@ -4,7 +4,7 @@
 require 'optparse'
 require 'yaml'
 require_relative '../lib/ClozeCreator'
-require_relative '../lib/SentenceExtractor'
+require_relative '../lib/ParagraphExtractor'
   
 ######################################
 # Options
@@ -61,14 +61,14 @@ if (!File.exist?(input))
 end
 
 raw_input = File.read(input)
-se = SentenceExtractor.new()
-sentences = se.extract_sentences(raw_input, "\n")
+pe = ParagraphExtractor.new()
+paras = pe.extract(raw_input)
 
 cc = ClozeCreator.new()
-output = sentences.map do |s|
-  output_sentence = s.gsub("\n", '<br>')
-  cloze = cc.create_cloze(output_sentence, options[:prompt])
-  if (cloze == output_sentence)
+output = paras.map do |s|
+  output_para = s.gsub("\n", '<br>')
+  cloze = cc.create_cloze(output_para, options[:prompt])
+  if (cloze == output_para)
     nil
   else
     cloze

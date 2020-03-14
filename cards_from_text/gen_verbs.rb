@@ -58,12 +58,12 @@ end
 
 raw_input = File.read(input)
 
-sentences = raw_input.split("\n")
+texts = raw_input.split("\n")
 
 cc = VerbCardCreator.new()
-output = sentences.map do |s|
-  output_sentence = s.gsub("\n", '<br>')
-  cards = cc.create_cards(output_sentence)
+output = texts.map do |s|
+  output_text = s.gsub("\n", '<br>')
+  cards = cc.create_cards(output_text)
 end.compact.flatten
 # puts output.inspect
 
@@ -75,8 +75,8 @@ settings = {
 # Map to CSV data
 card_data = output.map do |s|
   card = [
-    s[:sentence],
-    s[:sentence_with_blank],
+    s[:text],
+    s[:text_with_blank],
     s[:word],
     s[:root],
     "<a href=""#{s[:conjugation_link]}"">Conjugation</a> ."
@@ -95,5 +95,5 @@ else
 end
 
 puts "Field order for import:"
-puts [:sentence, :sentence_with_blank, :word, :root, :conjugation_table_link, :tag].join("\n")
+puts [:text, :text_with_blank, :word, :root, :conjugation_table_link, :tag].join("\n")
 

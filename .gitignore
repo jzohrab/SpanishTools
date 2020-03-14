@@ -1,1 +1,10 @@
+# User-specific configuration
+config.yml
+
+# Output directories
 cards_from_text/texts/
+cards_from_text/audio/
+
+# Misc
+.DS_Store
+
