@@ -1,61 +1,65 @@
-1|el|art|the|ese hombre era el hombre que yo quería ser
-1|la|art|the|esa mujer era la mujer que yo quería ser
-2|de|prep|of, from|el hijo de un hermano mío
-3|que|conj|that, which|dice que no
-4|y|conj|and|él y ella sabían leer y escribir
-5|a|prep|to, at|se fue a la cama
-6|en|prep|in, on|no está en la casa
-7|un|art|a, an|era un hombre simpático
-8|ser|v|to be (norm)|es nuevo, es bueno
-9|se|pron|[“reflexive” marker]|la abuela se acostó tranquila
-10|no|adv|no|no hay modo de negar nada
-11|haber|v|to have (+Ved)|no ha dicho nada
-12|por|prep|by, for, through|así fue por mucho tiempo
-13|con|prep|with|hay un hombre con ella
-14|su|adj|his/her/their/your (–fam)|¿quién era? ¿Su hermana? ¿Su amiga?
-15|para|prep|for, to, in order to|¡tengo una sorpresa sensacional para ti!
-16|como|conj|like, as|ser compositor en España es como ser torero en Finlandia 
-17|estar|v|to be (location, change from norm)|él está en el trabajo
-18|tener|v|to have|estaba seguro de tener buena memoria
-19|le|pron|[3rd person] (indir obj)|nunca le dijo la verdad
-20|lo|art|the (+ n)|lo mejor es estudiar mucho
-21|lo|pron|[3rd person] (dir obj-m)|lo compré en la tienda
-22|todo|adj|all, every|todos los hombres son iguales
-23|pero|conj|but, yet, except|no significa nada para mí, pero no puedo olvidarla 
-24|más|adj|more|él necesitaba más dinero
-25|hacer|v|to do, make|he podido hacer lo que me gusta
-26|o|conj|or|sí esperaba uno o dos muertos
-27|poder|v|to be able to; can|¡se hace lo que se puede!
-28|decir|v|to tell, say|parece que dice la verdad
-29|este|adj|this (m) [esta (f)]|y entendía estas cosas muy bien
-30|ir|v|to go|me habían invitado a ir a su casa
-31|otro|adj|other, another|¿por qué no podía ser otra cosa?
-32|ese|adj|that (m) [esa (f)]|¿dónde viven esas mujeres?
-33|la|pron|[3rd person] (dir obj-f)|la puso en su bolsillo
-34|si|conj|if, whether|si quiere cazar, vamos a cazar
-35|me|pron|me (obj)|¿cuando me va a llamar?
-36|ya|adv|already, still|su marido ya ha dicho todo
-37|ver|v|to see|había que subir para ver las ruinas
-38|porque|conj|because|lo vendo sólo porque tengo un apuro muy grande
-39|dar|v|to give|me dio esta carta para Ud.
-40|cuando|conj|when|aquella es de mis nietos, cuando eran bebés
-41|él|pron|he, [ellos] them (m)|él es bastante simpático
-42|muy|adv|very, really|está muy contento con mi trabajo
-43|sin|prep|without|se habían quedado sin dinero
-44|vez|nf|time (specific occurrence)|es la primera vez que estoy junto al mar
-45|mucho|adj|much, many, a lot (adv)|por lo visto tienen mucho dinero
-46|saber|v|to know (a fact), find out|ellos lo saben y lo reconocen
-47|qué|pron|what?, which?, how (+ adj)!|no sé qué voy a hacer
-48|sobre|prep|on top of, over, about|dejó el papel sobre la mesa y se fue
-49|mi|adj|my|mi casa es su casa
-50|alguno|adj|some, someone (pron)|habló algunas palabras con el agente de negocios 
-51|mismo|adj|same|pronunciando el mismo discurso en siete idiomas 
-52|yo|pron|I (subj)|¡Yo soy el padre!
-53|también|adv|also|y también van a estar los otros
-54|hasta|prep|until, up to, even (adv)|toda la noche, hasta las tres de la mañana
-55|año|nm|year|no lo supo hasta casi un año después
-56|dos|num|two|de allí salieron dos hermanas solteras
-57|querer|v|to want, love|quiero que este proceso salga con limpieza
+# Core 5000 words.
+# Lines starting with '#' are ignored.
+# Copy this file to core_5000/unknown.txt, and comment out or remove other words you know.
+
+# 1|el|art|the|ese hombre era el hombre que yo quería ser
+# 1|la|art|the|esa mujer era la mujer que yo quería ser
+# 2|de|prep|of, from|el hijo de un hermano mío
+# 3|que|conj|that, which|dice que no
+# 4|y|conj|and|él y ella sabían leer y escribir
+# 5|a|prep|to, at|se fue a la cama
+# 6|en|prep|in, on|no está en la casa
+# 7|un|art|a, an|era un hombre simpático
+# 8|ser|v|to be (norm)|es nuevo, es bueno
+# 9|se|pron|[“reflexive” marker]|la abuela se acostó tranquila
+# 10|no|adv|no|no hay modo de negar nada
+# 11|haber|v|to have (+Ved)|no ha dicho nada
+# 12|por|prep|by, for, through|así fue por mucho tiempo
+# 13|con|prep|with|hay un hombre con ella
+# 14|su|adj|his/her/their/your (–fam)|¿quién era? ¿Su hermana? ¿Su amiga?
+# 15|para|prep|for, to, in order to|¡tengo una sorpresa sensacional para ti!
+# 16|como|conj|like, as|ser compositor en España es como ser torero en Finlandia 
+# 17|estar|v|to be (location, change from norm)|él está en el trabajo
+# 18|tener|v|to have|estaba seguro de tener buena memoria
+# 19|le|pron|[3rd person] (indir obj)|nunca le dijo la verdad
+# 20|lo|art|the (+ n)|lo mejor es estudiar mucho
+# 21|lo|pron|[3rd person] (dir obj-m)|lo compré en la tienda
+# 22|todo|adj|all, every|todos los hombres son iguales
+# 23|pero|conj|but, yet, except|no significa nada para mí, pero no puedo olvidarla 
+# 24|más|adj|more|él necesitaba más dinero
+# 25|hacer|v|to do, make|he podido hacer lo que me gusta
+# 26|o|conj|or|sí esperaba uno o dos muertos
+# 27|poder|v|to be able to; can|¡se hace lo que se puede!
+# 28|decir|v|to tell, say|parece que dice la verdad
+# 29|este|adj|this (m) [esta (f)]|y entendía estas cosas muy bien
+# 30|ir|v|to go|me habían invitado a ir a su casa
+# 31|otro|adj|other, another|¿por qué no podía ser otra cosa?
+# 32|ese|adj|that (m) [esa (f)]|¿dónde viven esas mujeres?
+# 33|la|pron|[3rd person] (dir obj-f)|la puso en su bolsillo
+# 34|si|conj|if, whether|si quiere cazar, vamos a cazar
+# 35|me|pron|me (obj)|¿cuando me va a llamar?
+# 36|ya|adv|already, still|su marido ya ha dicho todo
+# 37|ver|v|to see|había que subir para ver las ruinas
+# 38|porque|conj|because|lo vendo sólo porque tengo un apuro muy grande
+# 39|dar|v|to give|me dio esta carta para Ud.
+# 40|cuando|conj|when|aquella es de mis nietos, cuando eran bebés
+# 41|él|pron|he, [ellos] them (m)|él es bastante simpático
+# 42|muy|adv|very, really|está muy contento con mi trabajo
+# 43|sin|prep|without|se habían quedado sin dinero
+# 44|vez|nf|time (specific occurrence)|es la primera vez que estoy junto al mar
+# 45|mucho|adj|much, many, a lot (adv)|por lo visto tienen mucho dinero
+# 46|saber|v|to know (a fact), find out|ellos lo saben y lo reconocen
+# 47|qué|pron|what?, which?, how (+ adj)!|no sé qué voy a hacer
+# 48|sobre|prep|on top of, over, about|dejó el papel sobre la mesa y se fue
+# 49|mi|adj|my|mi casa es su casa
+# 50|alguno|adj|some, someone (pron)|habló algunas palabras con el agente de negocios 
+# 51|mismo|adj|same|pronunciando el mismo discurso en siete idiomas 
+# 52|yo|pron|I (subj)|¡Yo soy el padre!
+# 53|también|adv|also|y también van a estar los otros
+# 54|hasta|prep|until, up to, even (adv)|toda la noche, hasta las tres de la mañana
+# 55|año|nm|year|no lo supo hasta casi un año después
+# 56|dos|num|two|de allí salieron dos hermanas solteras
+# 57|querer|v|to want, love|quiero que este proceso salga con limpieza
 58|entre|prep|between, among|la cosa es entre tú y yo
 59|así|adv|like that|la vida es así 
 60|primero|adj|first|las primeras palabras que nos enseñan a leer y escribir 

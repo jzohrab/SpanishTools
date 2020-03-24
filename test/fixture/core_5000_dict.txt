@@ -1,0 +1,5 @@
+# Sample rawdata file for core 5000. Lines deleted, or preceded with comment (#),
+# aren't included in the search.
+
+# 11|haber|v|to have (+Ved)|no ha dicho nada
+2191|tonto|adj|stupid, dumb|siempre me pareció algo tonto y sin sentido

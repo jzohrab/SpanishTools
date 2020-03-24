@@ -5,6 +5,18 @@ A set of scripts to generate cards:
 * verb conjugations (flashcards with verb roots, conjugation table, etc.)
 * listening comprehension (cards with sentences created using Amazon Polly)
 
+# Setting up the Core 5000 text, `core_5000/unknown.txt`
+
+`core_5000/rawdata.txt` contains a list of 5000 core words; however,
+you probably already know a bunch of them.  Make a copy of this file,
+named `unknown.txt`, and you can either delete the word you know from
+`unknown.txt`, or precede the lines with `#`.
+
+Some scripts look up data in `core_5000/unknown.txt` to add info about
+core words, so you can focus on the words you don't know.  Some of the
+words in `core_5000/rawdata.txt` are already commented out, because
+you probably already know them.
+
 # Vocabulary flashcards
 
 Given a text file with some Spanish, e.g:

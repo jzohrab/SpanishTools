@@ -1,6 +1,9 @@
 # User-specific configuration
 config.yml
 
+# Core 5000 words -- user-specific
+core_5000/unknown.txt
+
 # Output directories
 cards_from_text/texts/
 cards_from_text/audio/
