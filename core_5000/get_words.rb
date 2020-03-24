@@ -22,6 +22,7 @@ module Core5000
         parts = lin.split('|')
         raise "Bad line #{lin}" unless parts.size == 5
         {
+          raw: lin,
           rank: parts[0],
           word: parts[1],
           type: parts[2],
