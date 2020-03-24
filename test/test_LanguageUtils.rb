@@ -17,6 +17,11 @@ class Test_LanguageUtils_WordsAreLike < Test::Unit::TestCase
     assert_like('tonto', 'tontos', "Plurals")
   end
 
+  def test_case_doesnt_matter()
+    assert_like('a', 'A')
+    assert_like('TONTO', 'tontos', "Plurals")
+  end
+
   def test_adjectives()
     assert_like('grande', 'grandes', 'plural')
     assert_like('rojo', 'roja', 'masc/fem')

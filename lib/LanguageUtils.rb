@@ -175,8 +175,10 @@ o
   def LanguageUtils.are_like(a, b)
     # Quick exit
     return false if a.nil? || b.nil?
-    return false if a[0] != b[0]
-    return true if a == b
+    adown = a.downcase
+    bdown = b.downcase
+    return false if adown[0] != bdown[0]
+    return true if adown == bdown
 
     [
       PLURALS,
@@ -186,7 +188,7 @@ o
       REGULAR_ER_VERB_ENDINGS,
       REGULAR_IR_VERB_ENDINGS
     ].each do |endings|
-      return true if are_like_after_stripping_endings(a, b, endings)
+      return true if are_like_after_stripping_endings(adown, bdown, endings)
     end
 
     return false
