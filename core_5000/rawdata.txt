@@ -2,1006 +2,1006 @@
 # Lines starting with '#' are ignored.
 # Copy this file to core_5000/unknown.txt, and comment out or remove other words you know.
 
-# 1|el|art|the|ese hombre era el hombre que yo quería ser
-# 1|la|art|the|esa mujer era la mujer que yo quería ser
-# 2|de|prep|of, from|el hijo de un hermano mío
-# 3|que|conj|that, which|dice que no
-# 4|y|conj|and|él y ella sabían leer y escribir
-# 5|a|prep|to, at|se fue a la cama
-# 6|en|prep|in, on|no está en la casa
-# 7|un|art|a, an|era un hombre simpático
-# 8|ser|v|to be (norm)|es nuevo, es bueno
-# 9|se|pron|[“reflexive” marker]|la abuela se acostó tranquila
-# 10|no|adv|no|no hay modo de negar nada
-# 11|haber|v|to have (+Ved)|no ha dicho nada
-# 12|por|prep|by, for, through|así fue por mucho tiempo
-# 13|con|prep|with|hay un hombre con ella
-# 14|su|adj|his/her/their/your (–fam)|¿quién era? ¿Su hermana? ¿Su amiga?
-# 15|para|prep|for, to, in order to|¡tengo una sorpresa sensacional para ti!
-# 16|como|conj|like, as|ser compositor en España es como ser torero en Finlandia 
-# 17|estar|v|to be (location, change from norm)|él está en el trabajo
-# 18|tener|v|to have|estaba seguro de tener buena memoria
-# 19|le|pron|[3rd person] (indir obj)|nunca le dijo la verdad
-# 20|lo|art|the (+ n)|lo mejor es estudiar mucho
-# 21|lo|pron|[3rd person] (dir obj-m)|lo compré en la tienda
-# 22|todo|adj|all, every|todos los hombres son iguales
-# 23|pero|conj|but, yet, except|no significa nada para mí, pero no puedo olvidarla 
-# 24|más|adj|more|él necesitaba más dinero
-# 25|hacer|v|to do, make|he podido hacer lo que me gusta
-# 26|o|conj|or|sí esperaba uno o dos muertos
-# 27|poder|v|to be able to; can|¡se hace lo que se puede!
-# 28|decir|v|to tell, say|parece que dice la verdad
-# 29|este|adj|this (m) [esta (f)]|y entendía estas cosas muy bien
-# 30|ir|v|to go|me habían invitado a ir a su casa
-# 31|otro|adj|other, another|¿por qué no podía ser otra cosa?
-# 32|ese|adj|that (m) [esa (f)]|¿dónde viven esas mujeres?
-# 33|la|pron|[3rd person] (dir obj-f)|la puso en su bolsillo
-# 34|si|conj|if, whether|si quiere cazar, vamos a cazar
-# 35|me|pron|me (obj)|¿cuando me va a llamar?
-# 36|ya|adv|already, still|su marido ya ha dicho todo
-# 37|ver|v|to see|había que subir para ver las ruinas
-# 38|porque|conj|because|lo vendo sólo porque tengo un apuro muy grande
-# 39|dar|v|to give|me dio esta carta para Ud.
-# 40|cuando|conj|when|aquella es de mis nietos, cuando eran bebés
-# 41|él|pron|he, [ellos] them (m)|él es bastante simpático
-# 42|muy|adv|very, really|está muy contento con mi trabajo
-# 43|sin|prep|without|se habían quedado sin dinero
-# 44|vez|nf|time (specific occurrence)|es la primera vez que estoy junto al mar
-# 45|mucho|adj|much, many, a lot (adv)|por lo visto tienen mucho dinero
-# 46|saber|v|to know (a fact), find out|ellos lo saben y lo reconocen
-# 47|qué|pron|what?, which?, how (+ adj)!|no sé qué voy a hacer
-# 48|sobre|prep|on top of, over, about|dejó el papel sobre la mesa y se fue
-# 49|mi|adj|my|mi casa es su casa
-# 50|alguno|adj|some, someone (pron)|habló algunas palabras con el agente de negocios 
-# 51|mismo|adj|same|pronunciando el mismo discurso en siete idiomas 
-# 52|yo|pron|I (subj)|¡Yo soy el padre!
-# 53|también|adv|also|y también van a estar los otros
-# 54|hasta|prep|until, up to, even (adv)|toda la noche, hasta las tres de la mañana
-# 55|año|nm|year|no lo supo hasta casi un año después
-# 56|dos|num|two|de allí salieron dos hermanas solteras
-# 57|querer|v|to want, love|quiero que este proceso salga con limpieza
-58|entre|prep|between, among|la cosa es entre tú y yo
-59|así|adv|like that|la vida es así 
-60|primero|adj|first|las primeras palabras que nos enseñan a leer y escribir 
-61|desde|prep|from, since|lo había pensado desde el primer momento
-62|grande|adj|large, great, big|lo ha mirado a los grandes ojos negros
-63|eso|pron|that (n)|y eso no es todo
-64|ni|conj|not even, neither, nor|pero ni eso me tranquilizó
-65|nos|pron|us (obj)|nos vio en la calle
-66|llegar|v|to arrive|como para llegar hasta el fondo de las almas
-67|pasar|v|to pass, spend (time)|tras la ventana lo veo pasar una y otra vez
-68|tiempo|nm|time (general), weather|he estado mucho tiempo con ella
-69|ella|pron|she, [ellas] them (f)|ella es muy estudiosa
-70|sí|adv|yes|quiero una respuesta concreta: sí o no
-71|día|nm|day|cada día hay más problemas
-72|uno|num|one|hay uno que ya lo está haciendo
-73|bien|adv|well|y entonces hice bien en quedarme
-74|poco|adj|little, few, a little bit (adv)|trabajó poco tiempo con él
-75|deber|v|should, ought to; to owe|te debes calmar, le aconsejó T.
-76|entonces|adv|so, then|vamos entonces a cambiarlo
-77|poner|v|to put (on), get (+adj)|puso el cuchillo en manos de M.
-78|cosa|nf|thing|estoy ya interesado en otra cosa
-79|tanto|adj|so much, so many|no podía creer que haya tanta gente junta
-80|hombre|nm|man, mankind, husband|yo soy un hombre de pocas necesidades
-81|parecer|v|to seem, look like|parecía dormir, tan inmóvil estaba
-82|nuestro|adj|our|no servía para nuestro país porque somos diferentes 
-83|tan|adv|such, as, too, so|en esa mujer está todo; y por eso es tan maravillosa 
-84|donde|conj|where|yo sé donde está la llave
-85|ahora|adv|now|lo importante ahora es contarte lo que le pasó
-86|parte|nf|part, portion|el arte es una parte tan importante de la cultura 
-87|después|adv|after|vamos a dar un paseo después de comer
-88|vida|nf|life|ha dedicado toda la vida a la música
-89|quedar|v|to remain, stay|el aire empezó a quedarse quieto
-90|siempre|adv|always, forever|siempre ha sido así
-91|creer|v|to believe, think|creo en la justicia de Dios
-92|hablar|v|to speak, talk|algunos hablan el idioma romaní
-93|llevar|v|to take, carry|colgado al hombro llevaba un bolso
-94|dejar|v|to let, leave|ella no dejó que yo lo olvidara
-95|nada|pron|nothing, (not) at all|no hay nada que hacer
-96|cada|adj|each, every|de aprender cada día un poco más
-97|seguir|v|to follow, keep on|el calor sofocante que sigue al mediodía
-98|menos|adj|less, fewer|no vale más ni menos que la anterior
-99|nuevo|adj|new|marcaba el comienzo de una nueva vida para mí
-100|encontrar|v|to find|encontró un lugar apropiado para instalar la sucursal 
-101|algo|pron|something, somewhat|tengo algo que decirte
-102|sólo|adv|only, just|no siempre vestía ropa de mujer; sólo en carnaval 
-103|pues|conj|then, well then|pues venga usted cuando quiera
-104|llamar|v|to call, name|el juez se llamaba Pedro Barreda
-105|venir|v|to come|unos afirman que el jazz viene de África
-106|pensar|v|to think|trataba de pensar de dónde podría sacar el dinero 
-107|aquel|adj|that (over there)|unos veinte millones de pesetas (de aquella época)
-108|momento|nm|moment, time|estaba pasando uno de los peores momentos de mi vida 
-109|sino|conj|but, except, rather|no somos nosotros el centro sino ella
-110|esto|pron|this (n)|quiero esto o aquello
-111|salir|v|to leave, go out|para que le abriese la reja para salir al bosque
-112|volver|v|to return, to V again|los habitantes afectados puedan volver a sus casas
-113|forma|nf|form, shape, way|necesito estar en buena forma física
-114|antes|adv|before|quería verla antes de salir
-115|bueno|adj|good|si estaba de buen humor, nos besábamos sin ruido
-116|casa|nf|house|hoy la gente vive en la calle; no vive en su casa
-117|aunque|conj|although, even though|aunque hay problemas, muchos se pueden evitar
-118|mundo|nm|world|no se parecía a ninguna ciudad del mundo
-119|tres|num|three|tres direcciones: diagonal, horizontal y vertical
-120|tal|adj|such (a)|bien sabía que tal cosa era imposible
-121|mejor|adj|best, better (adv)|yo, al fin y al cabo, soy el mejor amigo
-122|tomar|v|to take, drink|mi padre tomó un sorbo de agua y continuó hablando 
-123|cierto|adj|certain, sure, true|no sé si esto es cierto o no
-124|conocer|v|to know (someone or place)|ella conoce muy bien a Nicolás 
-125|hacia|prep|toward, towards|sus sentimientos hacia él son todavía tan firmes 
-126|cómo|adv|how?|mamá, ¿cómo puedo vivir?
-127|mujer|nf|woman, wife|su mamá es una mujer muy enferma y no puede trabajar 
-128|vivir|v|to live|vamos a Buenos Aires, a vivir en la miseria
-129|aquí|adv|here|¡Aquí hay dos también!
-130|caso|nm|case, occasion|luego, en este caso está plenamente justificada 
-131|sentir|v|to feel, regret|lloraba de sentirse tan depravado
-132|luego|adv|later, afterwards|luego va con su esposa y la contagia
-133|país|nm|country|de todos los países de las Américas
-134|tratar|v|to try, treat, deal with|eso es precisamente lo que tratamos de evitar
-135|lugar|nm|place, position|es el lugar más lindo de la costa
-136|te|pron|you (obj/+fam)|¿no te han hablado? 
-137|persona|nf|person|era una persona de mucho talento
-138|mayor|adj|larger, older, main|yo trabajé la mayor parte del tiempo
-139|último|adj|last, final|se opuso al viaje hasta el último momento
-140|propio|adj|own, proper, typical|le doy dinero de mi propio bolsillo
-141|quien|pron|who, whom|ahora o, quién sabe, nunca
-142|mirar|v|to look, watch|y los ojos mirando al infinito
-143|hora|nf|hour, time (specific)|deben celebrarse a primera hora de la tarde
-144|ninguno|adj|no, none, nobody (pron)|ninguno de mis cuatro varones se ha graduado de nada 
-145|trabajo|nm|work, job, effort|pasó su vida entera dedicado a su trabajo
-146|casi|adv|almost, nearly|estamos casi siempre solos
-147|punto|nm|point, dot, period|desde mi punto de vista son las más significativas 
-148|durante|adv|during, for (time)|durante una semana traté de no verla
-149|cualquier|adj|any, anyone (pron)|en cualquier caso, necesitamos soledad
-150|mano|nf|hand|se pueden contar con los dedos de una mano
-151|nunca|adv|never, ever|se aprecia ahora más que nunca la libertad
-152|manera|nf|way, manner|lo hizo de manera muy informal
-153|cual|pron|which, who, whom|el pañuelo con el cual me limpié
-154|mientras|conj|while, whereas, as long as|nos miró mientras comía un gran trozo de pan
-155|contar|v|to tell, count|me contó una larga y estúpida historia
-156|fin|nm|end|se habrá terminado la humanidad y ése será el fin de la Historia 
-157|tipo|nm|type, kind|reconozco tu oposición a este tipo de ideología 
-158|gente|nf|people|la gente tiene miedo de perder su identidad
-159|además|adv|also, as well, besides|además de español, ¿hablas algún otro idioma? 
-160|solo|adj|lonely, alone|se sentía solo, espantosamente solo
-161|empezar|v|to begin, start|lentamente su auto empieza a avanzar
-162|ejemplo|nm|example|hay otras, por ejemplo las guerras
-163|esperar|v|to wait, hope (for), expect|los astrónomos llevaban siglos esperando a que sucediera 
-164|hoy|adv|today, nowadays|ayer estuvo aquí; hoy puede estar allá
-165|lado|nm|side|está situada al lado derecho
-166|hijo|nm|son, [pl] children|cada padre espera que su hijo sea más que él
-167|allí|adv|there, over there|allí están, junto a la playa
-168|éste|pron|this one (m), [ésta (f)]|¿qué esperabas de un lugar como éste?
-169|problema|nm|problem|para resolver un problema tan sencillo
-170|cuenta|nf|bill, account|sería bueno sacar la cuenta y calcular gastos
-171|medio|nm|means, middle; pormedio: through|por medio de la música, se conocen los sentimientos
-172|contra|prep|against, opposite|hermanos contra hermanos y padres contra hijos
-173|buscar|v|to look for|decidí volver a la calle y buscar un empleo
-174|dentro|adv|inside|¿o algo quedó dentro del pozo tapiado?
-175|largo|adj|long|tenía el pelo largo a la altura de los pechos
-176|palabra|nf|word|jamás dijo una palabra en inglés
-177|existir|v|to exist|¿puede existir alguien que sea perfecto?
-178|niño|nm|child, little boy|he tenido suerte desde que era niño
-179|entrar|v|to enter|¡este maldito no puede entrar en nuestra casa!
-180|embargo|nm|sin embargo: nevertheless|el concierto tendrá, sin embargo, un significado especial 
-181|único|adj|only, unique, sole|era el único hijo varón de la familia
-182|padre|nm|father|¿es el padre de mi futuro hijo?
-183|trabajar|v|to work|comenzaban a trabajar de camareros
-184|pequeño|adj|little, small, young|a pesar de su pequeño tamaño estaba llena de detalles 
-185|alto|adj|tall, high|desde lo alto de los Alpes
-186|cambio|nm|change|podía requerir un cambio de actitud
-187|escribir|v|to write|mi padre escribe unas cartas tan cortas
-188|cuatro|num|four|tienen cuatro patas y cuernos
-189|ahí|adv|there|está ahí en la mesa de luz
-190|perder|v|to lose, miss|el golpe me hizo perder el equilibrio
-191|nosotros|pron|we (subj)|jamás lo hemos hecho nosotros
-192|historia|nf|history, story|los períodos más diversos de la historia del arte
-193|idea|nf|idea|podemos renunciar a la idea de la igualdad
-194|agua|nf|(el) water|Déme usted un vaso de agua, que tengo mucha sed 
-195|producir|v|to produce, cause|nunca llegó a producirse el tercer y prometido ataque 
-196|noche|nf|night, evening|trabaja por la mañana, por la tarde, y por la noche 
-197|ciudad|nf|city|quieren estar en la ciudad y no salir al campo 
-198|modo|nm|way, manner|hay diferencia entre el modo de hablar y el de escribir 
-199|nombre|nm|name, noun|Susana no es mi nombre verdadero
-200|ocurrir|v|to happen, occur|el miedo a lo que pudiera ocurrir me inmovilizó 
-201|familia|nf|family|la familia es la unidad social más significativa
-202|realidad|nf|reality, actuality|le habló a Rosabel, que en realidad se llamaba María 
-203|entender|v|to understand|todavía no entiendo demasiado bien lo que pasó
-204|pedir|v|to ask for, request|me atreví a pedirle que me diera clases
-205|recibir|v|to receive|Pavlov recibe el Premio Nobel por sus estudios 
-206|obra|nf|work, book, deed|la primera obra literaria de Dante fue La Vida Nueva 
-207|importante|adj|important|el momento más importante de la ceremonia
-208|medio|adj|half, middle|la noche sorprendió a los viajeros a medio camino 
-209|verdad|nf|truth|¡diga la verdad! ¡Todo le acusa!
-210|mes|nm|month|tendrá lugar el próximo mes de noviembre
-211|todavía|adv|still, yet|los animales que todavía están vivos
-212|razón|nf|reason; tener razón: to be right|es verdad, tienes razón; ella no es de San Juan
-213|cuanto|adj|en cuanto a: in terms of, regarding|hoy hay más apatía en cuanto a estas cuestiones 
-214|bajo|prep|under, underneath|hacía dos o tres grados bajo cero
-215|recordar|v|to remember, remind|prefiero no recordar esa época de mi vida
-216|grupo|nm|group|¿cuál será su papel en ese grupo de trabajo?
-217|mil|num|thousand|unos mil años han pasado desde entonces
-218|humano|adj|human|somos seres humanos, y gente normal
-219|terminar|v|to finish, end|cuelga sin terminar la conversación
-220|permitir|v|to allow, permit|no se me permitió jugar allí por varios días
-221|aparecer|v|to appear|detrás suyo, Teresa apareció por la puerta de la cocina 
-222|conseguir|v|to get, acquire, obtain|vas a robar, para conseguir plata
-223|comenzar|v|to begin, start|a los veintidós años comenzó a aprender castellano 
-224|varios|adj|several, various|está constituida por varios dialectos
-225|posible|adj|possible|trató de hacer el menor ruido posible para no despertarla 
-226|servir|v|to serve|destapa la botella y sirve unas copas
-227|general|adj|general|es decir, algo equivalente a los genes en sentido general 
-228|sacar|v|to take out|la Lechuza sacó un revólver y mató a este muchacho 
-229|necesitar|v|to need|vas a necesitar un trabajo nuevo
-230|relación|nf|relationship, relation|he tenido una relación muy estrecha con los compositores 
-231|cinco|num|five|gozo de tener los cinco sentidos
-232|cuerpo|nm|body|el cuerpo humano se compone de millones de células 
-233|nadie|pron|nobody, anybody|nadie sabe nada
-234|mantener|v|to keep, maintain|Luis cruzó los brazos y se mantuvo sereno 
-235|hecho|nm|fact, happening|le gustó el hecho de que yo estuviese allí
-236|ante|prep|before, in the presence of|qué hacer y cómo actuar ante estas circunstancias 
-237|principio|nm|beginning, principle|tiene fiebre al principio de la enfermedad
-238|resultar|v|to result, turn out|todo con gran precisión; el viaje resultó perfecto 
-239|igual|adj|equal, same (as)|los indios son seres humanos iguales que nosotros 
-240|señor|nm|sir, Mr, lord|¿puedo pagar con dólares? Sí señor
-241|pueblo|nm|people, village|el libro no representa al pueblo portugués
-242|tarde|nf|afternoon, evening|eran las dos de la tarde y yo estaba sin comer nada
-243|segundo|adj|second|en la segunda mitad del siglo
-244|leer|v|to read|prefiero leer a los autores de moda
-245|caer|v|to fall|no quiero caer en mi tumba siendo joven 
-246|cambiar|v|to change|no van a cambiar las relaciones de poder 
-247|ojo|nm|eye|los grandes ojos verdes la miraban con ternura 
-248|calle|nf|street|llegó a la esquina de la calle La Merced y la Huancavelica 
-249|presentar|v|to introduce, present|P. me presentó con gravedad a una chica virgen 
-250|blanco|adj|white|esta foto es en blanco y negro
-251|crear|v|to create|lo que A. creaba con las manos era un don sobrenatural 
-252|abrir|v|to open|todos quieren abrir la puerta para ir a jugar
-253|libro|nm|book|¿está usted escribiendo un libro sobre la política? 
-254|distinto|adj|distinct, different|abrirían las puertas a un futuro distinto para mí
-255|fuerza|nf|strength, force, power|hay artistas excepcionales, con una fuerza increíble 
-256|luz|nf|light|desaparece la luz hasta el oscuro
-257|según|prep|according to|según su experiencia, ésa era la pista correcta
-258|santo|nm|saint (m)|todos iban detrás del Santo Patrono con rezos y cánticos 
-259|claro|adj|clear|esto constituye un claro precedente
-260|frente|nmf|al frente: facing; frente a: across from|lo Uno frente a lo Otro, el Bien frente al Mal 
-261|considerar|v|to consider|no podía considerar la primera hipótesis con seriedad 
-262|amigo|nm|friend|¿No tienes un amigo a quien me podrías presentar? 
-263|oír|v|to hear|no se oía ningún sonido
-264|cuyo|adj|whose|el oxígeno, cuyo número atómico es 8
-265|sentido|nm|sense, feeling|una cantante-actriz en el sentido actual del término 
-266|acabar|v|acabar de V: to have just Ved; finish|la que ahora se acaba de traducir al castellano 
-267|paso|nm|step, pace|sí, la escritura fue un paso decisivo
-268|situación|nf|situation|¿cómo es la situación allí actualmente?
-269|usted|pron|you (subj/–fam)|los tiene usted, señor alcalde 
-270|bastante|adj|rather, fairly, quite a bit (adv)|estoy bastante satisfecho con mi vida
-271|convertir|v|to convert, change, become|el café llegó a convertirse en la bebida más popular de Cuba 
-272|gracia|nf|(pl) thank you; grace, favor|bueno, gracias por tu tiempo, ¿eh?
-273|siglo|nm|century, age|los poetas más populares del siglo XX
-274|dios|nm|god, divinity|ahora sé que hay un Dios en los cielos
-275|malo|adj|bad|éste se lamentó de su mala suerte
-276|tierra|nf|earth, land, ground|la tierra daba el maíz, el trigo y el arroz
-277|papel|nm|paper, role, part|el poco papel que tenemos lo dedicamos a libros 
-278|madre|nf|mother|ahora está casada, es madre de familia
-279|tampoco|adv|neither, nor, either|porque yo no la conozco y él tampoco la conoce 
-280|social|adj|social|no me gusta la vida social, no voy a ninguna parte
-281|viejo|adj|old, aged|el viejo tiene como ochenta años, y está loco
-282|aún|adv|still, yet|se está muriendo; aún está en coma
-283|tema|nm|theme, subject, topic|entre ellos pues está el tema de la ecología
-284|político|adj|political|nos afiliamos a un partido político
-285|español|adj|Spanish|la lengua española de hoy es el castellano
-286|ganar|v|to win, earn|a los diez años ganó el Premio Nobel
-287|formar|v|to form|sus componentes se marchaban para formar sus propios grupos 
-288|clase|nf|kind, class, order|¿qué otra clase de música le interesa?
-289|traer|v|to bring, carry|sí, me trae un zumo de naranjas, por favor
-290|partir|v|to divide, leave; a partir de: starting|a partir de los cuatro minutos la tarifa es estable 
-291|dinero|nm|money|¿hay mucho dinero?, ¿es muy rico?
-292|quién|pron|who?, whom?|¿quién es el padre de su hijo?
-293|morir|v|to die|la pobre murió de pulmonía meses después
-294|incluso|adv|including, even (adv)|e incluso puede detectar cuando hay errores
-295|campo|nm|field, country|mi campo principal es la enfermedad coronaria 
-296|aceptar|v|to accept|A. estuvo indecisa en aceptar su petición de matrimonio 
-297|quizás|adv|perhaps, maybe|quizás sí, pero de otra forma
-298|cabeza|nf|head (part of body)|planteaba muchas preguntas en mi cabeza 
-299|realizar|v|to fulfill, carry out|el viaje se realizó en noviembre
-300|ciento|num|hundred|se pueda confiar ciento por ciento
-301|mal|adv|badly|mucha gente habla mal de él
-302|orden|nmf|order; sequence (m), religious order (f)|hay que poner todo en orden de prioridad 
-303|don|nm|courtesy title (m), Mr, gift|¿cómo era don Manuel?
-304|semana|nf|week|no todos los días, pero varios días de la semana 
-305|suponer|v|to suppose, assume|era absurdo suponer que la guerrilla cambiara sus planes 
-306|comprender|v|to understand|los había leído todos, sin comprender mucho
-307|final|nmf|al final: finally, in the end|pero al final, el resultado es la perfección
-308|interés|nm|interest|usted, de verdad, sí tiene interés en este tema
-309|siguiente|adj|following, next|al día siguiente se levantó más decidido que nunca 
-310|vista|nf|view, sight|era un territorio fértil con una hermosa vista hacia la cordillera 
-311|lograr|v|to achieve, get, manage|un director no puede lograr buenos resultados sin ayuda 
-312|demás|adj|the rest, others|serán la envidia de los demás colegas latinoamericanos 
-313|acuerdo|nm|accord; de acuerdo: in agreement|estoy de acuerdo con esa interpretación 
-314|difícil|adj|difficult, hard|es duro, difícil tomar una decisión como ésta
-315|número|nm|number|ella escribía su número telefónico en un papelito 
-316|explicar|v|to explain|¿podría explicar los detalles de este análisis?
-317|negro|adj|black|la existencia de un agujero negro en la galaxia M87
-318|fondo|nm|bottom, end|ese es el sistema, y en el fondo funciona
-319|camino|nm|road, route, path|es un camino muy largo el que nos queda por recorrer 
-320|voz|nf|voice|un hombre de voz vibrante y rica empezó a cantar 
-321|estudio|nm|study, learning|he colaborado en un estudio de epidemiología descriptiva 
-322|necesario|adj|necessary|ahora es necesario dirigir más oraciones a Dios
-323|preguntar|v|to ask (a question)|les voy a preguntar si quieren comer
-324|allá|adv|there, over there|miren allá, cerca del puente
-325|tocar|v|to touch, play (instrument)|se acercó hasta tocar su rodilla con la mía
-326|valor|nm|value, worth|hay que descubrir el valor artístico de la obra de arte 
-327|reconocer|v|to recognize, admit|no pudo reconocer quién era
-328|estudiar|v|to study|Adam quiere estudiar teología y ser sacerdote
-329|alcanzar|v|to reach, catch up with|la economía tiene posibilidades de alcanzar la prosperidad 
-330|nacer|v|to be born|Picasso nació en Málaga en 1881
-331|dirigir|v|to direct, manage|usted dirigió la Orquesta Nacional en
-332|correr|v|to run|ahorita corre tres kilómetros y medio
-333|medida|nf|measure; a medida que: to the extent|el artista crece a medida que madura 
-334|menor|adj|younger, youngest|E. era el menor de los hermanos
-335|demasiado|adj|too much, too many|esta casa es demasiado grande para una persona 
-336|solamente|adv|only|la opinión es solamente una hipótesis
-337|bueno|adv|well...|bueno, ¿y ahora qué hacemos?
-338|utilizar|v|to use, utilize|sería una buena idea utilizar colores pálidos 
-339|centro|nm|center, middle, downtown|no necesitan estar solos en el centro del escenario 
-340|necesidad|nf|necessity, need|sentía la necesidad de ser comprendido
-341|condición|nf|condition|afecta a la condición física de todos los órganos 
-342|pagar|v|to pay|estamos tratando de pagar esta deuda
-343|ello|pron|it (subj-n)|¿qué se perdía con ello?
-344|falta|nf|lack, shortage|sería una locura, una falta de ese sentido de la realidad 
-345|ayudar|v|to help|espero ganar dinero para ayudar a mi pobre madre 
-346|diez|num|ten|a mí me bastaban los diez mandamientos
-347|través|adv|a través: across, over, through|los sentimientos que han llegado a mí a través de la música 
-348|antiguo|adj|old, ancient, former|es una de las obras más antiguas – fines del siglo XIII 
-349|tu|adj|your (sg/+fam)|ésta es tu casa y ésta es tu cama
-350|edad|nf|age|se acercaba a la edad de encontrar un hombre con quien casarse 
-351|estado|nm|state, condition, status|hay un estado de incertidumbre que flota en el ambiente 
-352|ser|nm|being|se puede ser un ser humano perfecto y un bárbaro en cultura 
-353|gustar|v|to be pleasing to|¡no me gusta que te acaricie!
-354|puerta|nf|door|¿por dónde estará la puerta de salida?
-355|jugar|v|to play (sport/game)|puede jugar a la pelota
-356|cara|nf|face, expression|aparece la cara del hombre con sus bigotes de cepillo 
-357|mí|pron|me (obj prep)|el regalo era para mí
-358|época|nf|time, age, period|en la época romana se utilizaba más el bronce
-359|color|nm|color|coincide con los colores primarios: rojo, azul y amarillo 
-360|escuchar|v|to listen to|tuvo oportunidad de escuchar comentarios de viajeros 
-361|experiencia|nf|experience|tengo experiencia de la vida y del amor
-362|movimiento|nm|movement|estaba encabezando un movimiento de subversión 
-363|cumplir|v|to fulfill|necesita algo más para cumplir su trabajo
-364|especial|adj|special|siento también una especial predilección por Stravinski 
-365|diferente|adj|different, separate|en un entorno urbano el reto, en cambio, es diferente 
-366|pesar|nm|sorrow; a pesar de: in spite of|comprendí su decisión a pesar de que me entristeciera mucho 
-367|posibilidad|nf|possibility|debes considerar la posibilidad de dar en adopción a tu bebé 
-368|ofrecer|v|to offer, present|el Hotel D. ofrece su menú en francés
-369|descubrir|v|to discover|otro policía descubrió un paquete en el suelo
-370|anterior|adj|previous, preceding|en términos de dólares, el anterior fue un año sobresaliente 
-371|juego|nm|game, play, sport|he escrito algunos libros de juego y diversión
-372|levantar|v|to raise, lift|de pronto se levantó y fue hasta su biblioteca
-373|pobre|adj|poor|el pobre, va a tener que trabajar
-374|aire|nm|air, wind, appearance|el helicóptero puede estacionarse en el aire
-375|seis|num|six|cinco por seis son treinta
-376|intentar|v|to try, attempt|¿somos tan tontos como para intentar repetir la historia? 
-377|guerra|nf|war, warfare|qué pronto se olvida a las víctimas de una guerra 
-378|junto|adv|together with, next to|trabajábamos juntos en el Congreso
-379|resultado|nm|result, outcome|fue el resultado de muchas acciones que parecían inútiles 
-380|usar|v|to use|mi teléfono no funciona y quisiera usar el tuyo
-381|decidir|v|to decide|¿cómo decidió usted ser director de orquesta?
-382|repetir|v|to repeat|no voy a repetir este pecado más en la vida
-383|olvidar|v|to forget|no he podido olvidar aquella noche de tu despedida 
-384|ley|nf|law, bill, rule|el casamiento civil es una ley de este país
-385|aspecto|nm|aspect, appearance|uno de los aspectos más controvertidos del modernismo 
-386|pie|nm|foot, base|está enfermo y tiene un pie en el cementerio
-387|valer|v|to be worth, cost|¡estas joyas tienen que valer muchos millones!
-388|especie|nf|kind, sort, species|el único que llegó a ser una especie de monstruo fui yo 
-389|comer|v|to eat|te comiste todo el queso
-390|servicio|nm|service, helpfulness|es un servicio público que beneficia al individuo 
-391|cerca|adv|close, near|nos sentábamos cerca del fuego
-392|mostrar|v|to show|con un dedo me mostró un agujerito negro
-393|actividad|nf|activity, action|pienso que el arte es una actividad mental
-394|tercero|adj|third|en uno de los primeros años de la tercera década del siglo 
-395|cuál|pron|which?|primero dime cuál es tu nombre
-396|pronto|adv|soon, quick|pronto lo tuvieron todo hecho
-397|ocupar|v|to occupy, use|volvió a ocupar su lugar
-398|cuestión|nf|question, matter|creo que es una cuestión de sinceridad
-399|duda|nf|doubt|no existía duda alguna en que era hijo mío
-400|diferencia|nf|difference|¿sabés la diferencia entre el contador y el matemático? 
-401|mañana|nf|morning, tomorrow|sí, todo el día está allá, desde la mañana hasta la tarde 
-402|mover|v|to move, incite|después de mover a uno y otro lado la cabeza 
-403|continuar|v|to continue|da la orden para continuar la marcha
-404|cantidad|nf|quantity, amount|todo esto genera una cantidad de datos formidables 
-405|acción|nf|action, act, deed|esta acción legal pretendía acelerar la liberalización económica 
-406|suceder|v|to happen|¿qué pasa?, ¿sucedió algo malo?, ¿algún problema? 
-407|fijar|v|to set, fix, [se] notice|lo primero que hizo fue fijar fecha definitiva
-408|sociedad|nf|society|creaban una sociedad multicultural que vivía en paz 
-409|referir|v|to refer (to)|me voy a referir a los dos últimos puntos
-410|acercar|v|to come near|él me miró, se acercó, me besó
-411|capaz|adj|capable, able|¿es usted capaz de describir su propia carrera? 
-412|bajo|adj|short, low|las puertas de madera son bajas y rudas
-413|libre|adj|free, vacant|estaré más tranquilo y con más tiempo libre
-414|natural|adj|natural|decidió que su conducta era natural y sincera
-415|dedicar|v|to dedicate, devote|cuando se quedó sola se dedicó más horas a escribir 
-416|realmente|adv|really, actually, in fact|¿antes de nacer nosotros existía realmente el mundo? 
-417|peso|nm|peso (money), weight, load|por lo menos son quince mil pesos por mes
-418|efecto|nm|effect|para estudiar el efecto del Sol sobre la emisión de rayos X 
-419|objeto|nm|object, thing|será objeto de estudio para las predicciones meteorológicas 
-420|verdadero|adj|true, real|cuyo verdadero nombre no conoció nadie
-421|dónde|adv|where?|¿Dónde está escrito esto en la historia?
-422|aprender|v|to learn|no hay manera de aprender el otro lenguaje 
-423|amor|nm|love|¡por el amor más grande del mundo; el amor de Dios! 
-424|muerte|nf|death|sólo la muerte no tiene remedio, Juan
-425|partido|nm|party, group, (sports) match|fue consejero de un candidato del partido conservador 
-426|económico|adj|economic|es necesario tener progreso económico
-427|derecho|nm|right, justice, law|los catalanes tienen el derecho a usar los dos idiomas que son suyos 
-428|poder|nm|power|le dio el poder de manejar la economía mundial 
-429|importancia|nf|importance|¿qué proyectos de importancia tiene en su agenda? 
-430|sistema|nm|system|están situados a 4 mil años luz del sistema solar
-431|viaje|nm|travel, trip|le suceden todo tipo de aventuras durante su viaje 
-432|suelo|nm|ground, floor|durmió en el suelo sobre varias mantas
-433|respecto|nm|respect, con respecto a: with regards to|los grupos varían con respecto al número que lo componen
-434|conocimiento|nm|knowledge|desplegó un conocimiento variado de los costumbres del país 
-435|libertad|nf|freedom, liberty|les falta la libertad, el hábito de pensar libremente 
-436|encima|adv|above, on top, in addition|nos pueden elevar por encima de nuestra realidad 
-437|comprar|v|to buy|me iba a comprar un televisor
-438|común|adj|common|el talento no es una cosa muy común
-439|abierto|adj|open, unlocked|dormía con un ojo abierto
-440|próximo|adj|next|pasará el próximo semestre enseñando literatura 
-441|atención|nf|attention|llaman mucho la atención y causan un gran impacto 
-442|joven|adj|young|¿qué novedad le puede aportar una cantante joven como usted? 
-443|subir|v|to go up|el sistema de subir y bajar verticalmente
-444|esfuerzo|nm|effort, endeavor|no ha sido vano su esfuerzo
-445|pasado|adj|past, last|las cosechas serían buenas, pero no tanto como el año pasado 
-446|evitar|v|to avoid, prevent|actuó rápido para evitar su segura humillación 
-447|resto|nm|rest, remainder, leftover|en el Perú y Japón sí, pero no en el resto del mundo 
-448|interesar|v|to interest|no le interesa conocer el mundo
-449|zona|nf|area, zone|conquistó la zona alemana de Samoa en agosto de 1914 
-450|miedo|nm|fear|yo no tengo miedo de morir
-451|fuera|adv|out, outside, away|hace como diez años que está fuera del Paraguay 
-452|proceso|nm|process, procedure|el proceso de gestación de la criatura no fue normal 
-453|vivo|adj|alive, bright|el país está musicalmente vivo y palpitante
-454|cerrar|v|to close|lo mejor era cerrar los ojos y dormir
-455|echar|v|to throw, cast|me echó de la casa y me fui
-456|responder|v|to answer, respond|el Gobierno respondió por escrito a este diputado 
-457|sufrir|v|to suffer, undergo|sufrió la eterna tragedia del grande
-458|completo|adj|complete|tienes mi apoyo completo
-459|minuto|nm|minute|antes del partido se va a guardar un minuto de silencio 
-460|contrario|adj|contrary, opposite|al principio nadie se alarmó; al contrario, se alegraron 
-461|mesa|nf|table, board|la mesa estaba puesta para la cena
-462|real|adj|royal, real, authentic|fuimos a la biblioteca del palacio real de Madrid 
-463|ocasión|nf|opportunity, occasion|no se puede perder esta ocasión porque es la última 
-464|importar|v|to matter, import|no le importa nada de nada
-465|público|adj|public|el 4 de marzo da su último concierto público 
-466|obtener|v|to obtain|se hace la guerra para obtener la paz
-467|programa|nm|program, plan|van a aprender mucho de este programa escolar
-468|favor|nm|favor, benefit|están a favor de los serbios
-469|lejos|adv|far (away, off)|ese sitio estaba lejos del pueblo
-470|siete|num|seven|aprobó el cursillo “Cómo ser feliz en siete días”
-471|enorme|adj|enormous, vast|hay una enorme cantidad de cuadros muy significativos 
-472|respuesta|nf|answer, reply|la única respuesta fue el silencio
-473|línea|nf|line, course|la línea del horizonte que separa el cielo del mar
-474|espacio|nm|space, room|ya no quedaba espacio para nadie alrededor del tranvía 
-475|nivel|nm|level|el nivel del mar empezaba a aumentar
-476|gobierno|nm|government|el feudalismo fue la forma de gobierno
-477|cabo|nm|end, bit; llevar a cabo: to carry out|llevó a cabo un importante trabajo científico 
-478|observar|v|to observe|en los que se pueden observar bajo microscopio 
-479|indicar|v|to indicate|el Conductor le indica el lugar que debe ocupar 
-480|alguien|pron|somebody, someone, anyone|alguien vino a preguntar por usted 
-481|pregunta|nf|question|cada pregunta abría un mar de respuestas
-482|claro|adv|of course, clearly|¡Claro! Así está mucho mejor
-483|atrás|adv|back, behind, ago|se olvidaba de mirar hacia atrás o hacia los lados 
-484|imagen|nf|image, picture|es un intento evidente de dañar mi imagen pública 
-485|carrera|nf|career, course, race|su carrera como «jazzman» profesional empezó en Cannes 
-486|imaginar|v|to imagine|me imagino que Uds. tienen la misma situación 
-487|soler|v|to be accustomed to|en las noches cálidas la familia suele reunirse en el patio 
-488|ambos|adj|both|se extendían a ambos lados de la carretera
-489|profundo|adj|deep, profound|el mejor y más profundo conocimiento del poeta 
-490|detener|v|to stop, detain|su pupila se detenía sobre el papel
-491|desarrollar|v|to develop|tratando de desarrollar un . . . nuevo sistema electrónico 
-492|ocho|num|eight|entre las siete y media, ocho de la mañana
-493|señalar|v|to point (out), signal|nos hizo señas y señaló hacia adelante
-494|elegir|v|to choose, elect|los caminos son muchos y hay que elegir el mejor 
-495|figura|nf|figure|descubrió en el ruidoso grupo la figura de su padre 
-496|principal|adj|main, principal|¿cuál es el problema principal?
-497|animal|nm|animal|¿es hombre, animal o cosa?
-498|base|nf|base, basis|la mitología griega es la base de la literatura
-499|preparar|v|to prepare|todos los ingredientes para preparar un plato notable 
-500|proponer|v|to propose|le voy a proponer que nos casemos
-501|demostrar|v|to show, demonstrate|todos me escuchaban inmóviles, sin demostrar la menor sorpresa 
-502|significar|v|to mean|la paloma azul debía significar la libertad
-503|posición|nf|position|-Vi que mi posición en aquel momento era inútil 
-504|motivo|nm|motive, cause|revelan el motivo de la construcción de las pirámides 
-505|prueba|nf|proof, trial, test|fue prueba de fidelidad y confianza conyugal
-506|política|nf|politics, policy|se lanzan a un frenético debate sobre política
-507|nacional|adj|national|le dieron el premio nacional de poesía
-508|lleno|adj|full, filled|joven y lleno de esperanzas por una vida mejor 
-509|reunir|v|to gather, meet, collect|le permitieron reunir una fortuna de proporciones grotescas 
-510|faltar|v|to be lacking|me falta una persona a quien comunicar mis impresiones 
-511|supuesto|adj|supposed; por supuesto: of course|no entendí, por supuesto, nada, ni una palabra
-512|acompañar|v|to accompany|deberá acompañar a la novia a la iglesia
-513|dato|nm|data, fact|tenemos grandes bases de datos de secuencias de proteínas 
-514|fácil|adj|easy|no es fácil explicar con precisión lo que sucedió 
-515|desear|v|to want, desire, wish for|dijo que deseaba venir a México
-516|adelante|adv|forward, further|el gobierno sigue adelante con el proyecto 
-517|empresa|nf|firm, company, venture|operaba con una empresa constructora del Reino Unido 
-518|asunto|nm|matter, issue, affair|se ha creado una gran polémica sobre el asunto 
-519|presencia|nf|presence, appearance|un ruido que advirtió a los ladrones de su presencia en la casa 
-520|suyo|pron|his, hers, yours (- fam), theirs|señor, lo que es mío, es suyo 
-521|cultura|nf|culture|fue una primitiva cultura indoeuropea
-522|serie|nf|series|en la combustión intervienen una serie de factores 
-523|millón|num|million, fortune|le ha proporcionado un cheque de un millón de pesetas 
-524|enseñar|v|to teach, show|¿qué objeto tiene enseñar química en Secundaria? 
-525|construir|v|to construct, build|la robótica tiende a construir modelos diminutos 
-526|vender|v|to sell|tuvieron que vender el maíz para comprar el lienzo 
-527|representar|v|to represent|representa uno de los aspectos más desconocidos 
-528|desaparecer|v|to disappear, vanish|se hizo desaparecer en la oscuridad
-529|mandar|v|to send, order|la primera carta que Rita nos mandó de Francia 
-530|carácter|nm|personality, nature|es un hombre de carácter apacible, reflexivo y afectuoso 
-531|mayoría|nf|majority|la mayoría de los cánceres humanos no tienen un origen vírico 
-532|escuela|nf|school|dicta clases en la Escuela de Medicina de esa Universidad 
-533|rojo|adj|red|su boca, muy roja, apenas se movió
-534|tras|prep|after, behind|A. había retornado a su tierra tras años de lucha 
-535|superior|adj|superior, upper|una cantidad de dinero superior a su sueldo anual 
-536|andar|v|to walk, function|casi nadie andaba por las calles
-537|corto|adj|short, brief|su único día libre, era el día más corto de la semana 
-538|autor|nm/f|writer, author|cuando un autor escribe un mal libro, se cierra o se tira a la papelera 
-539|hermano|nm|brother, [pl] siblings|éramos tres hermanos, dos hermanos mayores y yo 
-540|conocido|adj|known, well-known|Velázquez fue también un pintor muy conocido en Sevilla 
-541|preferir|v|to prefer|en realidad prefiero una buena hamburguesa con una coca cola 
-542|asegurar|v|to assure, secure, insure|podía asegurar que él sería la próxima víctima 
-543|función|nf|function, meeting|¿qué función tienen las Academias en este sentido? 
-544|arriba|adv|up, above|desde arriba yo veía a mis dos hijas
-545|serio|adj|serious|esa muchacha tiene un problema serio
-546|causa|nf|cause|la barrera puede romperse a intervalos por causa de las mareas 
-547|suficiente|adj|sufficient, enough|no tuvo el tiempo suficiente para ejecutar sus proyectos 
-548|grave|adj|serious, solemn|hay momentos de crisis grave en el mundo
-549|decisión|nf|decision|es difícil tomar una decisión como ésta
-550|música|nf|music|la gente se detenía siempre a escuchar la música que tocaban 
-551|extraño|adj|strange, foreign|tenían un extraño color de azúcar quemada 
-552|crecer|v|to grow, increase|nació y creció el muchacho en La Huerta
-553|surgir|v|to appear, spring (forth)|veía surgir la sombra terrible
-554|tú|pron|you (subj-sg/+fam)|¡qué clase de hombre eres tú!
-555|expresión|nf|expression|Johnny cambió su sonrisa por una expresión concentrada 
-556|alrededor|adv|about, around, round|entraron alrededor de las ocho de la mañana 
-557|matar|v|to kill|el gato sirve para matar a los ratones
-558|entregar|v|to deliver|entregó el paquete a las criaturas
-559|río|nm|river|recorriendo el río Amazonas y atravesando los Andes 
-560|seguridad|nf|security, safety|unas dudas sobre la calidad y seguridad de los medicamentos 
-561|término|nm|term (language), end|se centra en el significado literal del término descrito 
-562|colocar|v|to place, position|vuelve a colocar las rosas dentro del jarrón
-563|metro|nm|meter, subway|produce kilogramos de vegetales por metro cuadrado 
-564|médico|nm/f|doctor|el médico le toma la muestra al paciente
-565|establecer|v|to establish|de ser posible establecer ese tipo de contacto personal 
-566|guardar|v|to keep, save|lo voy a guardar debajo de mi colchón
-567|arte|nm|art, skill|la creación de un museo de arte moderno y contemporáneo 
-568|iniciar|v|to initiate, start|el curso se inició en enero
-569|bajar|v|to come down, let down|el Dow Jones de Wall Street bajó 52 puntos en un día 
-570|consecuencia|nf|consequence|la obstrucción se produce como consecuencia de la aparición de grasas 
-571|notar|v|to notice|volví a notar esos extraños ruidos en el callejón 
-572|acto|nm|act, action|ser culto es, para mí, un acto voluntario
-573|meter|v|to put (into)|lo desnudó, lo metió en la cama
-574|absoluto|adj|absolute|mantiene el control absoluto de los oyentes
-575|pena|nf|trouble; valer la pena: be of worth|ésa es una cosa que sí vale la pena recordarla 
-576|actuar|v|to act|esa manera de actuar es producto de la desesperación 
-577|segundo|nm|second|ahí, ahí sí, espérame un segundo
-578|altura|nf|height, altitude|a siete mil metros de altura hay que usar oxígeno 
-579|deseo|nm|desire, wish|tienen gran entusiasmo y deseo de participar activamente 
-580|precisamente|adv|precisely|el problema no era precisamente el cuidado de la rosa 
-581|joven|nc|teenager, young person|está dirigido a los jóvenes entre 16 y 20 años
-582|veinte|num|twenty|mide tres metros veinte centímetros
-583|sueño|nm|dream, sleep|tenía sueño de ser estrella de cine
-584|pretender|v|to attempt|no sale siempre lo que uno pretende
-585|tarea|nf|task, job|les ayuda a hacer una tarea dentro del hogar 
-586|carta|nf|letter, (playing) card|comienza a escribir de nuevo y a leer la carta
-587|apenas|adv|hardly, barely|apenas quedaban menos de 75.000 soldados 
-588|propiedad|nf|property|cedería la propiedad a un grupo de entidades financieras 
-589|producto|nm|product|el arte es, en parte muy grande, producto de su época 
-590|personal|adj|personal|según mi propia experiencia personal como tal
-591|simplemente|adv|simply, just|me visitan simplemente por ser familia
-592|imposible|adj|impossible|estaba muy oscuro y era imposible verla
-593|gusto|nm|pleasure, taste, preference|mi personal gusto artístico no es nada conservador 
-594|ayuda|nf|help, aid|para que las personas afectadas puedan recibir la ayuda que necesitan 
-595|acordar|v|to remember, remind|hoy ya nadie se acuerda de los antiguos soldados 
-596|lengua|nf|language, tongue, strip (of land)|Góngora es uno de los máximos poetas de la lengua castellana 
-597|cortar|v|to cut|salió al jardín y cortó el tallo más largo de su rosal
-598|plan|nm|plan|nos explicó que tenía preparado un plan infalible 
-599|corresponder|v|to correspond with|introduce un número que corresponde a su tarjeta 
-600|vuelta|nf|return, turn|¿y el viaje de ida y vuelta en barco?
-601|romper|v|to break|no quería romper la unidad de la familia
-602|siquiera|adv|even (if)|ni siquiera ha preguntado mi nombre
-603|adquirir|v|to acquire, get|por unas cuantas pesetas es posible adquirir un par de tarjetas 
-604|proyecto|nm|project, plan|esta última fase del proyecto no llegó a ser realizada 
-605|memoria|nf|memory|habla pausadamente, buscando en la memoria la palabra exacta 
-606|origen|nm|origin, cause|las mesas redondas de origen griego surgieron en el período helenístico 
-607|elemento|nm|element|era un elemento esencial en la estilística culta
-608|inglés|adj|English|y no tardó en dominar la lengua inglesa
-609|mercado|nm|market|se fue al mercado a comprar verduras
-610|curso|nm|course, direction|después hice el curso de literatura contem- poránea 
-611|lanzar|v|to throw, launch|giró para lanzar una mirada de reproche
-612|aprovechar|v|to take advantage of|yo quiero aprovechar esta oportunidad
-613|sangre|nf|blood|la sangre empezaba a fluir de la herida
-614|interior|nm|interior, inside|comían en el interior y otros al aire libre
-615|duro|adj|hard|reflejaba la dura realidad de la posguerra italiana 
-616|apoyar|v|to support, lean on|los municipios deben apoyar la educación
-617|negar|v|to deny, refuse|no puedo negar esta evidencia
-618|avanzar|v|to advance, progress|una procesión que avanza por la avenida
-619|uso|nm|use|nunca recuperaré el uso de la mano derecha 
-620|brazo|nm|arm|nos tomamos de la mano y del brazo mientras caminábamos 
-621|profesor|nm/f|professor, teacher|fue profesor de física teórica en la universidad 
-622|resolver|v|to resolve, settle, work out|tenemos que resolver el conflicto
-623|futuro|nm|future|en la actualidad, y más aún en el futuro
-624|oportunidad|nf|opportunity, chance|ahora teníamos la oportunidad de aprovechar nuestra experiencia 
-625|mitad|nf|half, middle|es un libro sobre la primera mitad del siglo
-626|costar|v|to cost, be hard|la pensión les costaba más o menos seis mil pesos 
-627|rico|adj|rich, tasty|no quiero ser rica; quiero ser famosa
-628|recuerdo|nm|memory, keepsake|es la memoria, el recuerdo de la experiencia vivida 
-629|total|adj|total, entire|el número total de asistentes sería de treinta personas 
-630|exigir|v|to demand|ya no exige sangre como los dioses paganos
-631|abajo|adv|down, below, downward|¿se podría echar abajo la alianza opositora?
-632|opinión|nf|opinion, view|¿cuál es su opinión sobre el gobierno español? 
-633|aumentar|v|to increase|el primer objetivo es aumentar el número de visitantes 
-634|recoger|v|to pick up|se inclinó hacia la derecha para recoger una maleta 
-635|boca|nf|mouth, entrance, opening|cállese la boca, hijo, que estamos estudiando
-636|dirección|nf|direction, address|luego desearíamos navegar en dirección a otras estrellas 
-637|puro|adj|pure, clean|se llenaba los pulmones con el aire puro
-638|abandonar|v|to abandon, leave (a place)|cuánto nos dolerá abandonar este lugar que tanto amamos 
-639|pieza|nf|piece, part|el huarache es una pieza de pan cortado por la mitad 
-640|profesional|adj|professional|creo que era un salvavidas profesional, pagado
-641|imponer|v|to impose, enforce|a menudo trataba de imponer su voluntad
-642|obligar|v|to obligate, force|me obligó a terminar una novela
-643|físico|adj|physical|su trabajo requería un gran esfuerzo físico 
-644|actitud|nf|attitude|hay que tener siempre una actitud de metódico escepticismo 
-645|mar|nmf|sea|sobre todo en la región costera del mar Rojo
-646|francés|adj|French|era una auténtica madame francesa
-647|entrada|nf|entrance, admission ticket|llegamos nada más que hasta la entrada de la casa 
-648|contacto|nm|contact|nos mantendremos en contacto por vía telefónica 
-649|corazón|nm|heart, core|el amor llena tu corazón
-650|aplicar|v|to apply|lo amarró a un árbol y le aplicó una feroz paliza 
-651|capital|nmf|capital; city (f), money (m)|Praga es la capital de la República Checa
-652|rápido|adj|quick, fast|vamos a buscar una solución lo más rápido posible 
-653|título|nm|title, heading|esa novela tiene también otro título
-654|pertenecer|v|to belong|un 30 por ciento confiesa pertenecer a otras religiones 
-655|cuarto|nm|room, chamber|dormía en un cuarto donde estaba la cama de ella
-656|material|nm|material, element|la aplicación de los materiales superconduc- tores de alta temperatura 
-657|golpe|nm|hit, strike, punch|se murió por un golpe recibido en el cráneo
-658|disponer|v|to have means, dispose|el enemigo dispone de tropas y armas
-659|comunicación|nf|communication|la falta de comunicación es nuestra principal limitación 
-660|expresar|v|to express|ya expresó su opinión contraria
-661|simple|adj|simple, mere, simple-minded|al principio papá lo veía como un simple juego 
-662|totalmente|adv|totally, completely|el departamento estaba totalmente desnudo
-663|provocar|v|to cause, provoke|la brisa provoca una blanca lluvia de flores
-664|normal|adj|normal, usual, regular|los altibajos son algo normal de la vida diaria
-665|defender|v|to defend, protect|debemos defender nuestros derechos
-666|enfermedad|nf|illness, sickness|Diría aún que el rock es una enfermedad de los jóvenes 
-667|bien|nm|goods, property, benefit|el número de bienes que pueda poseer en un momento dado 
-668|materia|nf|matter, subject|en materia musical, la tecnología ha sufrido un receso 
-669|quitar|v|to remove, take away|sin problemas quita la sábana que cubre la cara de uno 
-670|conservar|v|to conserve, preserve|una señora que conserva recuerdos de su padre 
-671|moderno|adj|modern|he escrito sobre el arte moderno
-672|sitio|nm|place, space|de ocupar el sitio que me correspondía en la casa
-673|depender|v|to depend on|no me gusta depender de otra gente
-674|naturaleza|nf|nature, character|su naturaleza racional encierra un espíritu poético 
-675|capacidad|nf|capacity|tenía una gran capacidad para entender los tiempos nuevos 
-676|actual|adj|current|¿la gente del actual Gobierno lo sabe?
-677|marcar|v|to mark, note, dial|vemos así la estrella Polar, que marca el norte mejor que una brújula 
-678|distancia|nf|distance|¿qué puedo decir a miles de kilómetros de distancia? 
-679|pleno|adj|complete, full|el tiempo es un ladrón experto que roba a pleno día 
-680|cerrado|adj|closed|las cámaras de TV de circuito cerrado
-681|compartir|v|to share|espero que compartas tu jubilación conmigo
-682|información|nf|information|trató de obtener información más precisa
-683|ambiente|nm|environment, atmosphere|un ambiente silencioso le ayudó para concentrarse 
-684|especialmente|adv|especially|no era especialmente devota del amor en cautiverio 
-685|desarrollo|nm|development|dicen que ya hay planes de desarrollo urbano
-686|sol|nm|sun|se levanta antes del sol y no hay luz eléctrica
-687|muerto|adj|dead|viven sobre materia orgánica muerta o en descomposición 
-688|consistir|v|to consist of|la carga suele consistir de materias primas
-689|constituir|v|to constitute, consist of|los miembros que pueden constituir un sector competitivo 
-690|dispuesto|adj|willing, ready|estaba dispuesto a hacer cualquier sacrificio por la Patria 
-691|cubrir|v|to cover|se cubre el rostro con un pañuelo
-692|funcionar|v|to work, function|un sistema hidráulico que funcionaba mediante estanques de agua 
-693|compañero|nm|companion, classmate|fue compañero mío de universidad, muy buen amigo
-694|salida|nf|exit, escape, outcome|quizá por miedo a meterse en un callejón sin salida 
-695|caber|v|to fit (into)|no van a caber las cosas en la casa
-696|conciencia|nf|conscience, consciousness|se dormía en paz con su conciencia y con Dios
-697|atender|v|to serve, attend to|los médicos se alternarían para atender a los pacientes 
-698|enfermo|adj|ill, sick|el cayó enfermo de tuberculosis
-699|insistir|v|to insist on|el gobierno no debería insistir en este tipo de intervenciones 
-700|costumbre|nf|habit, custom, usage|tampoco faltaban, como era costumbre, las faltas de respeto 
-701|detrás|adv|behind|pueden estar detrás de ese árbol
-702|paz|nf|peace|de inmediato que se siente en un ambiente de paz y armonía 
-703|noticia|nf|news|¿qué noticias tienen de la isla de Mallorca?
-704|circunstancia|nf|circumstance|tuvimos que enfrentar una circunstancia económica difícil 
-705|dolor|nm|pain, ache, sorrow|se levantó quejándose de un dolor de espalda 
-706|privado|adj|private|los sectores público y privado han reducido sus obligaciones 
-707|estilo|nm|style|la casa era de estilo antiguo, con una gran galería al frente 
-708|precio|nm|price, cost, value|¡lleven tres al precio de uno!
-709|popular|adj|popular|¿se trata de música popular o culta?
-710|sentar|v|to sit (down), seat|los niños pasaban a sentarse en un escritorio 
-711|planta|nf|plant, floor|ninguna planta capaz de dar frutos puede crecer sobre esta tierra 
-712|personaje|nm|character (e.g. movie)|es difícil comprenderlo porque era un personaje muy complicado 
-713|famoso|adj|famous, well-known|es un hombre que ya es famoso precisamente por esas hazañas 
-714|éxito|nm|success|tiene mucho éxito con sus piezas teatrales
-715|hija|nf|daughter|es hija de padres divorciados
-716|merecer|v|to deserve, be worthy (of)|un interesante artista viajero que merece la pena conocer 
-717|edificio|nm|building|era un colegio estilo colonial el edificio
-718|autoridad|nf|authority|la autoridad no se impone, se gana con el respeto 
-719|piedra|nf|stone, rock|se había obtenido obsidiana (piedra volcánica)
-720|incluir|v|to include|el Partido no incluye ni excluye a nadie
-721|conjunto|nm|group, set|para mí fue el conjunto de cosas el que no me gustó 
-722|treinta|num|thirty|van a venir unas treinta personas
-723|cuánto|adj|how much?|¿Cuánto tiempo querías? ¿Una eternidad?
-724|inmediato|adj|immediate|anunció que regresaría de inmediato al aeropuerto 
-725|suerte|nf|luck, fortune|yo también estuve en esa guerra, aunque tuve la suerte de sobrevivir 
-726|cruzar|v|to cross|dudó un momento sin cruzar la calle
-727|tender|v|to tend to, lay out|la historia tendía a ser endiabladamente repetitiva 
-728|finalmente|adv|finally, at last|la casa fue finalmente demolida
-729|junto|adj|together|desde hace varios años trabaja junto con el profesor 
-730|anunciar|v|to announce, advertise|le oí anunciar la llegada de su invitado
-731|espíritu|nm|spirit, ghost|son, en cambio, una muestra del mismo espíritu de intolerancia 
-732|miembro|nm|member, limb|es el miembro más destacado del grupo
-733|directo|adj|direct, straight|entramos y fui directo al dormitorio
-734|despertar|v|to wake (up), arouse|se volvió a dormir y se despertó de nuevo 
-735|recurso|nm|resource, recourse, means|tienen todas nuestras técnicas y recursos a su disposición 
-736|pared|nf|(interior) wall|en la pared se ve colgada una pintura
-737|equipo|nm|team, equipment, outfit|volvió a Madrid para formar un equipo de trabajo 
-738|error|nm|error, mistake|en fin, hay la posibilidad de corregir el error
-739|preciso|adj|precise, necessary|en el preciso instante en que la puerta resonó contra la pared 
-740|diverso|adj|different, several, diverse|las cortezas de árboles de diversas especies
-741|dificultad|nf|difficulty, obstacle|nos encontramos en dificultades con esta nación 
-742|comentar|v|to comment on|buscamos el manuscrito para comentar algunos pasajes 
-743|publicar|v|to publish|voy a publicar otro libro con el resto
-744|familiar|adj|familiar, of the family|por tradición, el negocio familiar pasa a los hijos
-745|voluntad|nf|will, willpower, intention|donde hay una voluntad hay un camino
-746|reunión|nf|meeting, reunion|vamos a tener una reunión con él el próximo lunes 
-747|modelo|nc|model, pattern|¿alguna vez has sido modelo de un pintor?
-748|cargar|v|to load (up), carry|cargó en su mochila todo lo necesario y partió 
-749|fecha|nf|date, day|lo celebro inmortalizando esta fecha en mi diario 
-750|participar|v|to participate|me quería meter en eso, participar y trabajar en todo eso 
-751|impedir|v|to prevent, hinder|nadie puede impedir este suceso
-752|propósito|nm|intention, purpose|estamos totalmente de acuerdo con el propósito de la iniciativa 
-753|salvar|v|to save, rescue|la amaba porque le había salvado la vida
-754|cuidado|nm|care, carefulness|mira, tú tienes que tener cuidado con tu forma de expresarte 
-755|puesto|nm|job, place, position|me ofrecieron un puesto como redactora para la América Latina 
-756|grado|nm|degree, grade|las discusiones llegaban a un grado de violencia 
-757|escapar|v|to escape|sentí deseos de salir corriendo, escapar de aquella casa 
-758|lucha|nf|fight, struggle, wrestle|la lucha contra el desempleo es la principal prioridad 
-759|tirar|v|to throw, pull|el público se puso furioso y nos tiró tomates
-760|entero|adj|entire, whole, complete|son conocidos en el mundo entero
-761|jefe|nm/f|leader, boss, manager|es el jefe de una nueva tribu de guerreros
-762|interesante|adj|interesting|te quieren contar cosas interesantes que te diviertan 
-763|amplio|adj|wide, ample, broad|se encontraba en el amplio y fresco corredor de una vivienda 
-764|contestar|v|to answer, reply|no puede contestar esta pregunta
-765|periódico|nm|newspaper, periodical|su padre bajó el periódico que leía
-766|preocupar|v|to worry|cada día le preocupa más la suerte del muchacho 
-767|prestar|v|to lend|creo que te podré prestar unos mil soles
-768|par|nmf|pair, couple (m); a la par: at same time|acaba de comprar un par de zapatos 
-769|público|nm|public, audience|lo que me motiva es el contacto con el público 
-770|pesar|v|to weigh|el diamante pesaba sin cortar 60,25 quilates
-771|final|adj|final|lo que cuenta es el resultado final
-772|calidad|nf|quality|para mejorar la calidad de vida de los mexicanos 
-773|exponer|v|to expound, expose|el marido trató de exponer su verdadera situación económica 
-774|civil|adj|civil|hay que respetar el código civil
-775|ciencia|nf|science, knowledge|han sostenido que incluso la ciencia no es tan racional como se supone 
-776|tamaño|nm|size, dimension|volvió con un paquetón de papas fritas de tamaño gigante 
-777|mas|conj|but, however|es posible mas lo dudo
-778|doctor|nm/f|doctor|su salud decayó y el doctor le recomendó una vida más tranquila 
-779|cuadro|nm|painting, picture|observó el cuadro colgado en la pared de enfrente 
-780|caballo|nm|horse|montaban a caballo y jugaban polo
-781|responsabilidad|nf|responsibility|con la libertad viene la responsabilidad
-782|cincuenta|num|fifty|entre los cuarenta y los cincuenta años
-783|interno|adj|internal|la estructura sufría «un colapso interno»
-784|detalle|nm|detail|conoce en detalle los horrores de la dictadura
-785|marcha|nf|march, progress|se pone en marcha un mecanismo enloque- cido
-786|nueve|num|nine|las nueve vidas del gato
-787|carne|nf|meat, flesh|me gusta la carne de conejo
-788|jamás|adv|never|¡Jamás he visto cosa más grandiosa y sensacional! 
-789|pensamiento|nm|thought, thinking|un pensamiento extraño nació en mi mente
-790|viajar|v|to travel|le gustaba viajar en tren
-791|cargo|nm|position, charge, fee|¿desde cuando ocupa usted el cargo de Director Musical? 
-792|separar|v|to separate|sonrió sin separar los labios
-793|santa|nf|saint (f)|el 30 de agosto es también la fiesta de Santa Rosa de Lima 
-794|construcción|nf|construction|suelen instalarse durante la construcción del edificio 
-795|juicio|nm|judgment|no sabemos cuál será el juicio de la crítica sobre tus escritos 
-796|terreno|nm|ground, earth, terrain|éste es un terreno muy árido
-797|piso|nm|floor, story|había una escalera hasta el tercer piso
-798|compañía|nf|company|la compañía de teléfonos fue un monopolio de Estado 
-799|regresar|v|to return (to a place)|luego de catorce días regresó a su casa
-800|texto|nm|text|es un libro de texto en ciencias
-801|fuente|nf|source; fountain|la fuente de su inspiración hay que buscarla en Eurípides 
-802|presente|nm|present|no viven en el futuro ni en el pasado, ¡viven en el presente! 
-803|definitivo|adj|definitive, conclusive|ese adiós fue definitivo porque nunca volví a hablar con ella 
-804|revista|nf|magazine, journal|publica una revista en la que colabora regularmente 
-805|esperanza|nf|hope|yo creo que hay que tener fe, esperanza y caridad 
-806|máquina|nf|machine|una máquina que convierte la energía mecánica en eléctrica 
-807|contemplar|v|to contemplate|R. la contempló en silencio, compadecido
-808|recorrer|v|to travel, cover (distance)|su trabajo le permitió viajar y recorrer el mundo 
-809|frase|nf|phrase|bastaría una sola palabra o una frase para decirlo 
-810|perfecto|adj|perfect|queríamos encontrar el sitio perfecto
-811|sala|nf|room, hall|me conduce hasta la puerta de la sala que da acceso a la galería 
-812|durar|v|to last|esta suerte no te va a durar toda la vida
-813|instrumento|nm|instrument|el músico probó su instrumento disparando algunas notas 
-814|aquello|pron|that over there (n)|aquello era un palacio
-815|defensa|nf|defense, plea|para luchar hasta la muerte en defensa de la patria amenazada 
-816|director|nm/f|director, manager, principal|ejerce este control el director de cada departamento 
-817|retirar|v|to take away, retire|retiró su nombre de la contienda por la presidencia 
-818|explicación|nf|explanation|el mito es una explicación imaginativa del mundo y del hombre 
-819|artículo|nm|article, product, item|no podía concentrarse en el artículo que estaba escribiendo 
-820|debajo|adv|underneath, below|buscan algo debajo de una mesa
-821|permanecer|v|to stay, remain|estoy condenado a permanecer aquí
-822|asistir|v|to attend|llegó marzo y los chicos no pudieron asistir a clases 
-823|doce|num|twelve|la iglesia de los Doce Apóstoles
-824|radio|nmf|radio; set (m), communication (f)|fue transmitido en cadena nacional por la radio y la televisión
-825|organizar|v|to organize|quisiera organizar un grupo de teatro
-826|película|nf|movie, film|en la misma zona donde se había rodado la película «West Side Story» 
-827|elección|nf|election, choice|este año tendremos elección de 10 gobernadores 
-828|visita|nf|visit, visitor, guest|tras una visita a la ciudad de San Francisco
-829|contener|v|to contain|una dieta que no contiene las cosas que te llevan a la obesidad 
-830|apoyo|nm|support, backing|cuando necesité ayuda, ella volvió para darme su apoyo 
-831|presidente|nm|president|el Presidente es la máxima autoridad del país
-832|arma|nf|(el) weapon|después de decir esto, sacó un arma y disparó 
-833|árbol|nm|tree|las ramas del árbol, que dan sombra
-834|visitar|v|to visit|me gustaría visitar Los Ángeles
-835|informar|v|to inform|pero alguien le informó que ya se había ido
-836|encuentro|nm|meeting, game, skirmish|acepté el encuentro en el café habitual
-837|parecido|adj|similar|el resultado daba algo parecido a la locura
-838|corriente|nf|current, flow|la corriente eléctrica fluye por uno de los electrodos 
-839|lectura|nf|reading|orientaba mi afición por las letras con la lectura de los clásicos 
-840|existencia|nf|existence, life|él ignoraba la existencia de los otros
-841|lenguaje|nm|language, speech|dueño de un lenguaje basado en el habla popular 
-842|enviar|v|to send|para enviarle dinero a Pancho
-843|aun|adv|even (though), still|era popular, aun sin publicar sus principales obras 
-844|destino|nm|destination, destiny|para abordar su vuelo con destino a Estados Unidos 
-845|educación|nf|education|y nada contribuye más a ellas que la educación y la cultura 
-846|cuidar|v|to take care of|debía cuidar la virginidad de la hija
-847|intervenir|v|to intervene|en espera del momento apropiado para intervenir 
-848|operación|nf|operation|con el objetivo de elaborar una operación de rescate 
-849|raro|adj|strange, rare, scarce|no sé; me suena raro lo que dicen ustedes
-850|perfectamente|adv|perfectly|con un aspecto perfectamente sereno
-851|extender|v|to extend, spread|ella extiende sobre la mesita un mapa astral
-852|comprobar|v|to verify, prove|tuvo oportunidad de comprobar la cruda realidad 
-853|nota|nf|note, grade|la «españolada» tiene siempre una nota de carácter despectivo 
-854|particular|adj|particular, peculiar|una forma particular de vestirse y de caminar 
-855|ése|pron|that one (m), [ésa (f)]|ése es el único que no está aquí
-856|militar|adj|military|las autoridades civiles y militares harán respetar esta decisión 
-857|dormir|v|to sleep|esta cama es para dormir la siesta en verano
-858|unido|adj|united|tenemos un candidato fuerte, tenemos un Partido unido 
-859|discutir|v|to argue, discuss|parecía discutir con un interlocutor invisible
-860|extraordinario|adj|extraordinary, exceptional|yo creo que tiene un talento extraordinario como director
-861|teatro|nm|theater, drama|amalgamaban las bellas artes, la literatura, el teatro y la música 
-862|enfrentar|v|to confront, face|prefieren huir a enfrentarse con los soldados
-863|recién|adv|recently, just|amigos que recién habían tenido un hijo
-864|negocio|nm|business, transaction|a base de negocios ilícitos acumuló una fortuna importante 
-865|letra|nf|letter, handwriting, lyrics|la letra es un jeroglífico
-866|peor|adv|worse|cada día que pasa veo peor y escribo menos
-867|sentimiento|nm|feeling, sentiment|se molesta, hay en ella un sentimiento de frustración 
-868|conducir|v|to lead, drive|el mismo camino que nos condujo a ese lugar 
-869|completamente|adv|completely|me olvidé completamente de mí misma
-870|firmar|v|to sign|acabamos de firmar una carta de protesta
-871|solución|nf|solution, answer|no encontraría la solución a mis problemas
-872|mío|pron|mine|mozo, otro café igual al mío
-873|comida|nf|food, meal|en los restaurantes no se servía comida antes de las ocho 
-874|impresión|nf|impression, printing|me da la impresión de que no quiere enterarse 
-875|plano|nm|plane, map, level|A., en el plano sentimental, se mueve muy seguro de dos cosas 
-876|intención|nf|intention|comunicó a los dueños su intención de comprarles el piso 
-877|ritmo|nm|rhythm|es un ritmo de vida y un sistema de vida muy distinto 
-878|verde|adj|green|los vegetales de hoja verde, como las espinacas y la col 
-879|exacto|adj|exact, faithful, true|en ese momento, en ese exacto momento, no antes ni después 
-880|respetar|v|to respect|hay que respetar a las personas mayores
-881|banco|nm|(financial) bank, bench|el Banco de México garantiza una parte del crédito 
-882|inmediatamente|adv|immediately|pensé inmediatamente en ti
-883|sostener|v|to support, hold up|subimos a la plataforma que sostenía la cama
-884|piel|nf|skin, hide, fur|tenía la piel muy sucia; me desnudé y lo llevé al baño 
-885|delante|adv|(in) front (of), ahead|el caballo marchaba delante y a la derecha
-886|religioso|adj|religious|un sentimiento religioso que expresa admiración 
-887|advertir|v|to notice, warn|una compañera le advirtió que aquello era una falsificación 
-888|oscuro|adj|dark, obscure|estás en el punto más oscuro del bosque
-889|control|nm|control|y esto, sin ese control, se ha vuelto salvaje
-890|investigación|nf|investigation|están dedicados a la investigación financiera y de propiedades 
-891|transformar|v|to transform, change|la política básica fue transformar China en una sociedad socialista 
-892|conversación|nf|conversation|quería continuar la conversación sobre la pintura y el arte 
-893|verano|nm|summer|esperan el calor del verano que cada día parecía más lejano 
-894|respeto|nm|respect, regard|hasta ese momento sentía un respeto muy grande hacia él 
-895|norte|nm|north|creo que en el norte y el centro del país se ha logrado eso 
-896|mediante|prep|by means of|se salvó mediante el remedio ése
-897|cuarto|adj|fourth|un veinticinco por ciento, la cuarta parte, está cubierta de bosques 
-898|tradición|nf|tradition|deberías ser fiel a la tradición religiosa
-899|bastar|v|to be sufficient|una sola lección le bastó para conocerlo todo
-900|población|nf|population|hay una población de 75 mil personas
-901|pareja|nf|couple, pair|una pareja de enamorados se besa
-902|pasado|nm|past|Ud. sólo piensa en el pasado. // Si, pero es tan lindo recordar 
-903|diario|nm|newspaper|las noticias que lee en el diario acerca de lo que pasa en Inglaterra 
-904|azul|adj|blue|y los colores básicos: azul, amarillo, verde y rojo
-905|mencionar|v|to mention, cite|se deben mencionar algunos detalles más
-906|generación|nf|generation|está criando la nueva generación de hijos
-907|frío|adj|cold|las temperaturas son aún más frías durante el invierno 
-908|visión|nf|vision|teníamos sobre todo una misma visión de la vida
-909|concreto|aj|concrete, real|de buscar una solución al problema concreto de las minas 
-910|plantear|v|to propose, present|quisiéramos aquí plantear la cuestión
-911|probar|v|to test, prove, try|metió la mano adentro para probar la temperatura 
-912|derecho|adj|right, straight|¿dónde está? // Derecho por el corredor, a la derecha 
-913|peligro|nm|danger, menace|ante el peligro de la muerte, Douglas recordó toda su vida 
-914|oro|nm|gold|no faltan los lingotes, barras y monedas de oro y plata 
-915|justo|adv|just|está colocada en el medio - justo frente a la silla
-916|manejar|v|to drive, handle|quiero manejar un auto
-917|vino|nm|wine|para acompañar un plato así, tiene que ser vino tinto 
-918|unir|v|to unite, join (together)|lo que Dios ha unido no lo separe el hombre
-919|caminar|v|to walk|sólo debía caminar dos cuadras para llegar a la terminal 
-920|coincidir|v|to coincide, agree|se entienden, a pesar de no coincidir siempre en sus opiniones 
-921|etapa|nf|stage, period|entró en la etapa final de su enfermedad
-922|sencillo|adj|simple, plain, easy|¿es más difícil o más sencillo que antes?
-923|silencio|nm|silence|Castro guarda silencio en cuanto al número de encarcelados 
-924|salvo|adv|except (for), but|todo ha envejecido salvo esa mirada
-925|llenar|v|to fill|un espacio se puede llenar con muchos elementos bonitos 
-926|dominar|v|to dominate, master|dominaba tres lenguas: el griego, el latín, y el osco 
-927|determinado|adj|determined, fixed|se levantó con aire determinado para marcharse 
-928|artista|nc|artist, performer|el artista pintó también retablos de madera de gran formato 
-929|medir|v|to measure|la Colonia Güell mide precisamente 44 metros de alto 
-930|labor|nf|labor, work, task|se habla mucho de su labor en el terreno del psicoanálisis 
-931|perdido|adj|lost|no todo estaba perdido y era posible conseguir un empleo 
-932|cielo|nm|sky, heaven, ceiling|cree ver en el cielo una nube negra
-933|práctica|nf|practice, skill|necesitas poner en práctica tus ideas
-934|límite|nm|limit|habían llegado al límite de su paciencia
-935|masa|nf|mass, dough, bulk, crowd|para determinar la masa atómica de diversos elementos 
-936|directamente|adv|directly, straight away|se metió directamente en la pelea
-937|atravesar|v|to cross|para llegar al monte tenía que atravesar la pista caminando 
-938|formación|nf|formation, education|¿cuál ha sido su formación académica?
-939|perro|nm|dog|el gato, el perro y los pollos fueron domesticados muy pronto 
-940|izquierda|nf|left|los miró de arriba abajo y de izquierda a derecha 
-941|destacar|v|to emphasize, stand out|quisiera destacar los puntos siguientes
-942|cercano|adj|near|su lugar de trabajo se encontraba cercano a la residencia 
-943|cuarenta|num|forty|era una mujer de unos cuarenta años
-944|pronunciar|v|to pronounce|su manera de pronunciar el castellano
-945|distinguir|v|to distinguish|el desdichado no distingue entre lo cierto y lo ilusorio 
-946|energía|nf|energy, power|no encontró ni las palabras ni la energía para hacerlo 
-947|confianza|nf|confidence, trust|hay una gran confianza entre los alumnos y la profesora 
-948|adecuado|adj|adequate, suitable|buscó el lugar adecuado donde plantar su nido
-949|introducir|v|to introduce, bring in|ahorita se pueden introducir las nuevas tecnologías 
-950|flor|nf|flower|el clavel y las rosas, tulipán y ¿cuál era la otra flor?
-951|esposa|nf|wife|la delicada solicitud de Elena, su esposa y compañera permanente 
-952|comunicar|v|to communicate|la novela sirve más bien para comunicar ideas 
-953|italiano|adj|Italian|tantas ciudades italianas que son casi como un museo 
-954|invitar|v|to invite|le voy a invitar con un café caliente
-955|responsable|adj|responsible|siempre me sentí responsable de nuestra separación 
-956|feliz|adj|happy, fortunate|con un aplausito cortés, y una sonrisita feliz
-957|revolución|nf|revolution|los progresos en la ciencia y la revolución de las comunicaciones 
-958|instalar|v|to install|trataba de instalar un columpio para los niños 
-959|tardar|v|to delay, take long|el tren se tardó doce horas en llegar a Roma
-960|mejorar|v|to improve, get better|no va a mejorar, R. suspiró con aire de resignación 
-961|maestro|nm|teacher (m), master|en términos académicos, soy maestro de Humanismo en la Universidad 
-962|emplear|v|to employ|el pintor necesita emplear sus talentos en sus obras 
-963|alemán|adj|German|la firma de electricidad alemana AEG, en Berlín 
-964|convenir|v|to be agreeable, be convenient|no conviene que me vean en un consultorio de esos 
-965|recuperar|v|to recuperate, recover|pareció recuperar parte de sus menguadas fuerzas 
-966|fenómeno|nm|phenomenon|el muchacho debe de ser un fenómeno para recuperarse tan pronto 
-967|presión|nf|pressure|está ejerciendo mucha presión para que no lo publiquemos 
-968|dado|adj|given|todos ellos, en un momento dado, fueron rivales 
-969|alumno|nm|student, pupil|yo fui muy buen alumno en la matemática
-970|teoría|nf|theory|un artículo acerca de la fusión nuclear o la Teoría de la Relatividad 
-971|probablemente|adv|probably|probablemente después de misa se viene a cocinar 
-972|tono|nm|tone|habla de forma pausada y en tono bajo
-973|salud|nf|health|ayudan a elevar el nivel de salud a través de la alimentación 
-974|definir|v|to define|la suma de los actos que define una vida
-975|superar|v|to overcome, surpass|el sistema inmunológico supera a la bacteria 
-976|señora|nf|Mrs., lady, madam|Señora Shoemaker, ¿cuándo descubrió este cometa? 
-977|exactamente|adv|exactly|quedan exactamente dos segundos y seis décimas 
-978|afirmar|v|to assert, affirm|afirmó que E. pertenecía a una horrible clase de hombre 
-979|diario|adj|daily|no es como . . . cualquier cosa de la vida diaria 
-980|histórico|adj|historical|el único manuscrito histórico con miniaturas del mundo bizantino 
-981|debido|adj|debido a: due to|una infección intestinal, debido a la falta de higiene 
-982|vía|nf|por vía: by means; road, way|esa información que ha venido a esta Cámara por vía periodística 
-983|interpretar|v|to interpret|la expresión en su rostro era difícil de interpretar 
-984|alma|nf|(el) soul|en el fondo de su alma se encendió una llamarada de rebelión 
-985|admitir|v|to admit|ella no quería admitir su culpabilidad
-986|identificar|v|to identify|permitió identificar con precisión las causas de la contaminación 
-987|madera|nf|wood|se exporta madera de pino del sur de Brasil
-988|fiesta|nf|party, feast|¿le gustaría celebrar su fiesta de cumpleaños?
-989|calor|nm|heat, warmth|era verano, el piso todavía estaba caliente; hacía calor 
-990|mínimo|adj|minimum|son alumnas que no tienen el mínimo interés por aprender 
-991|afectar|v|to affect|los déficits fiscales sí pueden afectar la economía 
-992|hogar|nm|home, hearth|el niño tiene derecho a un hogar y a un padre, a un apellido 
-993|mente|nf|mind|tenía una mente analítica y científica
-994|seguramente|adv|surely, securely|se sentó a mi lado, seguramente para darme confianza 
-995|preocupación|nf|worry, concern|su rostro expresaba preocupación y tristeza
-996|reducir|v|to reduce|el importe del maíz se reducía a cero
-997|concepto|nm|concept|hoy tenemos un concepto muy museístico de la obra de arte 
-998|montar|v|to ride, mount, assemble|vieron que yo montaba bien a caballo
-999|teléfono|nm|phone, telephone|la llamo por teléfono y me dice que recibió el mensaje 
+0001|el|art|the|ese hombre era el hombre que yo quería ser
+0001|la|art|the|esa mujer era la mujer que yo quería ser
+0002|de|prep|of, from|el hijo de un hermano mío
+0003|que|conj|that, which|dice que no
+0004|y|conj|and|él y ella sabían leer y escribir
+0005|a|prep|to, at|se fue a la cama
+0006|en|prep|in, on|no está en la casa
+0007|un|art|a, an|era un hombre simpático
+0008|ser|v|to be (norm)|es nuevo, es bueno
+0009|se|pron|[“reflexive” marker]|la abuela se acostó tranquila
+0010|no|adv|no|no hay modo de negar nada
+0011|haber|v|to have (+Ved)|no ha dicho nada
+0012|por|prep|by, for, through|así fue por mucho tiempo
+0013|con|prep|with|hay un hombre con ella
+0014|su|adj|his/her/their/your (–fam)|¿quién era? ¿Su hermana? ¿Su amiga?
+0015|para|prep|for, to, in order to|¡tengo una sorpresa sensacional para ti!
+0016|como|conj|like, as|ser compositor en España es como ser torero en Finlandia 
+0017|estar|v|to be (location, change from norm)|él está en el trabajo
+0018|tener|v|to have|estaba seguro de tener buena memoria
+0019|le|pron|[3rd person] (indir obj)|nunca le dijo la verdad
+0020|lo|art|the (+ n)|lo mejor es estudiar mucho
+0021|lo|pron|[3rd person] (dir obj-m)|lo compré en la tienda
+0022|todo|adj|all, every|todos los hombres son iguales
+0023|pero|conj|but, yet, except|no significa nada para mí, pero no puedo olvidarla 
+0024|más|adj|more|él necesitaba más dinero
+0025|hacer|v|to do, make|he podido hacer lo que me gusta
+0026|o|conj|or|sí esperaba uno o dos muertos
+0027|poder|v|to be able to; can|¡se hace lo que se puede!
+0028|decir|v|to tell, say|parece que dice la verdad
+0029|este|adj|this (m) [esta (f)]|y entendía estas cosas muy bien
+0030|ir|v|to go|me habían invitado a ir a su casa
+0031|otro|adj|other, another|¿por qué no podía ser otra cosa?
+0032|ese|adj|that (m) [esa (f)]|¿dónde viven esas mujeres?
+0033|la|pron|[3rd person] (dir obj-f)|la puso en su bolsillo
+0034|si|conj|if, whether|si quiere cazar, vamos a cazar
+0035|me|pron|me (obj)|¿cuando me va a llamar?
+0036|ya|adv|already, still|su marido ya ha dicho todo
+0037|ver|v|to see|había que subir para ver las ruinas
+0038|porque|conj|because|lo vendo sólo porque tengo un apuro muy grande
+0039|dar|v|to give|me dio esta carta para Ud.
+0040|cuando|conj|when|aquella es de mis nietos, cuando eran bebés
+0041|él|pron|he, [ellos] them (m)|él es bastante simpático
+0042|muy|adv|very, really|está muy contento con mi trabajo
+0043|sin|prep|without|se habían quedado sin dinero
+0044|vez|nf|time (specific occurrence)|es la primera vez que estoy junto al mar
+0045|mucho|adj|much, many, a lot (adv)|por lo visto tienen mucho dinero
+0046|saber|v|to know (a fact), find out|ellos lo saben y lo reconocen
+0047|qué|pron|what?, which?, how (+ adj)!|no sé qué voy a hacer
+0048|sobre|prep|on top of, over, about|dejó el papel sobre la mesa y se fue
+0049|mi|adj|my|mi casa es su casa
+0050|alguno|adj|some, someone (pron)|habló algunas palabras con el agente de negocios 
+0051|mismo|adj|same|pronunciando el mismo discurso en siete idiomas 
+0052|yo|pron|I (subj)|¡Yo soy el padre!
+0053|también|adv|also|y también van a estar los otros
+0054|hasta|prep|until, up to, even (adv)|toda la noche, hasta las tres de la mañana
+0055|año|nm|year|no lo supo hasta casi un año después
+0056|dos|num|two|de allí salieron dos hermanas solteras
+0057|querer|v|to want, love|quiero que este proceso salga con limpieza
+0058|entre|prep|between, among|la cosa es entre tú y yo
+0059|así|adv|like that|la vida es así 
+0060|primero|adj|first|las primeras palabras que nos enseñan a leer y escribir 
+0061|desde|prep|from, since|lo había pensado desde el primer momento
+0062|grande|adj|large, great, big|lo ha mirado a los grandes ojos negros
+0063|eso|pron|that (n)|y eso no es todo
+0064|ni|conj|not even, neither, nor|pero ni eso me tranquilizó
+0065|nos|pron|us (obj)|nos vio en la calle
+0066|llegar|v|to arrive|como para llegar hasta el fondo de las almas
+0067|pasar|v|to pass, spend (time)|tras la ventana lo veo pasar una y otra vez
+0068|tiempo|nm|time (general), weather|he estado mucho tiempo con ella
+0069|ella|pron|she, [ellas] them (f)|ella es muy estudiosa
+0070|sí|adv|yes|quiero una respuesta concreta: sí o no
+0071|día|nm|day|cada día hay más problemas
+0072|uno|num|one|hay uno que ya lo está haciendo
+0073|bien|adv|well|y entonces hice bien en quedarme
+0074|poco|adj|little, few, a little bit (adv)|trabajó poco tiempo con él
+0075|deber|v|should, ought to; to owe|te debes calmar, le aconsejó T.
+0076|entonces|adv|so, then|vamos entonces a cambiarlo
+0077|poner|v|to put (on), get (+adj)|puso el cuchillo en manos de M.
+0078|cosa|nf|thing|estoy ya interesado en otra cosa
+0079|tanto|adj|so much, so many|no podía creer que haya tanta gente junta
+0080|hombre|nm|man, mankind, husband|yo soy un hombre de pocas necesidades
+0081|parecer|v|to seem, look like|parecía dormir, tan inmóvil estaba
+0082|nuestro|adj|our|no servía para nuestro país porque somos diferentes 
+0083|tan|adv|such, as, too, so|en esa mujer está todo; y por eso es tan maravillosa 
+0084|donde|conj|where|yo sé donde está la llave
+0085|ahora|adv|now|lo importante ahora es contarte lo que le pasó
+0086|parte|nf|part, portion|el arte es una parte tan importante de la cultura 
+0087|después|adv|after|vamos a dar un paseo después de comer
+0088|vida|nf|life|ha dedicado toda la vida a la música
+0089|quedar|v|to remain, stay|el aire empezó a quedarse quieto
+0090|siempre|adv|always, forever|siempre ha sido así
+0091|creer|v|to believe, think|creo en la justicia de Dios
+0092|hablar|v|to speak, talk|algunos hablan el idioma romaní
+0093|llevar|v|to take, carry|colgado al hombro llevaba un bolso
+0094|dejar|v|to let, leave|ella no dejó que yo lo olvidara
+0095|nada|pron|nothing, (not) at all|no hay nada que hacer
+0096|cada|adj|each, every|de aprender cada día un poco más
+0097|seguir|v|to follow, keep on|el calor sofocante que sigue al mediodía
+0098|menos|adj|less, fewer|no vale más ni menos que la anterior
+0099|nuevo|adj|new|marcaba el comienzo de una nueva vida para mí
+0100|encontrar|v|to find|encontró un lugar apropiado para instalar la sucursal 
+0101|algo|pron|something, somewhat|tengo algo que decirte
+0102|sólo|adv|only, just|no siempre vestía ropa de mujer; sólo en carnaval 
+0103|pues|conj|then, well then|pues venga usted cuando quiera
+0104|llamar|v|to call, name|el juez se llamaba Pedro Barreda
+0105|venir|v|to come|unos afirman que el jazz viene de África
+0106|pensar|v|to think|trataba de pensar de dónde podría sacar el dinero 
+0107|aquel|adj|that (over there)|unos veinte millones de pesetas (de aquella época)
+0108|momento|nm|moment, time|estaba pasando uno de los peores momentos de mi vida 
+0109|sino|conj|but, except, rather|no somos nosotros el centro sino ella
+0110|esto|pron|this (n)|quiero esto o aquello
+0111|salir|v|to leave, go out|para que le abriese la reja para salir al bosque
+0112|volver|v|to return, to V again|los habitantes afectados puedan volver a sus casas
+0113|forma|nf|form, shape, way|necesito estar en buena forma física
+0114|antes|adv|before|quería verla antes de salir
+0115|bueno|adj|good|si estaba de buen humor, nos besábamos sin ruido
+0116|casa|nf|house|hoy la gente vive en la calle; no vive en su casa
+0117|aunque|conj|although, even though|aunque hay problemas, muchos se pueden evitar
+0118|mundo|nm|world|no se parecía a ninguna ciudad del mundo
+0119|tres|num|three|tres direcciones: diagonal, horizontal y vertical
+0120|tal|adj|such (a)|bien sabía que tal cosa era imposible
+0121|mejor|adj|best, better (adv)|yo, al fin y al cabo, soy el mejor amigo
+0122|tomar|v|to take, drink|mi padre tomó un sorbo de agua y continuó hablando 
+0123|cierto|adj|certain, sure, true|no sé si esto es cierto o no
+0124|conocer|v|to know (someone or place)|ella conoce muy bien a Nicolás 
+0125|hacia|prep|toward, towards|sus sentimientos hacia él son todavía tan firmes 
+0126|cómo|adv|how?|mamá, ¿cómo puedo vivir?
+0127|mujer|nf|woman, wife|su mamá es una mujer muy enferma y no puede trabajar 
+0128|vivir|v|to live|vamos a Buenos Aires, a vivir en la miseria
+0129|aquí|adv|here|¡Aquí hay dos también!
+0130|caso|nm|case, occasion|luego, en este caso está plenamente justificada 
+0131|sentir|v|to feel, regret|lloraba de sentirse tan depravado
+0132|luego|adv|later, afterwards|luego va con su esposa y la contagia
+0133|país|nm|country|de todos los países de las Américas
+0134|tratar|v|to try, treat, deal with|eso es precisamente lo que tratamos de evitar
+0135|lugar|nm|place, position|es el lugar más lindo de la costa
+0136|te|pron|you (obj/+fam)|¿no te han hablado? 
+0137|persona|nf|person|era una persona de mucho talento
+0138|mayor|adj|larger, older, main|yo trabajé la mayor parte del tiempo
+0139|último|adj|last, final|se opuso al viaje hasta el último momento
+0140|propio|adj|own, proper, typical|le doy dinero de mi propio bolsillo
+0141|quien|pron|who, whom|ahora o, quién sabe, nunca
+0142|mirar|v|to look, watch|y los ojos mirando al infinito
+0143|hora|nf|hour, time (specific)|deben celebrarse a primera hora de la tarde
+0144|ninguno|adj|no, none, nobody (pron)|ninguno de mis cuatro varones se ha graduado de nada 
+0145|trabajo|nm|work, job, effort|pasó su vida entera dedicado a su trabajo
+0146|casi|adv|almost, nearly|estamos casi siempre solos
+0147|punto|nm|point, dot, period|desde mi punto de vista son las más significativas 
+0148|durante|adv|during, for (time)|durante una semana traté de no verla
+0149|cualquier|adj|any, anyone (pron)|en cualquier caso, necesitamos soledad
+0150|mano|nf|hand|se pueden contar con los dedos de una mano
+0151|nunca|adv|never, ever|se aprecia ahora más que nunca la libertad
+0152|manera|nf|way, manner|lo hizo de manera muy informal
+0153|cual|pron|which, who, whom|el pañuelo con el cual me limpié
+0154|mientras|conj|while, whereas, as long as|nos miró mientras comía un gran trozo de pan
+0155|contar|v|to tell, count|me contó una larga y estúpida historia
+0156|fin|nm|end|se habrá terminado la humanidad y ése será el fin de la Historia 
+0157|tipo|nm|type, kind|reconozco tu oposición a este tipo de ideología 
+0158|gente|nf|people|la gente tiene miedo de perder su identidad
+0159|además|adv|also, as well, besides|además de español, ¿hablas algún otro idioma? 
+0160|solo|adj|lonely, alone|se sentía solo, espantosamente solo
+0161|empezar|v|to begin, start|lentamente su auto empieza a avanzar
+0162|ejemplo|nm|example|hay otras, por ejemplo las guerras
+0163|esperar|v|to wait, hope (for), expect|los astrónomos llevaban siglos esperando a que sucediera 
+0164|hoy|adv|today, nowadays|ayer estuvo aquí; hoy puede estar allá
+0165|lado|nm|side|está situada al lado derecho
+0166|hijo|nm|son, [pl] children|cada padre espera que su hijo sea más que él
+0167|allí|adv|there, over there|allí están, junto a la playa
+0168|éste|pron|this one (m), [ésta (f)]|¿qué esperabas de un lugar como éste?
+0169|problema|nm|problem|para resolver un problema tan sencillo
+0170|cuenta|nf|bill, account|sería bueno sacar la cuenta y calcular gastos
+0171|medio|nm|means, middle; pormedio: through|por medio de la música, se conocen los sentimientos
+0172|contra|prep|against, opposite|hermanos contra hermanos y padres contra hijos
+0173|buscar|v|to look for|decidí volver a la calle y buscar un empleo
+0174|dentro|adv|inside|¿o algo quedó dentro del pozo tapiado?
+0175|largo|adj|long|tenía el pelo largo a la altura de los pechos
+0176|palabra|nf|word|jamás dijo una palabra en inglés
+0177|existir|v|to exist|¿puede existir alguien que sea perfecto?
+0178|niño|nm|child, little boy|he tenido suerte desde que era niño
+0179|entrar|v|to enter|¡este maldito no puede entrar en nuestra casa!
+0180|embargo|nm|sin embargo: nevertheless|el concierto tendrá, sin embargo, un significado especial 
+0181|único|adj|only, unique, sole|era el único hijo varón de la familia
+0182|padre|nm|father|¿es el padre de mi futuro hijo?
+0183|trabajar|v|to work|comenzaban a trabajar de camareros
+0184|pequeño|adj|little, small, young|a pesar de su pequeño tamaño estaba llena de detalles 
+0185|alto|adj|tall, high|desde lo alto de los Alpes
+0186|cambio|nm|change|podía requerir un cambio de actitud
+0187|escribir|v|to write|mi padre escribe unas cartas tan cortas
+0188|cuatro|num|four|tienen cuatro patas y cuernos
+0189|ahí|adv|there|está ahí en la mesa de luz
+0190|perder|v|to lose, miss|el golpe me hizo perder el equilibrio
+0191|nosotros|pron|we (subj)|jamás lo hemos hecho nosotros
+0192|historia|nf|history, story|los períodos más diversos de la historia del arte
+0193|idea|nf|idea|podemos renunciar a la idea de la igualdad
+0194|agua|nf|(el) water|Déme usted un vaso de agua, que tengo mucha sed 
+0195|producir|v|to produce, cause|nunca llegó a producirse el tercer y prometido ataque 
+0196|noche|nf|night, evening|trabaja por la mañana, por la tarde, y por la noche 
+0197|ciudad|nf|city|quieren estar en la ciudad y no salir al campo 
+0198|modo|nm|way, manner|hay diferencia entre el modo de hablar y el de escribir 
+0199|nombre|nm|name, noun|Susana no es mi nombre verdadero
+0200|ocurrir|v|to happen, occur|el miedo a lo que pudiera ocurrir me inmovilizó 
+0201|familia|nf|family|la familia es la unidad social más significativa
+0202|realidad|nf|reality, actuality|le habló a Rosabel, que en realidad se llamaba María 
+0203|entender|v|to understand|todavía no entiendo demasiado bien lo que pasó
+0204|pedir|v|to ask for, request|me atreví a pedirle que me diera clases
+0205|recibir|v|to receive|Pavlov recibe el Premio Nobel por sus estudios 
+0206|obra|nf|work, book, deed|la primera obra literaria de Dante fue La Vida Nueva 
+0207|importante|adj|important|el momento más importante de la ceremonia
+0208|medio|adj|half, middle|la noche sorprendió a los viajeros a medio camino 
+0209|verdad|nf|truth|¡diga la verdad! ¡Todo le acusa!
+0210|mes|nm|month|tendrá lugar el próximo mes de noviembre
+0211|todavía|adv|still, yet|los animales que todavía están vivos
+0212|razón|nf|reason; tener razón: to be right|es verdad, tienes razón; ella no es de San Juan
+0213|cuanto|adj|en cuanto a: in terms of, regarding|hoy hay más apatía en cuanto a estas cuestiones 
+0214|bajo|prep|under, underneath|hacía dos o tres grados bajo cero
+0215|recordar|v|to remember, remind|prefiero no recordar esa época de mi vida
+0216|grupo|nm|group|¿cuál será su papel en ese grupo de trabajo?
+0217|mil|num|thousand|unos mil años han pasado desde entonces
+0218|humano|adj|human|somos seres humanos, y gente normal
+0219|terminar|v|to finish, end|cuelga sin terminar la conversación
+0220|permitir|v|to allow, permit|no se me permitió jugar allí por varios días
+0221|aparecer|v|to appear|detrás suyo, Teresa apareció por la puerta de la cocina 
+0222|conseguir|v|to get, acquire, obtain|vas a robar, para conseguir plata
+0223|comenzar|v|to begin, start|a los veintidós años comenzó a aprender castellano 
+0224|varios|adj|several, various|está constituida por varios dialectos
+0225|posible|adj|possible|trató de hacer el menor ruido posible para no despertarla 
+0226|servir|v|to serve|destapa la botella y sirve unas copas
+0227|general|adj|general|es decir, algo equivalente a los genes en sentido general 
+0228|sacar|v|to take out|la Lechuza sacó un revólver y mató a este muchacho 
+0229|necesitar|v|to need|vas a necesitar un trabajo nuevo
+0230|relación|nf|relationship, relation|he tenido una relación muy estrecha con los compositores 
+0231|cinco|num|five|gozo de tener los cinco sentidos
+0232|cuerpo|nm|body|el cuerpo humano se compone de millones de células 
+0233|nadie|pron|nobody, anybody|nadie sabe nada
+0234|mantener|v|to keep, maintain|Luis cruzó los brazos y se mantuvo sereno 
+0235|hecho|nm|fact, happening|le gustó el hecho de que yo estuviese allí
+0236|ante|prep|before, in the presence of|qué hacer y cómo actuar ante estas circunstancias 
+0237|principio|nm|beginning, principle|tiene fiebre al principio de la enfermedad
+0238|resultar|v|to result, turn out|todo con gran precisión; el viaje resultó perfecto 
+0239|igual|adj|equal, same (as)|los indios son seres humanos iguales que nosotros 
+0240|señor|nm|sir, Mr, lord|¿puedo pagar con dólares? Sí señor
+0241|pueblo|nm|people, village|el libro no representa al pueblo portugués
+0242|tarde|nf|afternoon, evening|eran las dos de la tarde y yo estaba sin comer nada
+0243|segundo|adj|second|en la segunda mitad del siglo
+0244|leer|v|to read|prefiero leer a los autores de moda
+0245|caer|v|to fall|no quiero caer en mi tumba siendo joven 
+0246|cambiar|v|to change|no van a cambiar las relaciones de poder 
+0247|ojo|nm|eye|los grandes ojos verdes la miraban con ternura 
+0248|calle|nf|street|llegó a la esquina de la calle La Merced y la Huancavelica 
+0249|presentar|v|to introduce, present|P. me presentó con gravedad a una chica virgen 
+0250|blanco|adj|white|esta foto es en blanco y negro
+0251|crear|v|to create|lo que A. creaba con las manos era un don sobrenatural 
+0252|abrir|v|to open|todos quieren abrir la puerta para ir a jugar
+0253|libro|nm|book|¿está usted escribiendo un libro sobre la política? 
+0254|distinto|adj|distinct, different|abrirían las puertas a un futuro distinto para mí
+0255|fuerza|nf|strength, force, power|hay artistas excepcionales, con una fuerza increíble 
+0256|luz|nf|light|desaparece la luz hasta el oscuro
+0257|según|prep|according to|según su experiencia, ésa era la pista correcta
+0258|santo|nm|saint (m)|todos iban detrás del Santo Patrono con rezos y cánticos 
+0259|claro|adj|clear|esto constituye un claro precedente
+0260|frente|nmf|al frente: facing; frente a: across from|lo Uno frente a lo Otro, el Bien frente al Mal 
+0261|considerar|v|to consider|no podía considerar la primera hipótesis con seriedad 
+0262|amigo|nm|friend|¿No tienes un amigo a quien me podrías presentar? 
+0263|oír|v|to hear|no se oía ningún sonido
+0264|cuyo|adj|whose|el oxígeno, cuyo número atómico es 8
+0265|sentido|nm|sense, feeling|una cantante-actriz en el sentido actual del término 
+0266|acabar|v|acabar de V: to have just Ved; finish|la que ahora se acaba de traducir al castellano 
+0267|paso|nm|step, pace|sí, la escritura fue un paso decisivo
+0268|situación|nf|situation|¿cómo es la situación allí actualmente?
+0269|usted|pron|you (subj/–fam)|los tiene usted, señor alcalde 
+0270|bastante|adj|rather, fairly, quite a bit (adv)|estoy bastante satisfecho con mi vida
+0271|convertir|v|to convert, change, become|el café llegó a convertirse en la bebida más popular de Cuba 
+0272|gracia|nf|(pl) thank you; grace, favor|bueno, gracias por tu tiempo, ¿eh?
+0273|siglo|nm|century, age|los poetas más populares del siglo XX
+0274|dios|nm|god, divinity|ahora sé que hay un Dios en los cielos
+0275|malo|adj|bad|éste se lamentó de su mala suerte
+0276|tierra|nf|earth, land, ground|la tierra daba el maíz, el trigo y el arroz
+0277|papel|nm|paper, role, part|el poco papel que tenemos lo dedicamos a libros 
+0278|madre|nf|mother|ahora está casada, es madre de familia
+0279|tampoco|adv|neither, nor, either|porque yo no la conozco y él tampoco la conoce 
+0280|social|adj|social|no me gusta la vida social, no voy a ninguna parte
+0281|viejo|adj|old, aged|el viejo tiene como ochenta años, y está loco
+0282|aún|adv|still, yet|se está muriendo; aún está en coma
+0283|tema|nm|theme, subject, topic|entre ellos pues está el tema de la ecología
+0284|político|adj|political|nos afiliamos a un partido político
+0285|español|adj|Spanish|la lengua española de hoy es el castellano
+0286|ganar|v|to win, earn|a los diez años ganó el Premio Nobel
+0287|formar|v|to form|sus componentes se marchaban para formar sus propios grupos 
+0288|clase|nf|kind, class, order|¿qué otra clase de música le interesa?
+0289|traer|v|to bring, carry|sí, me trae un zumo de naranjas, por favor
+0290|partir|v|to divide, leave; a partir de: starting|a partir de los cuatro minutos la tarifa es estable 
+0291|dinero|nm|money|¿hay mucho dinero?, ¿es muy rico?
+0292|quién|pron|who?, whom?|¿quién es el padre de su hijo?
+0293|morir|v|to die|la pobre murió de pulmonía meses después
+0294|incluso|adv|including, even (adv)|e incluso puede detectar cuando hay errores
+0295|campo|nm|field, country|mi campo principal es la enfermedad coronaria 
+0296|aceptar|v|to accept|A. estuvo indecisa en aceptar su petición de matrimonio 
+0297|quizás|adv|perhaps, maybe|quizás sí, pero de otra forma
+0298|cabeza|nf|head (part of body)|planteaba muchas preguntas en mi cabeza 
+0299|realizar|v|to fulfill, carry out|el viaje se realizó en noviembre
+0300|ciento|num|hundred|se pueda confiar ciento por ciento
+0301|mal|adv|badly|mucha gente habla mal de él
+0302|orden|nmf|order; sequence (m), religious order (f)|hay que poner todo en orden de prioridad 
+0303|don|nm|courtesy title (m), Mr, gift|¿cómo era don Manuel?
+0304|semana|nf|week|no todos los días, pero varios días de la semana 
+0305|suponer|v|to suppose, assume|era absurdo suponer que la guerrilla cambiara sus planes 
+0306|comprender|v|to understand|los había leído todos, sin comprender mucho
+0307|final|nmf|al final: finally, in the end|pero al final, el resultado es la perfección
+0308|interés|nm|interest|usted, de verdad, sí tiene interés en este tema
+0309|siguiente|adj|following, next|al día siguiente se levantó más decidido que nunca 
+0310|vista|nf|view, sight|era un territorio fértil con una hermosa vista hacia la cordillera 
+0311|lograr|v|to achieve, get, manage|un director no puede lograr buenos resultados sin ayuda 
+0312|demás|adj|the rest, others|serán la envidia de los demás colegas latinoamericanos 
+0313|acuerdo|nm|accord; de acuerdo: in agreement|estoy de acuerdo con esa interpretación 
+0314|difícil|adj|difficult, hard|es duro, difícil tomar una decisión como ésta
+0315|número|nm|number|ella escribía su número telefónico en un papelito 
+0316|explicar|v|to explain|¿podría explicar los detalles de este análisis?
+0317|negro|adj|black|la existencia de un agujero negro en la galaxia M87
+0318|fondo|nm|bottom, end|ese es el sistema, y en el fondo funciona
+0319|camino|nm|road, route, path|es un camino muy largo el que nos queda por recorrer 
+0320|voz|nf|voice|un hombre de voz vibrante y rica empezó a cantar 
+0321|estudio|nm|study, learning|he colaborado en un estudio de epidemiología descriptiva 
+0322|necesario|adj|necessary|ahora es necesario dirigir más oraciones a Dios
+0323|preguntar|v|to ask (a question)|les voy a preguntar si quieren comer
+0324|allá|adv|there, over there|miren allá, cerca del puente
+0325|tocar|v|to touch, play (instrument)|se acercó hasta tocar su rodilla con la mía
+0326|valor|nm|value, worth|hay que descubrir el valor artístico de la obra de arte 
+0327|reconocer|v|to recognize, admit|no pudo reconocer quién era
+0328|estudiar|v|to study|Adam quiere estudiar teología y ser sacerdote
+0329|alcanzar|v|to reach, catch up with|la economía tiene posibilidades de alcanzar la prosperidad 
+0330|nacer|v|to be born|Picasso nació en Málaga en 1881
+0331|dirigir|v|to direct, manage|usted dirigió la Orquesta Nacional en
+0332|correr|v|to run|ahorita corre tres kilómetros y medio
+0333|medida|nf|measure; a medida que: to the extent|el artista crece a medida que madura 
+0334|menor|adj|younger, youngest|E. era el menor de los hermanos
+0335|demasiado|adj|too much, too many|esta casa es demasiado grande para una persona 
+0336|solamente|adv|only|la opinión es solamente una hipótesis
+0337|bueno|adv|well...|bueno, ¿y ahora qué hacemos?
+0338|utilizar|v|to use, utilize|sería una buena idea utilizar colores pálidos 
+0339|centro|nm|center, middle, downtown|no necesitan estar solos en el centro del escenario 
+0340|necesidad|nf|necessity, need|sentía la necesidad de ser comprendido
+0341|condición|nf|condition|afecta a la condición física de todos los órganos 
+0342|pagar|v|to pay|estamos tratando de pagar esta deuda
+0343|ello|pron|it (subj-n)|¿qué se perdía con ello?
+0344|falta|nf|lack, shortage|sería una locura, una falta de ese sentido de la realidad 
+0345|ayudar|v|to help|espero ganar dinero para ayudar a mi pobre madre 
+0346|diez|num|ten|a mí me bastaban los diez mandamientos
+0347|través|adv|a través: across, over, through|los sentimientos que han llegado a mí a través de la música 
+0348|antiguo|adj|old, ancient, former|es una de las obras más antiguas – fines del siglo XIII 
+0349|tu|adj|your (sg/+fam)|ésta es tu casa y ésta es tu cama
+0350|edad|nf|age|se acercaba a la edad de encontrar un hombre con quien casarse 
+0351|estado|nm|state, condition, status|hay un estado de incertidumbre que flota en el ambiente 
+0352|ser|nm|being|se puede ser un ser humano perfecto y un bárbaro en cultura 
+0353|gustar|v|to be pleasing to|¡no me gusta que te acaricie!
+0354|puerta|nf|door|¿por dónde estará la puerta de salida?
+0355|jugar|v|to play (sport/game)|puede jugar a la pelota
+0356|cara|nf|face, expression|aparece la cara del hombre con sus bigotes de cepillo 
+0357|mí|pron|me (obj prep)|el regalo era para mí
+0358|época|nf|time, age, period|en la época romana se utilizaba más el bronce
+0359|color|nm|color|coincide con los colores primarios: rojo, azul y amarillo 
+0360|escuchar|v|to listen to|tuvo oportunidad de escuchar comentarios de viajeros 
+0361|experiencia|nf|experience|tengo experiencia de la vida y del amor
+0362|movimiento|nm|movement|estaba encabezando un movimiento de subversión 
+0363|cumplir|v|to fulfill|necesita algo más para cumplir su trabajo
+0364|especial|adj|special|siento también una especial predilección por Stravinski 
+0365|diferente|adj|different, separate|en un entorno urbano el reto, en cambio, es diferente 
+0366|pesar|nm|sorrow; a pesar de: in spite of|comprendí su decisión a pesar de que me entristeciera mucho 
+0367|posibilidad|nf|possibility|debes considerar la posibilidad de dar en adopción a tu bebé 
+0368|ofrecer|v|to offer, present|el Hotel D. ofrece su menú en francés
+0369|descubrir|v|to discover|otro policía descubrió un paquete en el suelo
+0370|anterior|adj|previous, preceding|en términos de dólares, el anterior fue un año sobresaliente 
+0371|juego|nm|game, play, sport|he escrito algunos libros de juego y diversión
+0372|levantar|v|to raise, lift|de pronto se levantó y fue hasta su biblioteca
+0373|pobre|adj|poor|el pobre, va a tener que trabajar
+0374|aire|nm|air, wind, appearance|el helicóptero puede estacionarse en el aire
+0375|seis|num|six|cinco por seis son treinta
+0376|intentar|v|to try, attempt|¿somos tan tontos como para intentar repetir la historia? 
+0377|guerra|nf|war, warfare|qué pronto se olvida a las víctimas de una guerra 
+0378|junto|adv|together with, next to|trabajábamos juntos en el Congreso
+0379|resultado|nm|result, outcome|fue el resultado de muchas acciones que parecían inútiles 
+0380|usar|v|to use|mi teléfono no funciona y quisiera usar el tuyo
+0381|decidir|v|to decide|¿cómo decidió usted ser director de orquesta?
+0382|repetir|v|to repeat|no voy a repetir este pecado más en la vida
+0383|olvidar|v|to forget|no he podido olvidar aquella noche de tu despedida 
+0384|ley|nf|law, bill, rule|el casamiento civil es una ley de este país
+0385|aspecto|nm|aspect, appearance|uno de los aspectos más controvertidos del modernismo 
+0386|pie|nm|foot, base|está enfermo y tiene un pie en el cementerio
+0387|valer|v|to be worth, cost|¡estas joyas tienen que valer muchos millones!
+0388|especie|nf|kind, sort, species|el único que llegó a ser una especie de monstruo fui yo 
+0389|comer|v|to eat|te comiste todo el queso
+0390|servicio|nm|service, helpfulness|es un servicio público que beneficia al individuo 
+0391|cerca|adv|close, near|nos sentábamos cerca del fuego
+0392|mostrar|v|to show|con un dedo me mostró un agujerito negro
+0393|actividad|nf|activity, action|pienso que el arte es una actividad mental
+0394|tercero|adj|third|en uno de los primeros años de la tercera década del siglo 
+0395|cuál|pron|which?|primero dime cuál es tu nombre
+0396|pronto|adv|soon, quick|pronto lo tuvieron todo hecho
+0397|ocupar|v|to occupy, use|volvió a ocupar su lugar
+0398|cuestión|nf|question, matter|creo que es una cuestión de sinceridad
+0399|duda|nf|doubt|no existía duda alguna en que era hijo mío
+0400|diferencia|nf|difference|¿sabés la diferencia entre el contador y el matemático? 
+0401|mañana|nf|morning, tomorrow|sí, todo el día está allá, desde la mañana hasta la tarde 
+0402|mover|v|to move, incite|después de mover a uno y otro lado la cabeza 
+0403|continuar|v|to continue|da la orden para continuar la marcha
+0404|cantidad|nf|quantity, amount|todo esto genera una cantidad de datos formidables 
+0405|acción|nf|action, act, deed|esta acción legal pretendía acelerar la liberalización económica 
+0406|suceder|v|to happen|¿qué pasa?, ¿sucedió algo malo?, ¿algún problema? 
+0407|fijar|v|to set, fix, [se] notice|lo primero que hizo fue fijar fecha definitiva
+0408|sociedad|nf|society|creaban una sociedad multicultural que vivía en paz 
+0409|referir|v|to refer (to)|me voy a referir a los dos últimos puntos
+0410|acercar|v|to come near|él me miró, se acercó, me besó
+0411|capaz|adj|capable, able|¿es usted capaz de describir su propia carrera? 
+0412|bajo|adj|short, low|las puertas de madera son bajas y rudas
+0413|libre|adj|free, vacant|estaré más tranquilo y con más tiempo libre
+0414|natural|adj|natural|decidió que su conducta era natural y sincera
+0415|dedicar|v|to dedicate, devote|cuando se quedó sola se dedicó más horas a escribir 
+0416|realmente|adv|really, actually, in fact|¿antes de nacer nosotros existía realmente el mundo? 
+0417|peso|nm|peso (money), weight, load|por lo menos son quince mil pesos por mes
+0418|efecto|nm|effect|para estudiar el efecto del Sol sobre la emisión de rayos X 
+0419|objeto|nm|object, thing|será objeto de estudio para las predicciones meteorológicas 
+0420|verdadero|adj|true, real|cuyo verdadero nombre no conoció nadie
+0421|dónde|adv|where?|¿Dónde está escrito esto en la historia?
+0422|aprender|v|to learn|no hay manera de aprender el otro lenguaje 
+0423|amor|nm|love|¡por el amor más grande del mundo; el amor de Dios! 
+0424|muerte|nf|death|sólo la muerte no tiene remedio, Juan
+0425|partido|nm|party, group, (sports) match|fue consejero de un candidato del partido conservador 
+0426|económico|adj|economic|es necesario tener progreso económico
+0427|derecho|nm|right, justice, law|los catalanes tienen el derecho a usar los dos idiomas que son suyos 
+0428|poder|nm|power|le dio el poder de manejar la economía mundial 
+0429|importancia|nf|importance|¿qué proyectos de importancia tiene en su agenda? 
+0430|sistema|nm|system|están situados a 4 mil años luz del sistema solar
+0431|viaje|nm|travel, trip|le suceden todo tipo de aventuras durante su viaje 
+0432|suelo|nm|ground, floor|durmió en el suelo sobre varias mantas
+0433|respecto|nm|respect, con respecto a: with regards to|los grupos varían con respecto al número que lo componen
+0434|conocimiento|nm|knowledge|desplegó un conocimiento variado de los costumbres del país 
+0435|libertad|nf|freedom, liberty|les falta la libertad, el hábito de pensar libremente 
+0436|encima|adv|above, on top, in addition|nos pueden elevar por encima de nuestra realidad 
+0437|comprar|v|to buy|me iba a comprar un televisor
+0438|común|adj|common|el talento no es una cosa muy común
+0439|abierto|adj|open, unlocked|dormía con un ojo abierto
+0440|próximo|adj|next|pasará el próximo semestre enseñando literatura 
+0441|atención|nf|attention|llaman mucho la atención y causan un gran impacto 
+0442|joven|adj|young|¿qué novedad le puede aportar una cantante joven como usted? 
+0443|subir|v|to go up|el sistema de subir y bajar verticalmente
+0444|esfuerzo|nm|effort, endeavor|no ha sido vano su esfuerzo
+0445|pasado|adj|past, last|las cosechas serían buenas, pero no tanto como el año pasado 
+0446|evitar|v|to avoid, prevent|actuó rápido para evitar su segura humillación 
+0447|resto|nm|rest, remainder, leftover|en el Perú y Japón sí, pero no en el resto del mundo 
+0448|interesar|v|to interest|no le interesa conocer el mundo
+0449|zona|nf|area, zone|conquistó la zona alemana de Samoa en agosto de 1914 
+0450|miedo|nm|fear|yo no tengo miedo de morir
+0451|fuera|adv|out, outside, away|hace como diez años que está fuera del Paraguay 
+0452|proceso|nm|process, procedure|el proceso de gestación de la criatura no fue normal 
+0453|vivo|adj|alive, bright|el país está musicalmente vivo y palpitante
+0454|cerrar|v|to close|lo mejor era cerrar los ojos y dormir
+0455|echar|v|to throw, cast|me echó de la casa y me fui
+0456|responder|v|to answer, respond|el Gobierno respondió por escrito a este diputado 
+0457|sufrir|v|to suffer, undergo|sufrió la eterna tragedia del grande
+0458|completo|adj|complete|tienes mi apoyo completo
+0459|minuto|nm|minute|antes del partido se va a guardar un minuto de silencio 
+0460|contrario|adj|contrary, opposite|al principio nadie se alarmó; al contrario, se alegraron 
+0461|mesa|nf|table, board|la mesa estaba puesta para la cena
+0462|real|adj|royal, real, authentic|fuimos a la biblioteca del palacio real de Madrid 
+0463|ocasión|nf|opportunity, occasion|no se puede perder esta ocasión porque es la última 
+0464|importar|v|to matter, import|no le importa nada de nada
+0465|público|adj|public|el 4 de marzo da su último concierto público 
+0466|obtener|v|to obtain|se hace la guerra para obtener la paz
+0467|programa|nm|program, plan|van a aprender mucho de este programa escolar
+0468|favor|nm|favor, benefit|están a favor de los serbios
+0469|lejos|adv|far (away, off)|ese sitio estaba lejos del pueblo
+0470|siete|num|seven|aprobó el cursillo “Cómo ser feliz en siete días”
+0471|enorme|adj|enormous, vast|hay una enorme cantidad de cuadros muy significativos 
+0472|respuesta|nf|answer, reply|la única respuesta fue el silencio
+0473|línea|nf|line, course|la línea del horizonte que separa el cielo del mar
+0474|espacio|nm|space, room|ya no quedaba espacio para nadie alrededor del tranvía 
+0475|nivel|nm|level|el nivel del mar empezaba a aumentar
+0476|gobierno|nm|government|el feudalismo fue la forma de gobierno
+0477|cabo|nm|end, bit; llevar a cabo: to carry out|llevó a cabo un importante trabajo científico 
+0478|observar|v|to observe|en los que se pueden observar bajo microscopio 
+0479|indicar|v|to indicate|el Conductor le indica el lugar que debe ocupar 
+0480|alguien|pron|somebody, someone, anyone|alguien vino a preguntar por usted 
+0481|pregunta|nf|question|cada pregunta abría un mar de respuestas
+0482|claro|adv|of course, clearly|¡Claro! Así está mucho mejor
+0483|atrás|adv|back, behind, ago|se olvidaba de mirar hacia atrás o hacia los lados 
+0484|imagen|nf|image, picture|es un intento evidente de dañar mi imagen pública 
+0485|carrera|nf|career, course, race|su carrera como «jazzman» profesional empezó en Cannes 
+0486|imaginar|v|to imagine|me imagino que Uds. tienen la misma situación 
+0487|soler|v|to be accustomed to|en las noches cálidas la familia suele reunirse en el patio 
+0488|ambos|adj|both|se extendían a ambos lados de la carretera
+0489|profundo|adj|deep, profound|el mejor y más profundo conocimiento del poeta 
+0490|detener|v|to stop, detain|su pupila se detenía sobre el papel
+0491|desarrollar|v|to develop|tratando de desarrollar un . . . nuevo sistema electrónico 
+0492|ocho|num|eight|entre las siete y media, ocho de la mañana
+0493|señalar|v|to point (out), signal|nos hizo señas y señaló hacia adelante
+0494|elegir|v|to choose, elect|los caminos son muchos y hay que elegir el mejor 
+0495|figura|nf|figure|descubrió en el ruidoso grupo la figura de su padre 
+0496|principal|adj|main, principal|¿cuál es el problema principal?
+0497|animal|nm|animal|¿es hombre, animal o cosa?
+0498|base|nf|base, basis|la mitología griega es la base de la literatura
+0499|preparar|v|to prepare|todos los ingredientes para preparar un plato notable 
+0500|proponer|v|to propose|le voy a proponer que nos casemos
+0501|demostrar|v|to show, demonstrate|todos me escuchaban inmóviles, sin demostrar la menor sorpresa 
+0502|significar|v|to mean|la paloma azul debía significar la libertad
+0503|posición|nf|position|-Vi que mi posición en aquel momento era inútil 
+0504|motivo|nm|motive, cause|revelan el motivo de la construcción de las pirámides 
+0505|prueba|nf|proof, trial, test|fue prueba de fidelidad y confianza conyugal
+0506|política|nf|politics, policy|se lanzan a un frenético debate sobre política
+0507|nacional|adj|national|le dieron el premio nacional de poesía
+0508|lleno|adj|full, filled|joven y lleno de esperanzas por una vida mejor 
+0509|reunir|v|to gather, meet, collect|le permitieron reunir una fortuna de proporciones grotescas 
+0510|faltar|v|to be lacking|me falta una persona a quien comunicar mis impresiones 
+0511|supuesto|adj|supposed; por supuesto: of course|no entendí, por supuesto, nada, ni una palabra
+0512|acompañar|v|to accompany|deberá acompañar a la novia a la iglesia
+0513|dato|nm|data, fact|tenemos grandes bases de datos de secuencias de proteínas 
+0514|fácil|adj|easy|no es fácil explicar con precisión lo que sucedió 
+0515|desear|v|to want, desire, wish for|dijo que deseaba venir a México
+0516|adelante|adv|forward, further|el gobierno sigue adelante con el proyecto 
+0517|empresa|nf|firm, company, venture|operaba con una empresa constructora del Reino Unido 
+0518|asunto|nm|matter, issue, affair|se ha creado una gran polémica sobre el asunto 
+0519|presencia|nf|presence, appearance|un ruido que advirtió a los ladrones de su presencia en la casa 
+0520|suyo|pron|his, hers, yours (- fam), theirs|señor, lo que es mío, es suyo 
+0521|cultura|nf|culture|fue una primitiva cultura indoeuropea
+0522|serie|nf|series|en la combustión intervienen una serie de factores 
+0523|millón|num|million, fortune|le ha proporcionado un cheque de un millón de pesetas 
+0524|enseñar|v|to teach, show|¿qué objeto tiene enseñar química en Secundaria? 
+0525|construir|v|to construct, build|la robótica tiende a construir modelos diminutos 
+0526|vender|v|to sell|tuvieron que vender el maíz para comprar el lienzo 
+0527|representar|v|to represent|representa uno de los aspectos más desconocidos 
+0528|desaparecer|v|to disappear, vanish|se hizo desaparecer en la oscuridad
+0529|mandar|v|to send, order|la primera carta que Rita nos mandó de Francia 
+0530|carácter|nm|personality, nature|es un hombre de carácter apacible, reflexivo y afectuoso 
+0531|mayoría|nf|majority|la mayoría de los cánceres humanos no tienen un origen vírico 
+0532|escuela|nf|school|dicta clases en la Escuela de Medicina de esa Universidad 
+0533|rojo|adj|red|su boca, muy roja, apenas se movió
+0534|tras|prep|after, behind|A. había retornado a su tierra tras años de lucha 
+0535|superior|adj|superior, upper|una cantidad de dinero superior a su sueldo anual 
+0536|andar|v|to walk, function|casi nadie andaba por las calles
+0537|corto|adj|short, brief|su único día libre, era el día más corto de la semana 
+0538|autor|nm/f|writer, author|cuando un autor escribe un mal libro, se cierra o se tira a la papelera 
+0539|hermano|nm|brother, [pl] siblings|éramos tres hermanos, dos hermanos mayores y yo 
+0540|conocido|adj|known, well-known|Velázquez fue también un pintor muy conocido en Sevilla 
+0541|preferir|v|to prefer|en realidad prefiero una buena hamburguesa con una coca cola 
+0542|asegurar|v|to assure, secure, insure|podía asegurar que él sería la próxima víctima 
+0543|función|nf|function, meeting|¿qué función tienen las Academias en este sentido? 
+0544|arriba|adv|up, above|desde arriba yo veía a mis dos hijas
+0545|serio|adj|serious|esa muchacha tiene un problema serio
+0546|causa|nf|cause|la barrera puede romperse a intervalos por causa de las mareas 
+0547|suficiente|adj|sufficient, enough|no tuvo el tiempo suficiente para ejecutar sus proyectos 
+0548|grave|adj|serious, solemn|hay momentos de crisis grave en el mundo
+0549|decisión|nf|decision|es difícil tomar una decisión como ésta
+0550|música|nf|music|la gente se detenía siempre a escuchar la música que tocaban 
+0551|extraño|adj|strange, foreign|tenían un extraño color de azúcar quemada 
+0552|crecer|v|to grow, increase|nació y creció el muchacho en La Huerta
+0553|surgir|v|to appear, spring (forth)|veía surgir la sombra terrible
+0554|tú|pron|you (subj-sg/+fam)|¡qué clase de hombre eres tú!
+0555|expresión|nf|expression|Johnny cambió su sonrisa por una expresión concentrada 
+0556|alrededor|adv|about, around, round|entraron alrededor de las ocho de la mañana 
+0557|matar|v|to kill|el gato sirve para matar a los ratones
+0558|entregar|v|to deliver|entregó el paquete a las criaturas
+0559|río|nm|river|recorriendo el río Amazonas y atravesando los Andes 
+0560|seguridad|nf|security, safety|unas dudas sobre la calidad y seguridad de los medicamentos 
+0561|término|nm|term (language), end|se centra en el significado literal del término descrito 
+0562|colocar|v|to place, position|vuelve a colocar las rosas dentro del jarrón
+0563|metro|nm|meter, subway|produce kilogramos de vegetales por metro cuadrado 
+0564|médico|nm/f|doctor|el médico le toma la muestra al paciente
+0565|establecer|v|to establish|de ser posible establecer ese tipo de contacto personal 
+0566|guardar|v|to keep, save|lo voy a guardar debajo de mi colchón
+0567|arte|nm|art, skill|la creación de un museo de arte moderno y contemporáneo 
+0568|iniciar|v|to initiate, start|el curso se inició en enero
+0569|bajar|v|to come down, let down|el Dow Jones de Wall Street bajó 52 puntos en un día 
+0570|consecuencia|nf|consequence|la obstrucción se produce como consecuencia de la aparición de grasas 
+0571|notar|v|to notice|volví a notar esos extraños ruidos en el callejón 
+0572|acto|nm|act, action|ser culto es, para mí, un acto voluntario
+0573|meter|v|to put (into)|lo desnudó, lo metió en la cama
+0574|absoluto|adj|absolute|mantiene el control absoluto de los oyentes
+0575|pena|nf|trouble; valer la pena: be of worth|ésa es una cosa que sí vale la pena recordarla 
+0576|actuar|v|to act|esa manera de actuar es producto de la desesperación 
+0577|segundo|nm|second|ahí, ahí sí, espérame un segundo
+0578|altura|nf|height, altitude|a siete mil metros de altura hay que usar oxígeno 
+0579|deseo|nm|desire, wish|tienen gran entusiasmo y deseo de participar activamente 
+0580|precisamente|adv|precisely|el problema no era precisamente el cuidado de la rosa 
+0581|joven|nc|teenager, young person|está dirigido a los jóvenes entre 16 y 20 años
+0582|veinte|num|twenty|mide tres metros veinte centímetros
+0583|sueño|nm|dream, sleep|tenía sueño de ser estrella de cine
+0584|pretender|v|to attempt|no sale siempre lo que uno pretende
+0585|tarea|nf|task, job|les ayuda a hacer una tarea dentro del hogar 
+0586|carta|nf|letter, (playing) card|comienza a escribir de nuevo y a leer la carta
+0587|apenas|adv|hardly, barely|apenas quedaban menos de 75.000 soldados 
+0588|propiedad|nf|property|cedería la propiedad a un grupo de entidades financieras 
+0589|producto|nm|product|el arte es, en parte muy grande, producto de su época 
+0590|personal|adj|personal|según mi propia experiencia personal como tal
+0591|simplemente|adv|simply, just|me visitan simplemente por ser familia
+0592|imposible|adj|impossible|estaba muy oscuro y era imposible verla
+0593|gusto|nm|pleasure, taste, preference|mi personal gusto artístico no es nada conservador 
+0594|ayuda|nf|help, aid|para que las personas afectadas puedan recibir la ayuda que necesitan 
+0595|acordar|v|to remember, remind|hoy ya nadie se acuerda de los antiguos soldados 
+0596|lengua|nf|language, tongue, strip (of land)|Góngora es uno de los máximos poetas de la lengua castellana 
+0597|cortar|v|to cut|salió al jardín y cortó el tallo más largo de su rosal
+0598|plan|nm|plan|nos explicó que tenía preparado un plan infalible 
+0599|corresponder|v|to correspond with|introduce un número que corresponde a su tarjeta 
+0600|vuelta|nf|return, turn|¿y el viaje de ida y vuelta en barco?
+0601|romper|v|to break|no quería romper la unidad de la familia
+0602|siquiera|adv|even (if)|ni siquiera ha preguntado mi nombre
+0603|adquirir|v|to acquire, get|por unas cuantas pesetas es posible adquirir un par de tarjetas 
+0604|proyecto|nm|project, plan|esta última fase del proyecto no llegó a ser realizada 
+0605|memoria|nf|memory|habla pausadamente, buscando en la memoria la palabra exacta 
+0606|origen|nm|origin, cause|las mesas redondas de origen griego surgieron en el período helenístico 
+0607|elemento|nm|element|era un elemento esencial en la estilística culta
+0608|inglés|adj|English|y no tardó en dominar la lengua inglesa
+0609|mercado|nm|market|se fue al mercado a comprar verduras
+0610|curso|nm|course, direction|después hice el curso de literatura contem- poránea 
+0611|lanzar|v|to throw, launch|giró para lanzar una mirada de reproche
+0612|aprovechar|v|to take advantage of|yo quiero aprovechar esta oportunidad
+0613|sangre|nf|blood|la sangre empezaba a fluir de la herida
+0614|interior|nm|interior, inside|comían en el interior y otros al aire libre
+0615|duro|adj|hard|reflejaba la dura realidad de la posguerra italiana 
+0616|apoyar|v|to support, lean on|los municipios deben apoyar la educación
+0617|negar|v|to deny, refuse|no puedo negar esta evidencia
+0618|avanzar|v|to advance, progress|una procesión que avanza por la avenida
+0619|uso|nm|use|nunca recuperaré el uso de la mano derecha 
+0620|brazo|nm|arm|nos tomamos de la mano y del brazo mientras caminábamos 
+0621|profesor|nm/f|professor, teacher|fue profesor de física teórica en la universidad 
+0622|resolver|v|to resolve, settle, work out|tenemos que resolver el conflicto
+0623|futuro|nm|future|en la actualidad, y más aún en el futuro
+0624|oportunidad|nf|opportunity, chance|ahora teníamos la oportunidad de aprovechar nuestra experiencia 
+0625|mitad|nf|half, middle|es un libro sobre la primera mitad del siglo
+0626|costar|v|to cost, be hard|la pensión les costaba más o menos seis mil pesos 
+0627|rico|adj|rich, tasty|no quiero ser rica; quiero ser famosa
+0628|recuerdo|nm|memory, keepsake|es la memoria, el recuerdo de la experiencia vivida 
+0629|total|adj|total, entire|el número total de asistentes sería de treinta personas 
+0630|exigir|v|to demand|ya no exige sangre como los dioses paganos
+0631|abajo|adv|down, below, downward|¿se podría echar abajo la alianza opositora?
+0632|opinión|nf|opinion, view|¿cuál es su opinión sobre el gobierno español? 
+0633|aumentar|v|to increase|el primer objetivo es aumentar el número de visitantes 
+0634|recoger|v|to pick up|se inclinó hacia la derecha para recoger una maleta 
+0635|boca|nf|mouth, entrance, opening|cállese la boca, hijo, que estamos estudiando
+0636|dirección|nf|direction, address|luego desearíamos navegar en dirección a otras estrellas 
+0637|puro|adj|pure, clean|se llenaba los pulmones con el aire puro
+0638|abandonar|v|to abandon, leave (a place)|cuánto nos dolerá abandonar este lugar que tanto amamos 
+0639|pieza|nf|piece, part|el huarache es una pieza de pan cortado por la mitad 
+0640|profesional|adj|professional|creo que era un salvavidas profesional, pagado
+0641|imponer|v|to impose, enforce|a menudo trataba de imponer su voluntad
+0642|obligar|v|to obligate, force|me obligó a terminar una novela
+0643|físico|adj|physical|su trabajo requería un gran esfuerzo físico 
+0644|actitud|nf|attitude|hay que tener siempre una actitud de metódico escepticismo 
+0645|mar|nmf|sea|sobre todo en la región costera del mar Rojo
+0646|francés|adj|French|era una auténtica madame francesa
+0647|entrada|nf|entrance, admission ticket|llegamos nada más que hasta la entrada de la casa 
+0648|contacto|nm|contact|nos mantendremos en contacto por vía telefónica 
+0649|corazón|nm|heart, core|el amor llena tu corazón
+0650|aplicar|v|to apply|lo amarró a un árbol y le aplicó una feroz paliza 
+0651|capital|nmf|capital; city (f), money (m)|Praga es la capital de la República Checa
+0652|rápido|adj|quick, fast|vamos a buscar una solución lo más rápido posible 
+0653|título|nm|title, heading|esa novela tiene también otro título
+0654|pertenecer|v|to belong|un 30 por ciento confiesa pertenecer a otras religiones 
+0655|cuarto|nm|room, chamber|dormía en un cuarto donde estaba la cama de ella
+0656|material|nm|material, element|la aplicación de los materiales superconduc- tores de alta temperatura 
+0657|golpe|nm|hit, strike, punch|se murió por un golpe recibido en el cráneo
+0658|disponer|v|to have means, dispose|el enemigo dispone de tropas y armas
+0659|comunicación|nf|communication|la falta de comunicación es nuestra principal limitación 
+0660|expresar|v|to express|ya expresó su opinión contraria
+0661|simple|adj|simple, mere, simple-minded|al principio papá lo veía como un simple juego 
+0662|totalmente|adv|totally, completely|el departamento estaba totalmente desnudo
+0663|provocar|v|to cause, provoke|la brisa provoca una blanca lluvia de flores
+0664|normal|adj|normal, usual, regular|los altibajos son algo normal de la vida diaria
+0665|defender|v|to defend, protect|debemos defender nuestros derechos
+0666|enfermedad|nf|illness, sickness|Diría aún que el rock es una enfermedad de los jóvenes 
+0667|bien|nm|goods, property, benefit|el número de bienes que pueda poseer en un momento dado 
+0668|materia|nf|matter, subject|en materia musical, la tecnología ha sufrido un receso 
+0669|quitar|v|to remove, take away|sin problemas quita la sábana que cubre la cara de uno 
+0670|conservar|v|to conserve, preserve|una señora que conserva recuerdos de su padre 
+0671|moderno|adj|modern|he escrito sobre el arte moderno
+0672|sitio|nm|place, space|de ocupar el sitio que me correspondía en la casa
+0673|depender|v|to depend on|no me gusta depender de otra gente
+0674|naturaleza|nf|nature, character|su naturaleza racional encierra un espíritu poético 
+0675|capacidad|nf|capacity|tenía una gran capacidad para entender los tiempos nuevos 
+0676|actual|adj|current|¿la gente del actual Gobierno lo sabe?
+0677|marcar|v|to mark, note, dial|vemos así la estrella Polar, que marca el norte mejor que una brújula 
+0678|distancia|nf|distance|¿qué puedo decir a miles de kilómetros de distancia? 
+0679|pleno|adj|complete, full|el tiempo es un ladrón experto que roba a pleno día 
+0680|cerrado|adj|closed|las cámaras de TV de circuito cerrado
+0681|compartir|v|to share|espero que compartas tu jubilación conmigo
+0682|información|nf|information|trató de obtener información más precisa
+0683|ambiente|nm|environment, atmosphere|un ambiente silencioso le ayudó para concentrarse 
+0684|especialmente|adv|especially|no era especialmente devota del amor en cautiverio 
+0685|desarrollo|nm|development|dicen que ya hay planes de desarrollo urbano
+0686|sol|nm|sun|se levanta antes del sol y no hay luz eléctrica
+0687|muerto|adj|dead|viven sobre materia orgánica muerta o en descomposición 
+0688|consistir|v|to consist of|la carga suele consistir de materias primas
+0689|constituir|v|to constitute, consist of|los miembros que pueden constituir un sector competitivo 
+0690|dispuesto|adj|willing, ready|estaba dispuesto a hacer cualquier sacrificio por la Patria 
+0691|cubrir|v|to cover|se cubre el rostro con un pañuelo
+0692|funcionar|v|to work, function|un sistema hidráulico que funcionaba mediante estanques de agua 
+0693|compañero|nm|companion, classmate|fue compañero mío de universidad, muy buen amigo
+0694|salida|nf|exit, escape, outcome|quizá por miedo a meterse en un callejón sin salida 
+0695|caber|v|to fit (into)|no van a caber las cosas en la casa
+0696|conciencia|nf|conscience, consciousness|se dormía en paz con su conciencia y con Dios
+0697|atender|v|to serve, attend to|los médicos se alternarían para atender a los pacientes 
+0698|enfermo|adj|ill, sick|el cayó enfermo de tuberculosis
+0699|insistir|v|to insist on|el gobierno no debería insistir en este tipo de intervenciones 
+0700|costumbre|nf|habit, custom, usage|tampoco faltaban, como era costumbre, las faltas de respeto 
+0701|detrás|adv|behind|pueden estar detrás de ese árbol
+0702|paz|nf|peace|de inmediato que se siente en un ambiente de paz y armonía 
+0703|noticia|nf|news|¿qué noticias tienen de la isla de Mallorca?
+0704|circunstancia|nf|circumstance|tuvimos que enfrentar una circunstancia económica difícil 
+0705|dolor|nm|pain, ache, sorrow|se levantó quejándose de un dolor de espalda 
+0706|privado|adj|private|los sectores público y privado han reducido sus obligaciones 
+0707|estilo|nm|style|la casa era de estilo antiguo, con una gran galería al frente 
+0708|precio|nm|price, cost, value|¡lleven tres al precio de uno!
+0709|popular|adj|popular|¿se trata de música popular o culta?
+0710|sentar|v|to sit (down), seat|los niños pasaban a sentarse en un escritorio 
+0711|planta|nf|plant, floor|ninguna planta capaz de dar frutos puede crecer sobre esta tierra 
+0712|personaje|nm|character (e.g. movie)|es difícil comprenderlo porque era un personaje muy complicado 
+0713|famoso|adj|famous, well-known|es un hombre que ya es famoso precisamente por esas hazañas 
+0714|éxito|nm|success|tiene mucho éxito con sus piezas teatrales
+0715|hija|nf|daughter|es hija de padres divorciados
+0716|merecer|v|to deserve, be worthy (of)|un interesante artista viajero que merece la pena conocer 
+0717|edificio|nm|building|era un colegio estilo colonial el edificio
+0718|autoridad|nf|authority|la autoridad no se impone, se gana con el respeto 
+0719|piedra|nf|stone, rock|se había obtenido obsidiana (piedra volcánica)
+0720|incluir|v|to include|el Partido no incluye ni excluye a nadie
+0721|conjunto|nm|group, set|para mí fue el conjunto de cosas el que no me gustó 
+0722|treinta|num|thirty|van a venir unas treinta personas
+0723|cuánto|adj|how much?|¿Cuánto tiempo querías? ¿Una eternidad?
+0724|inmediato|adj|immediate|anunció que regresaría de inmediato al aeropuerto 
+0725|suerte|nf|luck, fortune|yo también estuve en esa guerra, aunque tuve la suerte de sobrevivir 
+0726|cruzar|v|to cross|dudó un momento sin cruzar la calle
+0727|tender|v|to tend to, lay out|la historia tendía a ser endiabladamente repetitiva 
+0728|finalmente|adv|finally, at last|la casa fue finalmente demolida
+0729|junto|adj|together|desde hace varios años trabaja junto con el profesor 
+0730|anunciar|v|to announce, advertise|le oí anunciar la llegada de su invitado
+0731|espíritu|nm|spirit, ghost|son, en cambio, una muestra del mismo espíritu de intolerancia 
+0732|miembro|nm|member, limb|es el miembro más destacado del grupo
+0733|directo|adj|direct, straight|entramos y fui directo al dormitorio
+0734|despertar|v|to wake (up), arouse|se volvió a dormir y se despertó de nuevo 
+0735|recurso|nm|resource, recourse, means|tienen todas nuestras técnicas y recursos a su disposición 
+0736|pared|nf|(interior) wall|en la pared se ve colgada una pintura
+0737|equipo|nm|team, equipment, outfit|volvió a Madrid para formar un equipo de trabajo 
+0738|error|nm|error, mistake|en fin, hay la posibilidad de corregir el error
+0739|preciso|adj|precise, necessary|en el preciso instante en que la puerta resonó contra la pared 
+0740|diverso|adj|different, several, diverse|las cortezas de árboles de diversas especies
+0741|dificultad|nf|difficulty, obstacle|nos encontramos en dificultades con esta nación 
+0742|comentar|v|to comment on|buscamos el manuscrito para comentar algunos pasajes 
+0743|publicar|v|to publish|voy a publicar otro libro con el resto
+0744|familiar|adj|familiar, of the family|por tradición, el negocio familiar pasa a los hijos
+0745|voluntad|nf|will, willpower, intention|donde hay una voluntad hay un camino
+0746|reunión|nf|meeting, reunion|vamos a tener una reunión con él el próximo lunes 
+0747|modelo|nc|model, pattern|¿alguna vez has sido modelo de un pintor?
+0748|cargar|v|to load (up), carry|cargó en su mochila todo lo necesario y partió 
+0749|fecha|nf|date, day|lo celebro inmortalizando esta fecha en mi diario 
+0750|participar|v|to participate|me quería meter en eso, participar y trabajar en todo eso 
+0751|impedir|v|to prevent, hinder|nadie puede impedir este suceso
+0752|propósito|nm|intention, purpose|estamos totalmente de acuerdo con el propósito de la iniciativa 
+0753|salvar|v|to save, rescue|la amaba porque le había salvado la vida
+0754|cuidado|nm|care, carefulness|mira, tú tienes que tener cuidado con tu forma de expresarte 
+0755|puesto|nm|job, place, position|me ofrecieron un puesto como redactora para la América Latina 
+0756|grado|nm|degree, grade|las discusiones llegaban a un grado de violencia 
+0757|escapar|v|to escape|sentí deseos de salir corriendo, escapar de aquella casa 
+0758|lucha|nf|fight, struggle, wrestle|la lucha contra el desempleo es la principal prioridad 
+0759|tirar|v|to throw, pull|el público se puso furioso y nos tiró tomates
+0760|entero|adj|entire, whole, complete|son conocidos en el mundo entero
+0761|jefe|nm/f|leader, boss, manager|es el jefe de una nueva tribu de guerreros
+0762|interesante|adj|interesting|te quieren contar cosas interesantes que te diviertan 
+0763|amplio|adj|wide, ample, broad|se encontraba en el amplio y fresco corredor de una vivienda 
+0764|contestar|v|to answer, reply|no puede contestar esta pregunta
+0765|periódico|nm|newspaper, periodical|su padre bajó el periódico que leía
+0766|preocupar|v|to worry|cada día le preocupa más la suerte del muchacho 
+0767|prestar|v|to lend|creo que te podré prestar unos mil soles
+0768|par|nmf|pair, couple (m); a la par: at same time|acaba de comprar un par de zapatos 
+0769|público|nm|public, audience|lo que me motiva es el contacto con el público 
+0770|pesar|v|to weigh|el diamante pesaba sin cortar 60,25 quilates
+0771|final|adj|final|lo que cuenta es el resultado final
+0772|calidad|nf|quality|para mejorar la calidad de vida de los mexicanos 
+0773|exponer|v|to expound, expose|el marido trató de exponer su verdadera situación económica 
+0774|civil|adj|civil|hay que respetar el código civil
+0775|ciencia|nf|science, knowledge|han sostenido que incluso la ciencia no es tan racional como se supone 
+0776|tamaño|nm|size, dimension|volvió con un paquetón de papas fritas de tamaño gigante 
+0777|mas|conj|but, however|es posible mas lo dudo
+0778|doctor|nm/f|doctor|su salud decayó y el doctor le recomendó una vida más tranquila 
+0779|cuadro|nm|painting, picture|observó el cuadro colgado en la pared de enfrente 
+0780|caballo|nm|horse|montaban a caballo y jugaban polo
+0781|responsabilidad|nf|responsibility|con la libertad viene la responsabilidad
+0782|cincuenta|num|fifty|entre los cuarenta y los cincuenta años
+0783|interno|adj|internal|la estructura sufría «un colapso interno»
+0784|detalle|nm|detail|conoce en detalle los horrores de la dictadura
+0785|marcha|nf|march, progress|se pone en marcha un mecanismo enloque- cido
+0786|nueve|num|nine|las nueve vidas del gato
+0787|carne|nf|meat, flesh|me gusta la carne de conejo
+0788|jamás|adv|never|¡Jamás he visto cosa más grandiosa y sensacional! 
+0789|pensamiento|nm|thought, thinking|un pensamiento extraño nació en mi mente
+0790|viajar|v|to travel|le gustaba viajar en tren
+0791|cargo|nm|position, charge, fee|¿desde cuando ocupa usted el cargo de Director Musical? 
+0792|separar|v|to separate|sonrió sin separar los labios
+0793|santa|nf|saint (f)|el 30 de agosto es también la fiesta de Santa Rosa de Lima 
+0794|construcción|nf|construction|suelen instalarse durante la construcción del edificio 
+0795|juicio|nm|judgment|no sabemos cuál será el juicio de la crítica sobre tus escritos 
+0796|terreno|nm|ground, earth, terrain|éste es un terreno muy árido
+0797|piso|nm|floor, story|había una escalera hasta el tercer piso
+0798|compañía|nf|company|la compañía de teléfonos fue un monopolio de Estado 
+0799|regresar|v|to return (to a place)|luego de catorce días regresó a su casa
+0800|texto|nm|text|es un libro de texto en ciencias
+0801|fuente|nf|source; fountain|la fuente de su inspiración hay que buscarla en Eurípides 
+0802|presente|nm|present|no viven en el futuro ni en el pasado, ¡viven en el presente! 
+0803|definitivo|adj|definitive, conclusive|ese adiós fue definitivo porque nunca volví a hablar con ella 
+0804|revista|nf|magazine, journal|publica una revista en la que colabora regularmente 
+0805|esperanza|nf|hope|yo creo que hay que tener fe, esperanza y caridad 
+0806|máquina|nf|machine|una máquina que convierte la energía mecánica en eléctrica 
+0807|contemplar|v|to contemplate|R. la contempló en silencio, compadecido
+0808|recorrer|v|to travel, cover (distance)|su trabajo le permitió viajar y recorrer el mundo 
+0809|frase|nf|phrase|bastaría una sola palabra o una frase para decirlo 
+0810|perfecto|adj|perfect|queríamos encontrar el sitio perfecto
+0811|sala|nf|room, hall|me conduce hasta la puerta de la sala que da acceso a la galería 
+0812|durar|v|to last|esta suerte no te va a durar toda la vida
+0813|instrumento|nm|instrument|el músico probó su instrumento disparando algunas notas 
+0814|aquello|pron|that over there (n)|aquello era un palacio
+0815|defensa|nf|defense, plea|para luchar hasta la muerte en defensa de la patria amenazada 
+0816|director|nm/f|director, manager, principal|ejerce este control el director de cada departamento 
+0817|retirar|v|to take away, retire|retiró su nombre de la contienda por la presidencia 
+0818|explicación|nf|explanation|el mito es una explicación imaginativa del mundo y del hombre 
+0819|artículo|nm|article, product, item|no podía concentrarse en el artículo que estaba escribiendo 
+0820|debajo|adv|underneath, below|buscan algo debajo de una mesa
+0821|permanecer|v|to stay, remain|estoy condenado a permanecer aquí
+0822|asistir|v|to attend|llegó marzo y los chicos no pudieron asistir a clases 
+0823|doce|num|twelve|la iglesia de los Doce Apóstoles
+0824|radio|nmf|radio; set (m), communication (f)|fue transmitido en cadena nacional por la radio y la televisión
+0825|organizar|v|to organize|quisiera organizar un grupo de teatro
+0826|película|nf|movie, film|en la misma zona donde se había rodado la película «West Side Story» 
+0827|elección|nf|election, choice|este año tendremos elección de 10 gobernadores 
+0828|visita|nf|visit, visitor, guest|tras una visita a la ciudad de San Francisco
+0829|contener|v|to contain|una dieta que no contiene las cosas que te llevan a la obesidad 
+0830|apoyo|nm|support, backing|cuando necesité ayuda, ella volvió para darme su apoyo 
+0831|presidente|nm|president|el Presidente es la máxima autoridad del país
+0832|arma|nf|(el) weapon|después de decir esto, sacó un arma y disparó 
+0833|árbol|nm|tree|las ramas del árbol, que dan sombra
+0834|visitar|v|to visit|me gustaría visitar Los Ángeles
+0835|informar|v|to inform|pero alguien le informó que ya se había ido
+0836|encuentro|nm|meeting, game, skirmish|acepté el encuentro en el café habitual
+0837|parecido|adj|similar|el resultado daba algo parecido a la locura
+0838|corriente|nf|current, flow|la corriente eléctrica fluye por uno de los electrodos 
+0839|lectura|nf|reading|orientaba mi afición por las letras con la lectura de los clásicos 
+0840|existencia|nf|existence, life|él ignoraba la existencia de los otros
+0841|lenguaje|nm|language, speech|dueño de un lenguaje basado en el habla popular 
+0842|enviar|v|to send|para enviarle dinero a Pancho
+0843|aun|adv|even (though), still|era popular, aun sin publicar sus principales obras 
+0844|destino|nm|destination, destiny|para abordar su vuelo con destino a Estados Unidos 
+0845|educación|nf|education|y nada contribuye más a ellas que la educación y la cultura 
+0846|cuidar|v|to take care of|debía cuidar la virginidad de la hija
+0847|intervenir|v|to intervene|en espera del momento apropiado para intervenir 
+0848|operación|nf|operation|con el objetivo de elaborar una operación de rescate 
+0849|raro|adj|strange, rare, scarce|no sé; me suena raro lo que dicen ustedes
+0850|perfectamente|adv|perfectly|con un aspecto perfectamente sereno
+0851|extender|v|to extend, spread|ella extiende sobre la mesita un mapa astral
+0852|comprobar|v|to verify, prove|tuvo oportunidad de comprobar la cruda realidad 
+0853|nota|nf|note, grade|la «españolada» tiene siempre una nota de carácter despectivo 
+0854|particular|adj|particular, peculiar|una forma particular de vestirse y de caminar 
+0855|ése|pron|that one (m), [ésa (f)]|ése es el único que no está aquí
+0856|militar|adj|military|las autoridades civiles y militares harán respetar esta decisión 
+0857|dormir|v|to sleep|esta cama es para dormir la siesta en verano
+0858|unido|adj|united|tenemos un candidato fuerte, tenemos un Partido unido 
+0859|discutir|v|to argue, discuss|parecía discutir con un interlocutor invisible
+0860|extraordinario|adj|extraordinary, exceptional|yo creo que tiene un talento extraordinario como director
+0861|teatro|nm|theater, drama|amalgamaban las bellas artes, la literatura, el teatro y la música 
+0862|enfrentar|v|to confront, face|prefieren huir a enfrentarse con los soldados
+0863|recién|adv|recently, just|amigos que recién habían tenido un hijo
+0864|negocio|nm|business, transaction|a base de negocios ilícitos acumuló una fortuna importante 
+0865|letra|nf|letter, handwriting, lyrics|la letra es un jeroglífico
+0866|peor|adv|worse|cada día que pasa veo peor y escribo menos
+0867|sentimiento|nm|feeling, sentiment|se molesta, hay en ella un sentimiento de frustración 
+0868|conducir|v|to lead, drive|el mismo camino que nos condujo a ese lugar 
+0869|completamente|adv|completely|me olvidé completamente de mí misma
+0870|firmar|v|to sign|acabamos de firmar una carta de protesta
+0871|solución|nf|solution, answer|no encontraría la solución a mis problemas
+0872|mío|pron|mine|mozo, otro café igual al mío
+0873|comida|nf|food, meal|en los restaurantes no se servía comida antes de las ocho 
+0874|impresión|nf|impression, printing|me da la impresión de que no quiere enterarse 
+0875|plano|nm|plane, map, level|A., en el plano sentimental, se mueve muy seguro de dos cosas 
+0876|intención|nf|intention|comunicó a los dueños su intención de comprarles el piso 
+0877|ritmo|nm|rhythm|es un ritmo de vida y un sistema de vida muy distinto 
+0878|verde|adj|green|los vegetales de hoja verde, como las espinacas y la col 
+0879|exacto|adj|exact, faithful, true|en ese momento, en ese exacto momento, no antes ni después 
+0880|respetar|v|to respect|hay que respetar a las personas mayores
+0881|banco|nm|(financial) bank, bench|el Banco de México garantiza una parte del crédito 
+0882|inmediatamente|adv|immediately|pensé inmediatamente en ti
+0883|sostener|v|to support, hold up|subimos a la plataforma que sostenía la cama
+0884|piel|nf|skin, hide, fur|tenía la piel muy sucia; me desnudé y lo llevé al baño 
+0885|delante|adv|(in) front (of), ahead|el caballo marchaba delante y a la derecha
+0886|religioso|adj|religious|un sentimiento religioso que expresa admiración 
+0887|advertir|v|to notice, warn|una compañera le advirtió que aquello era una falsificación 
+0888|oscuro|adj|dark, obscure|estás en el punto más oscuro del bosque
+0889|control|nm|control|y esto, sin ese control, se ha vuelto salvaje
+0890|investigación|nf|investigation|están dedicados a la investigación financiera y de propiedades 
+0891|transformar|v|to transform, change|la política básica fue transformar China en una sociedad socialista 
+0892|conversación|nf|conversation|quería continuar la conversación sobre la pintura y el arte 
+0893|verano|nm|summer|esperan el calor del verano que cada día parecía más lejano 
+0894|respeto|nm|respect, regard|hasta ese momento sentía un respeto muy grande hacia él 
+0895|norte|nm|north|creo que en el norte y el centro del país se ha logrado eso 
+0896|mediante|prep|by means of|se salvó mediante el remedio ése
+0897|cuarto|adj|fourth|un veinticinco por ciento, la cuarta parte, está cubierta de bosques 
+0898|tradición|nf|tradition|deberías ser fiel a la tradición religiosa
+0899|bastar|v|to be sufficient|una sola lección le bastó para conocerlo todo
+0900|población|nf|population|hay una población de 75 mil personas
+0901|pareja|nf|couple, pair|una pareja de enamorados se besa
+0902|pasado|nm|past|Ud. sólo piensa en el pasado. // Si, pero es tan lindo recordar 
+0903|diario|nm|newspaper|las noticias que lee en el diario acerca de lo que pasa en Inglaterra 
+0904|azul|adj|blue|y los colores básicos: azul, amarillo, verde y rojo
+0905|mencionar|v|to mention, cite|se deben mencionar algunos detalles más
+0906|generación|nf|generation|está criando la nueva generación de hijos
+0907|frío|adj|cold|las temperaturas son aún más frías durante el invierno 
+0908|visión|nf|vision|teníamos sobre todo una misma visión de la vida
+0909|concreto|aj|concrete, real|de buscar una solución al problema concreto de las minas 
+0910|plantear|v|to propose, present|quisiéramos aquí plantear la cuestión
+0911|probar|v|to test, prove, try|metió la mano adentro para probar la temperatura 
+0912|derecho|adj|right, straight|¿dónde está? // Derecho por el corredor, a la derecha 
+0913|peligro|nm|danger, menace|ante el peligro de la muerte, Douglas recordó toda su vida 
+0914|oro|nm|gold|no faltan los lingotes, barras y monedas de oro y plata 
+0915|justo|adv|just|está colocada en el medio - justo frente a la silla
+0916|manejar|v|to drive, handle|quiero manejar un auto
+0917|vino|nm|wine|para acompañar un plato así, tiene que ser vino tinto 
+0918|unir|v|to unite, join (together)|lo que Dios ha unido no lo separe el hombre
+0919|caminar|v|to walk|sólo debía caminar dos cuadras para llegar a la terminal 
+0920|coincidir|v|to coincide, agree|se entienden, a pesar de no coincidir siempre en sus opiniones 
+0921|etapa|nf|stage, period|entró en la etapa final de su enfermedad
+0922|sencillo|adj|simple, plain, easy|¿es más difícil o más sencillo que antes?
+0923|silencio|nm|silence|Castro guarda silencio en cuanto al número de encarcelados 
+0924|salvo|adv|except (for), but|todo ha envejecido salvo esa mirada
+0925|llenar|v|to fill|un espacio se puede llenar con muchos elementos bonitos 
+0926|dominar|v|to dominate, master|dominaba tres lenguas: el griego, el latín, y el osco 
+0927|determinado|adj|determined, fixed|se levantó con aire determinado para marcharse 
+0928|artista|nc|artist, performer|el artista pintó también retablos de madera de gran formato 
+0929|medir|v|to measure|la Colonia Güell mide precisamente 44 metros de alto 
+0930|labor|nf|labor, work, task|se habla mucho de su labor en el terreno del psicoanálisis 
+0931|perdido|adj|lost|no todo estaba perdido y era posible conseguir un empleo 
+0932|cielo|nm|sky, heaven, ceiling|cree ver en el cielo una nube negra
+0933|práctica|nf|practice, skill|necesitas poner en práctica tus ideas
+0934|límite|nm|limit|habían llegado al límite de su paciencia
+0935|masa|nf|mass, dough, bulk, crowd|para determinar la masa atómica de diversos elementos 
+0936|directamente|adv|directly, straight away|se metió directamente en la pelea
+0937|atravesar|v|to cross|para llegar al monte tenía que atravesar la pista caminando 
+0938|formación|nf|formation, education|¿cuál ha sido su formación académica?
+0939|perro|nm|dog|el gato, el perro y los pollos fueron domesticados muy pronto 
+0940|izquierda|nf|left|los miró de arriba abajo y de izquierda a derecha 
+0941|destacar|v|to emphasize, stand out|quisiera destacar los puntos siguientes
+0942|cercano|adj|near|su lugar de trabajo se encontraba cercano a la residencia 
+0943|cuarenta|num|forty|era una mujer de unos cuarenta años
+0944|pronunciar|v|to pronounce|su manera de pronunciar el castellano
+0945|distinguir|v|to distinguish|el desdichado no distingue entre lo cierto y lo ilusorio 
+0946|energía|nf|energy, power|no encontró ni las palabras ni la energía para hacerlo 
+0947|confianza|nf|confidence, trust|hay una gran confianza entre los alumnos y la profesora 
+0948|adecuado|adj|adequate, suitable|buscó el lugar adecuado donde plantar su nido
+0949|introducir|v|to introduce, bring in|ahorita se pueden introducir las nuevas tecnologías 
+0950|flor|nf|flower|el clavel y las rosas, tulipán y ¿cuál era la otra flor?
+0951|esposa|nf|wife|la delicada solicitud de Elena, su esposa y compañera permanente 
+0952|comunicar|v|to communicate|la novela sirve más bien para comunicar ideas 
+0953|italiano|adj|Italian|tantas ciudades italianas que son casi como un museo 
+0954|invitar|v|to invite|le voy a invitar con un café caliente
+0955|responsable|adj|responsible|siempre me sentí responsable de nuestra separación 
+0956|feliz|adj|happy, fortunate|con un aplausito cortés, y una sonrisita feliz
+0957|revolución|nf|revolution|los progresos en la ciencia y la revolución de las comunicaciones 
+0958|instalar|v|to install|trataba de instalar un columpio para los niños 
+0959|tardar|v|to delay, take long|el tren se tardó doce horas en llegar a Roma
+0960|mejorar|v|to improve, get better|no va a mejorar, R. suspiró con aire de resignación 
+0961|maestro|nm|teacher (m), master|en términos académicos, soy maestro de Humanismo en la Universidad 
+0962|emplear|v|to employ|el pintor necesita emplear sus talentos en sus obras 
+0963|alemán|adj|German|la firma de electricidad alemana AEG, en Berlín 
+0964|convenir|v|to be agreeable, be convenient|no conviene que me vean en un consultorio de esos 
+0965|recuperar|v|to recuperate, recover|pareció recuperar parte de sus menguadas fuerzas 
+0966|fenómeno|nm|phenomenon|el muchacho debe de ser un fenómeno para recuperarse tan pronto 
+0967|presión|nf|pressure|está ejerciendo mucha presión para que no lo publiquemos 
+0968|dado|adj|given|todos ellos, en un momento dado, fueron rivales 
+0969|alumno|nm|student, pupil|yo fui muy buen alumno en la matemática
+0970|teoría|nf|theory|un artículo acerca de la fusión nuclear o la Teoría de la Relatividad 
+0971|probablemente|adv|probably|probablemente después de misa se viene a cocinar 
+0972|tono|nm|tone|habla de forma pausada y en tono bajo
+0973|salud|nf|health|ayudan a elevar el nivel de salud a través de la alimentación 
+0974|definir|v|to define|la suma de los actos que define una vida
+0975|superar|v|to overcome, surpass|el sistema inmunológico supera a la bacteria 
+0976|señora|nf|Mrs., lady, madam|Señora Shoemaker, ¿cuándo descubrió este cometa? 
+0977|exactamente|adv|exactly|quedan exactamente dos segundos y seis décimas 
+0978|afirmar|v|to assert, affirm|afirmó que E. pertenecía a una horrible clase de hombre 
+0979|diario|adj|daily|no es como . . . cualquier cosa de la vida diaria 
+0980|histórico|adj|historical|el único manuscrito histórico con miniaturas del mundo bizantino 
+0981|debido|adj|debido a: due to|una infección intestinal, debido a la falta de higiene 
+0982|vía|nf|por vía: by means; road, way|esa información que ha venido a esta Cámara por vía periodística 
+0983|interpretar|v|to interpret|la expresión en su rostro era difícil de interpretar 
+0984|alma|nf|(el) soul|en el fondo de su alma se encendió una llamarada de rebelión 
+0985|admitir|v|to admit|ella no quería admitir su culpabilidad
+0986|identificar|v|to identify|permitió identificar con precisión las causas de la contaminación 
+0987|madera|nf|wood|se exporta madera de pino del sur de Brasil
+0988|fiesta|nf|party, feast|¿le gustaría celebrar su fiesta de cumpleaños?
+0989|calor|nm|heat, warmth|era verano, el piso todavía estaba caliente; hacía calor 
+0990|mínimo|adj|minimum|son alumnas que no tienen el mínimo interés por aprender 
+0991|afectar|v|to affect|los déficits fiscales sí pueden afectar la economía 
+0992|hogar|nm|home, hearth|el niño tiene derecho a un hogar y a un padre, a un apellido 
+0993|mente|nf|mind|tenía una mente analítica y científica
+0994|seguramente|adv|surely, securely|se sentó a mi lado, seguramente para darme confianza 
+0995|preocupación|nf|worry, concern|su rostro expresaba preocupación y tristeza
+0996|reducir|v|to reduce|el importe del maíz se reducía a cero
+0997|concepto|nm|concept|hoy tenemos un concepto muy museístico de la obra de arte 
+0998|montar|v|to ride, mount, assemble|vieron que yo montaba bien a caballo
+0999|teléfono|nm|phone, telephone|la llamo por teléfono y me dice que recibió el mensaje 
 1000|hoja|nf|sheet, leaf|se da tiempo para escribir en una hoja de papel 
 1001|parar|v|to stop (moving)|me parece que se le paró el reloj
 1002|doble|adj|double|como personaje solitario investido de doble personalidad 
