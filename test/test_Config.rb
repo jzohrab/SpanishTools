@@ -12,6 +12,7 @@ class Test_Config < Test::Unit::TestCase
   def test_read_is_ok()
     assert_equal('es-ES', @c.language_code)
     assert_equal(["Conchita", "Lucia", "Enrique"], @c.speaker_ids)
+    assert_equal('/some/existing/dir', @c.output_dir)
   end
 
 end

@@ -16,3 +16,6 @@
     - Conchita
     - Lucia
     - Enrique
+
+  # output directory, for some operations
+  :output_dir: /some/existing/dir

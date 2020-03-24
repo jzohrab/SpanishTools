@@ -25,4 +25,10 @@ class Config
     return s[rand(s.size)]
   end
 
+  def output_dir()
+    ret = @config[:polly][:output_dir]
+    raise 'missing key polly/output_dir?' if ret.nil?
+    ret
+  end
+
 end
