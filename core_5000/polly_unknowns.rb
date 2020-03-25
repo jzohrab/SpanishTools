@@ -1,3 +1,7 @@
+# Sample call:
+#    $ ruby polly_unknowns.rb 501 600
+# Gets entries from 501 to 600
+
 # Get all of the unknowns,
 # generate polly files and play them, generating a file snippet
 # to substitute in the unknowns.txt.
@@ -7,10 +11,17 @@ require_relative 'get_words'
 require_relative '../lib/Polly'
 require_relative '../lib/Config'
 
-config = Config.new()
-voices = config.speaker_ids()
+from = 0
+from = ARGV[0].to_i if ARGV.size > 0
+to = 10000
+to = ARGV[1].to_i if ARGV.size > 1
 
-entries = Core5000::get_entries().sort { |a, b| a[:rank] <=> b[:rank] }
+puts "Getting words from #{from} to #{to}"
+
+entries =
+  Core5000::get_entries().
+    sort { |a, b| a[:rank] <=> b[:rank] }.
+    select { |e| r = e[:rank].to_i; r >= from && r <= to }
 
 def play_file(f)
   cmd = "afplay #{f}"
@@ -18,6 +29,7 @@ def play_file(f)
   `#{cmd}`
 end
 
+config = Config.new()
 outfile = File.join(config.output_dir, "replace_unknowns.txt")
 File.delete(outfile) if File.exist?(outfile)
 
