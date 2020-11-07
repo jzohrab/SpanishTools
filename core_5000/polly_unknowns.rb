@@ -16,6 +16,8 @@ from = ARGV[0].to_i if ARGV.size > 0
 to = 10000
 to = ARGV[1].to_i if ARGV.size > 1
 
+STDIN.flush
+
 puts "Getting words from #{from} to #{to}"
 
 entries =
@@ -44,7 +46,7 @@ entries.each do |e|
   play_file(p)
   
   puts "  Hit RETURN if known, any letter and return if not, q and return to QUIT"
-  s = gets().strip
+  s = STDIN.gets().strip
   break if s == 'q'
   comment = '# '
   comment = '' if s != ''
