@@ -5,7 +5,7 @@
 require 'aws-sdk'
 
 
-class SpanishPolly
+class Polly
 
   def self.list_voices(lang_code)
     args = {
@@ -85,10 +85,10 @@ if __FILE__ == $0
     print "Enter language code (e.g., es-ES, fr-FR): "
     lang_code = STDIN.gets().strip()
     puts "Listing voices for #{lang_code}:"
-    puts SpanishPolly.list_voices(lang_code).inspect
+    puts Polly.list_voices(lang_code).inspect
   when 'test' then
     puts "Generating sample files:"
-    SpanishPolly.create_mp3("¿Hola, qué tal?", "Enrique", "testing.mp3")
+    Polly.create_mp3("¿Hola, qué tal?", "Enrique", "testing.mp3")
     data = [
       { text: "Tengo un gato negro.", voice_id: "Enrique", filename: "1_gato.mp3" },
       { text: "I have a black cat.", voice_id: "Matthew", filename: "1_cat.mp3" }
@@ -97,7 +97,7 @@ if __FILE__ == $0
     voices.each do |v|
       data << { text: "#{v} says I have a black cat.", voice_id: v, filename: "1_cat_#{v}.mp3" }
     end
-    SpanishPolly.bulk_create_mp3(data)
+    Polly.bulk_create_mp3(data)
   else
     puts "Unknown option, 'voices' or 'test' only"
   end

@@ -98,7 +98,7 @@ voicedata = data.map do |d|
   }
 end
 # puts voicedata
-SpanishPolly.bulk_create_mp3(voicedata)
+Polly.bulk_create_mp3(voicedata)
 
 puts
 puts "Audio files generated (suffixed with random token #{random_token})."

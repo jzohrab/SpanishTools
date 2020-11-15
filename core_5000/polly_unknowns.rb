@@ -41,7 +41,7 @@ entries.each do |e|
 
   text = "#{e[:word]}.  #{e[:sample]}."
   p = File.join(config.output_dir, "#{e[:word]}_#{e[:rank]}.mp3")
-  SpanishPolly.create_mp3(text, 'Conchita', p) unless File.exist?(p)
+  Polly.create_mp3(text, 'Conchita', p) unless File.exist?(p)
   puts "  #{text}"
   play_file(p)
   
