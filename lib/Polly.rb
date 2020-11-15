@@ -91,9 +91,12 @@ if __FILE__ == $0
     SpanishPolly.create_mp3("¿Hola, qué tal?", "Enrique", "testing.mp3")
     data = [
       { text: "Tengo un gato negro.", voice_id: "Enrique", filename: "1_gato.mp3" },
-      { text: "¡Tengo una gata roja!", voice_id: "Lucia", filename: "1_gata.mp3" },
-      { text: "Tengo que ir al baño.", voice_id: "Enrique", filename: "1_bano.mp3" }
+      { text: "I have a black cat.", voice_id: "Matthew", filename: "1_cat.mp3" }
     ]
+    voices = 'Salli,Matthew,Joey'.split(',')  # There are other voices.
+    voices.each do |v|
+      data << { text: "#{v} says I have a black cat.", voice_id: v, filename: "1_cat_#{v}.mp3" }
+    end
     SpanishPolly.bulk_create_mp3(data)
   else
     puts "Unknown option, 'voices' or 'test' only"
