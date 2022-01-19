@@ -46,7 +46,7 @@ class TheFreeDictionary
 
     definitions.map! do |d|
       extract_definition_and_illustration(d)
-    end
+    end.flatten!
 
     return {
       :root => root,
@@ -86,13 +86,15 @@ class TheFreeDictionary
     definition.gsub!(/\<b\>\d+\<\/b\>./, '')
     definition.gsub!(/\<span class="Syn"\>(.*?)\<\/span\>/, "(\\1)")
     definition.gsub!(' )', ')')  # Hack to fix Syn span gsub.
-    illustration = d_ex_struct.scan(ill_re).join('; ')
+    illustrations = d_ex_struct.scan(ill_re)
     # puts illustration
 
-    return {
-      :definition => strip_html_tags(definition).gsub(/^\d+\.\s*/, ''),
-      :example => strip_html_tags(illustration)
-    }
+    return illustrations.map do |illustration|
+      {
+        :definition => strip_html_tags(definition).gsub(/^\d+\.\s*/, ''),
+        :example => strip_html_tags(illustration)
+      }
+    end
   end
   
 end
