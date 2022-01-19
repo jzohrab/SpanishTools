@@ -13,7 +13,7 @@ STDIN.each_line do |lin|
   next if word == ''
 
   result = f.lookup(word)
-  # puts result.inspect
+  # puts JSON.pretty_generate(result)
 
   puts "\n\n"
   puts result[:root]
@@ -26,7 +26,8 @@ STDIN.each_line do |lin|
       select { |d| !d.nil? && d != '' }.
       sort { |a, b| a.length <=> b.length }.
       map { |e| "#{e.capitalize}" }.
-      map { |e| e =~ /\.$/ ? e : "#{e}." }
+      map { |e| e =~ /\.$/ ? e : "#{e}." }.
+      uniq
 
   puts examples
 end
