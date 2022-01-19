@@ -34,8 +34,8 @@ class TheFreeDictionary
     root = CGI.unescapeHTML(strip_html_tags(root)) unless root.nil?
 
     definitions = body.scan(/\<div class="ds-single">.*?\<\/div\>/)
-    # puts definitions.inspect
     definitions += body.scan(/\<div class="ds-list">.*?\<\/div\>/)
+    definitions += body.scan(/\<div class="sds-list">.*?\<\/div\>/)
     # puts definitions.inspect
 
     # FreeDict returns some entries as <strong> entries.  E.g.,
@@ -79,12 +79,15 @@ class TheFreeDictionary
   end
   
   def extract_definition_and_illustration(d_ex_struct)
+    # puts '-' * 5
+    # puts d_ex_struct
     ill_re = /\<span class="illustration"\>.*?\<\/span\>/
     definition = d_ex_struct.gsub(ill_re, '')
     definition.gsub!(/\<b\>\d+\<\/b\>./, '')
     definition.gsub!(/\<span class="Syn"\>(.*?)\<\/span\>/, "(\\1)")
     definition.gsub!(' )', ')')  # Hack to fix Syn span gsub.
-    illustration = d_ex_struct.scan(ill_re).last
+    illustration = d_ex_struct.scan(ill_re).join('; ')
+    # puts illustration
 
     return {
       :definition => strip_html_tags(definition).gsub(/^\d+\.\s*/, ''),

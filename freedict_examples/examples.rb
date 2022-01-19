@@ -23,7 +23,7 @@ STDIN.each_line do |lin|
   end
   examples =
     examples.
-      select { |d| !d.nil? }.
+      select { |d| !d.nil? && d != '' }.
       sort { |a, b| a.length <=> b.length }.
       map { |e| "#{e.capitalize}" }.
       map { |e| e =~ /\.$/ ? e : "#{e}." }
